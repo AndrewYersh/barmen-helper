@@ -1,0 +1,2401 @@
+﻿cocktail_id,variation_id,position,ingredient,amount,unit
+old_fashioned,,1,Бурбон или ржаной виски,45,мл
+old_fashioned,,2,Сахарный кубик,1,шт
+old_fashioned,,3,Ангостура,2,дэш
+old_fashioned,,4,Вода,1,б.л.
+manhattan,,1,Ржаной виски,50,мл
+manhattan,,2,Красный вермут,20,мл
+manhattan,,3,Ангостура,1,дэш
+dry_martini,,1,Джин (London Dry),60,мл
+dry_martini,,2,Сухой вермут,10,мл
+negroni,,1,Джин (London Dry),30,мл
+negroni,,2,Кампари,30,мл
+negroni,,3,Красный вермут,30,мл
+boulevardier,,1,Бурбон или ржаной виски,45,мл
+boulevardier,,2,Кампари,30,мл
+boulevardier,,3,Красный вермут,30,мл
+americano,,1,Кампари,30,мл
+americano,,2,Красный вермут,30,мл
+americano,,3,Содовая,60,мл
+sazerac,,1,Ржаной виски или коньяк,50,мл
+sazerac,,2,Абсент (ополаскивание),10,мл
+sazerac,,3,Сахарный кубик,1,шт
+sazerac,,4,Пейшо биттер,2,дэш
+vieux_carre,,1,Ржаной виски,30,мл
+vieux_carre,,2,Коньяк,30,мл
+vieux_carre,,3,Красный вермут,30,мл
+vieux_carre,,4,Бенедиктин,1,б.л.
+vieux_carre,,5,Пейшо биттер,2,дэш
+vieux_carre,,6,Ангостура,2,дэш
+martinez,,1,Джин (Old Tom или London Dry),45,мл
+martinez,,2,Красный вермут,45,мл
+martinez,,3,Мараскино,1,б.л.
+martinez,,4,Апельсиновый биттер,2,дэш
+rob_roy,,1,Скотч (купажированный),50,мл
+rob_roy,,2,Красный вермут,25,мл
+rob_roy,,3,Ангостура,1,дэш
+rusty_nail,,1,Скотч (купажированный),45,мл
+rusty_nail,,2,Драмбуи,25,мл
+godfather,,1,Скотч (купажированный),45,мл
+godfather,,2,Амаретто,20,мл
+stinger,,1,Коньяк,50,мл
+stinger,,2,Белый мятный ликёр,20,мл
+whiskey_sour,,1,Бурбон,45,мл
+whiskey_sour,,2,Сок лимона,25,мл
+whiskey_sour,,3,Сахарный сироп,20,мл
+whiskey_sour,,4,Яичный белок (опц.),20,мл
+whiskey_sour,,5,Ангостура (опц.),2,дэш
+daiquiri,,1,Белый ром,60,мл
+daiquiri,,2,Сок лайма,20,мл
+daiquiri,,3,Сахарный сироп,15,мл
+margarita,,1,Текила бланко,50,мл
+margarita,,2,Трипл-сек (Куантро),20,мл
+margarita,,3,Сок лайма,15,мл
+margarita,,4,Соль для ободка,,по вкусу
+tommys_margarita,,1,Текила бланко (100% агава),60,мл
+tommys_margarita,,2,Сок лайма,30,мл
+tommys_margarita,,3,Сироп агавы,15,мл
+sidecar,,1,Коньяк,50,мл
+sidecar,,2,Трипл-сек (Куантро),20,мл
+sidecar,,3,Сок лимона,20,мл
+white_lady,,1,Джин (London Dry),40,мл
+white_lady,,2,Трипл-сек (Куантро),30,мл
+white_lady,,3,Сок лимона,20,мл
+white_lady,,4,Яичный белок (опц.),15,мл
+pisco_sour,,1,Писко,60,мл
+pisco_sour,,2,Сок лайма,30,мл
+pisco_sour,,3,Сахарный сироп,20,мл
+pisco_sour,,4,Яичный белок,1,шт
+pisco_sour,,5,Ангостура,3,дэш
+amaretto_sour,,1,Амаретто,45,мл
+amaretto_sour,,2,Бурбон (опц.),15,мл
+amaretto_sour,,3,Сок лимона,30,мл
+amaretto_sour,,4,Сахарный сироп,7.5,мл
+amaretto_sour,,5,Яичный белок,15,мл
+clover_club,,1,Джин (London Dry),45,мл
+clover_club,,2,Сок лимона,15,мл
+clover_club,,3,Малиновый сироп,15,мл
+clover_club,,4,Яичный белок,15,мл
+gimlet,,1,Джин (London Dry),60,мл
+gimlet,,2,Сок лайма,20,мл
+gimlet,,3,Сахарный сироп,15,мл
+bees_knees,,1,Джин (London Dry),50,мл
+bees_knees,,2,Сок лимона,20,мл
+bees_knees,,3,Медовый сироп,20,мл
+gold_rush,,1,Бурбон,60,мл
+gold_rush,,2,Сок лимона,25,мл
+gold_rush,,3,Медовый сироп,20,мл
+penicillin,,1,Скотч (купажированный),60,мл
+penicillin,,2,Сок лимона,22.5,мл
+penicillin,,3,Медово-имбирный сироп,22.5,мл
+penicillin,,4,Торфяной скотч (Айла),7.5,мл
+last_word,,1,Джин (London Dry),22.5,мл
+last_word,,2,Зелёный шартрез,22.5,мл
+last_word,,3,Мараскино,22.5,мл
+last_word,,4,Сок лайма,22.5,мл
+paper_plane,,1,Бурбон,22.5,мл
+paper_plane,,2,Апероль,22.5,мл
+paper_plane,,3,Амаро Нонино,22.5,мл
+paper_plane,,4,Сок лимона,22.5,мл
+naked_and_famous,,1,Мескаль,22.5,мл
+naked_and_famous,,2,Жёлтый шартрез,22.5,мл
+naked_and_famous,,3,Апероль,22.5,мл
+naked_and_famous,,4,Сок лайма,22.5,мл
+aviation,,1,Джин (London Dry),45,мл
+aviation,,2,Мараскино,15,мл
+aviation,,3,Сок лимона,15,мл
+aviation,,4,Фиалковый ликёр (crème de violette),1,б.л.
+corpse_reviver_2,,1,Джин (London Dry),22.5,мл
+corpse_reviver_2,,2,Лилле Блан,22.5,мл
+corpse_reviver_2,,3,Трипл-сек (Куантро),22.5,мл
+corpse_reviver_2,,4,Сок лимона,22.5,мл
+corpse_reviver_2,,5,Абсент,1,дэш
+hanky_panky,,1,Джин (London Dry),45,мл
+hanky_panky,,2,Красный вермут,45,мл
+hanky_panky,,3,Фернет-Бранка,7.5,мл
+bijou,,1,Джин (London Dry),30,мл
+bijou,,2,Красный вермут,30,мл
+bijou,,3,Зелёный шартрез,30,мл
+bijou,,4,Апельсиновый биттер,1,дэш
+vesper,,1,Джин (London Dry),45,мл
+vesper,,2,Водка,15,мл
+vesper,,3,Лилле Блан,7.5,мл
+gin_fizz,,1,Джин (London Dry),45,мл
+gin_fizz,,2,Сок лимона,30,мл
+gin_fizz,,3,Сахарный сироп,10,мл
+gin_fizz,,4,Содовая,80,мл
+ramos_gin_fizz,,1,Джин (London Dry),45,мл
+ramos_gin_fizz,,2,Сок лимона,15,мл
+ramos_gin_fizz,,3,Сок лайма,15,мл
+ramos_gin_fizz,,4,Сахарный сироп,30,мл
+ramos_gin_fizz,,5,Сливки,30,мл
+ramos_gin_fizz,,6,Яичный белок,30,мл
+ramos_gin_fizz,,7,Вода апельсинового цвета,3,дэш
+ramos_gin_fizz,,8,Содовая,60,мл
+tom_collins,,1,Джин (London Dry),45,мл
+tom_collins,,2,Сок лимона,30,мл
+tom_collins,,3,Сахарный сироп,15,мл
+tom_collins,,4,Содовая,60,мл
+gin_and_tonic,,1,Джин (London Dry),50,мл
+gin_and_tonic,,2,Тоник,150,мл
+french_75,,1,Джин (London Dry),30,мл
+french_75,,2,Сок лимона,15,мл
+french_75,,3,Сахарный сироп,15,мл
+french_75,,4,Шампанское,60,мл
+southside,,1,Джин (London Dry),60,мл
+southside,,2,Сок лайма,30,мл
+southside,,3,Сахарный сироп,15,мл
+southside,,4,Листья мяты,6,шт
+bramble,,1,Джин (London Dry),50,мл
+bramble,,2,Сок лимона,25,мл
+bramble,,3,Сахарный сироп,12.5,мл
+bramble,,4,Ежевичный ликёр (crème de mûre),15,мл
+gin_basil_smash,,1,Джин (London Dry),60,мл
+gin_basil_smash,,2,Сок лимона,25,мл
+gin_basil_smash,,3,Сахарный сироп,20,мл
+gin_basil_smash,,4,Листья базилика,10,шт
+singapore_sling,,1,Джин (London Dry),30,мл
+singapore_sling,,2,Черри-бренди (вишнёвый ликёр),15,мл
+singapore_sling,,3,Куантро,7.5,мл
+singapore_sling,,4,Бенедиктин,7.5,мл
+singapore_sling,,5,Ананасовый сок,120,мл
+singapore_sling,,6,Сок лайма,15,мл
+singapore_sling,,7,Гренадин,10,мл
+singapore_sling,,8,Ангостура,1,дэш
+pegu_club,,1,Джин (London Dry),60,мл
+pegu_club,,2,Апельсиновый кюрасао,22.5,мл
+pegu_club,,3,Сок лайма,15,мл
+pegu_club,,4,Ангостура,1,дэш
+pegu_club,,5,Апельсиновый биттер,1,дэш
+gin_gin_mule,,1,Джин (London Dry),45,мл
+gin_gin_mule,,2,Сок лайма,22.5,мл
+gin_gin_mule,,3,Сахарный сироп,22.5,мл
+gin_gin_mule,,4,Листья мяты,6,шт
+gin_gin_mule,,5,Имбирное пиво,30,мл
+mojito,,1,Белый ром,45,мл
+mojito,,2,Сок лайма,20,мл
+mojito,,3,Тростниковый сахар,2,ч.л.
+mojito,,4,Листья мяты,6,шт
+mojito,,5,Содовая,60,мл
+cuba_libre,,1,Белый ром,50,мл
+cuba_libre,,2,Кола,120,мл
+cuba_libre,,3,Сок лайма,10,мл
+dark_n_stormy,,1,Тёмный ром,60,мл
+dark_n_stormy,,2,Имбирное пиво,100,мл
+dark_n_stormy,,3,Сок лайма (опц.),10,мл
+mai_tai,,1,Выдержанный ром (ямайский),60,мл
+mai_tai,,2,Сок лайма,22.5,мл
+mai_tai,,3,Апельсиновый кюрасао,15,мл
+mai_tai,,4,Оршад (миндальный сироп),10,мл
+mai_tai,,5,Сахарный сироп,7.5,мл
+zombie,,1,Золотой ром,30,мл
+zombie,,2,Тёмный ямайский ром,30,мл
+zombie,,3,Крепкий ром (overproof),15,мл
+zombie,,4,Сок лайма,20,мл
+zombie,,5,Фалернум,15,мл
+zombie,,6,Грейпфрутовый сок + коричный сироп (Donn's mix),15,мл
+zombie,,7,Гренадин,5,мл
+zombie,,8,Абсент,6,капля
+zombie,,9,Ангостура,1,дэш
+pina_colada,,1,Белый ром,50,мл
+pina_colada,,2,Кокосовые сливки (Coco López),30,мл
+pina_colada,,3,Ананасовый сок,50,мл
+planters_punch,,1,Тёмный ямайский ром,45,мл
+planters_punch,,2,Апельсиновый сок,35,мл
+planters_punch,,3,Ананасовый сок,35,мл
+planters_punch,,4,Сок лимона,20,мл
+planters_punch,,5,Гренадин,10,мл
+planters_punch,,6,Сахарный сироп,10,мл
+planters_punch,,7,Ангостура,3,дэш
+jungle_bird,,1,Тёмный ром (блэкстрэп),45,мл
+jungle_bird,,2,Кампари,22.5,мл
+jungle_bird,,3,Ананасовый сок,45,мл
+jungle_bird,,4,Сок лайма,15,мл
+jungle_bird,,5,Сахарный сироп,15,мл
+painkiller,,1,Тёмный ром (Pusser's),60,мл
+painkiller,,2,Ананасовый сок,120,мл
+painkiller,,3,Апельсиновый сок,30,мл
+painkiller,,4,Кокосовые сливки,30,мл
+painkiller,,5,Мускатный орех,,по вкусу
+hurricane,,1,Белый ром,50,мл
+hurricane,,2,Тёмный ром,50,мл
+hurricane,,3,Сок (или сироп) маракуйи,50,мл
+hurricane,,4,Апельсиновый сок,30,мл
+hurricane,,5,Сок лайма,15,мл
+hurricane,,6,Сахарный сироп,15,мл
+hurricane,,7,Гренадин,1,б.л.
+hemingway_special,,1,Белый ром,60,мл
+hemingway_special,,2,Грейпфрутовый сок,40,мл
+hemingway_special,,3,Мараскино,15,мл
+hemingway_special,,4,Сок лайма,15,мл
+el_presidente,,1,Белый ром,45,мл
+el_presidente,,2,Бланко-вермут,22.5,мл
+el_presidente,,3,Апельсиновый кюрасао,7.5,мл
+el_presidente,,4,Гренадин,1,б.л.
+caipirinha,,1,Кашаса,60,мл
+caipirinha,,2,Лайм,0.5,шт
+caipirinha,,3,Тростниковый сахар,2,ч.л.
+ti_punch,,1,Агриколь-ром (белый),50,мл
+ti_punch,,2,Лайм (кружок с кожурой),1,шт
+ti_punch,,3,Тростниковый сироп,1,б.л.
+canchanchara,,1,Кубинский ром (или агуардиенте),60,мл
+canchanchara,,2,Сок лайма,15,мл
+canchanchara,,3,Мёд,15,мл
+canchanchara,,4,Вода,50,мл
+queens_park_swizzle,,1,Демерара-ром,60,мл
+queens_park_swizzle,,2,Сок лайма,22.5,мл
+queens_park_swizzle,,3,Сироп демерара,15,мл
+queens_park_swizzle,,4,Листья мяты,8,шт
+queens_park_swizzle,,5,Ангостура,4,дэш
+mint_julep,,1,Бурбон,60,мл
+mint_julep,,2,Сахарный сироп,15,мл
+mint_julep,,3,Листья мяты,8,шт
+moscow_mule,,1,Водка,45,мл
+moscow_mule,,2,Имбирное пиво,120,мл
+moscow_mule,,3,Сок лайма,10,мл
+cosmopolitan,,1,Водка-цитрон,40,мл
+cosmopolitan,,2,Куантро,15,мл
+cosmopolitan,,3,Клюквенный сок,30,мл
+cosmopolitan,,4,Сок лайма,15,мл
+bloody_mary,,1,Водка,45,мл
+bloody_mary,,2,Томатный сок,90,мл
+bloody_mary,,3,Сок лимона,15,мл
+bloody_mary,,4,Вустерширский соус,2,дэш
+bloody_mary,,5,Табаско,1,дэш
+bloody_mary,,6,Соль и чёрный перец,,по вкусу
+black_russian,,1,Водка,50,мл
+black_russian,,2,Кофейный ликёр,20,мл
+white_russian,,1,Водка,50,мл
+white_russian,,2,Кофейный ликёр,20,мл
+white_russian,,3,Сливки,30,мл
+espresso_martini,,1,Водка,50,мл
+espresso_martini,,2,Кофейный ликёр,15,мл
+espresso_martini,,3,Свежий эспрессо,30,мл
+espresso_martini,,4,Сахарный сироп,10,мл
+pornstar_martini,,1,Ванильная водка,40,мл
+pornstar_martini,,2,Ликёр маракуйи (Passoã),15,мл
+pornstar_martini,,3,Пюре маракуйи,30,мл
+pornstar_martini,,4,Сок лайма,15,мл
+pornstar_martini,,5,Ванильный сироп,10,мл
+pornstar_martini,,6,Просекко (отдельно),60,мл
+french_martini,,1,Водка,45,мл
+french_martini,,2,Малиновый ликёр (Chambord),15,мл
+french_martini,,3,Ананасовый сок,45,мл
+sex_on_the_beach,,1,Водка,40,мл
+sex_on_the_beach,,2,Персиковый ликёр (шнапс),20,мл
+sex_on_the_beach,,3,Апельсиновый сок,40,мл
+sex_on_the_beach,,4,Клюквенный сок,40,мл
+sea_breeze,,1,Водка,40,мл
+sea_breeze,,2,Клюквенный сок,120,мл
+sea_breeze,,3,Грейпфрутовый сок,30,мл
+kamikaze,,1,Водка,30,мл
+kamikaze,,2,Трипл-сек,30,мл
+kamikaze,,3,Сок лайма,30,мл
+lemon_drop_martini,,1,Водка (цитрусовая),45,мл
+lemon_drop_martini,,2,Трипл-сек,15,мл
+lemon_drop_martini,,3,Сок лимона,25,мл
+lemon_drop_martini,,4,Сахарный сироп,10,мл
+blue_lagoon,,1,Водка,40,мл
+blue_lagoon,,2,Блю кюрасао,20,мл
+blue_lagoon,,3,Лимонад (спрайт),120,мл
+long_island_iced_tea,,1,Водка,15,мл
+long_island_iced_tea,,2,Джин (London Dry),15,мл
+long_island_iced_tea,,3,Белый ром,15,мл
+long_island_iced_tea,,4,Текила бланко,15,мл
+long_island_iced_tea,,5,Трипл-сек,15,мл
+long_island_iced_tea,,6,Сок лимона,25,мл
+long_island_iced_tea,,7,Сахарный сироп,30,мл
+long_island_iced_tea,,8,Кола,,долить
+tequila_sunrise,,1,Текила бланко,45,мл
+tequila_sunrise,,2,Апельсиновый сок,90,мл
+tequila_sunrise,,3,Гренадин,15,мл
+paloma,,1,Текила бланко,50,мл
+paloma,,2,Грейпфрутовая газировка,100,мл
+paloma,,3,Сок лайма,10,мл
+paloma,,4,Соль,1,щепотка
+el_diablo,,1,Текила репосадо,45,мл
+el_diablo,,2,Ликёр кассис (crème de cassis),15,мл
+el_diablo,,3,Сок лайма,15,мл
+el_diablo,,4,Имбирное пиво,60,мл
+oaxaca_old_fashioned,,1,Текила репосадо,45,мл
+oaxaca_old_fashioned,,2,Мескаль,15,мл
+oaxaca_old_fashioned,,3,Сироп агавы,1,б.л.
+oaxaca_old_fashioned,,4,Ангостура,2,дэш
+michelada,,1,Светлое пиво (лагер),330,мл
+michelada,,2,Сок лайма,30,мл
+michelada,,3,Вустерширский соус,2,дэш
+michelada,,4,Острый соус,2,дэш
+michelada,,5,Соевый соус или Maggi,1,дэш
+michelada,,6,Соль и чили для ободка,,по вкусу
+aperol_spritz,,1,Просекко,90,мл
+aperol_spritz,,2,Апероль,60,мл
+aperol_spritz,,3,Содовая,30,мл
+hugo,,1,Просекко,120,мл
+hugo,,2,Сироп бузины,20,мл
+hugo,,3,Содовая,30,мл
+hugo,,4,Листья мяты,6,шт
+hugo,,5,Сок лайма,10,мл
+negroni_sbagliato,,1,Кампари,30,мл
+negroni_sbagliato,,2,Красный вермут,30,мл
+negroni_sbagliato,,3,Просекко,30,мл
+garibaldi,,1,Кампари,45,мл
+garibaldi,,2,Свежевыжатый апельсиновый сок,120,мл
+bellini,,1,Пюре белого персика,50,мл
+bellini,,2,Просекко,100,мл
+mimosa,,1,Апельсиновый сок,75,мл
+mimosa,,2,Шампанское,75,мл
+kir_royale,,1,Ликёр кассис (crème de cassis),15,мл
+kir_royale,,2,Шампанское,90,мл
+champagne_cocktail,,1,Сахарный кубик,1,шт
+champagne_cocktail,,2,Ангостура,3,дэш
+champagne_cocktail,,3,Коньяк (опц.),10,мл
+champagne_cocktail,,4,Шампанское,90,мл
+death_in_the_afternoon,,1,Абсент,30,мл
+death_in_the_afternoon,,2,Шампанское,120,мл
+air_mail,,1,Золотой ром,45,мл
+air_mail,,2,Сок лайма,15,мл
+air_mail,,3,Медовый сироп,15,мл
+air_mail,,4,Шампанское,60,мл
+russian_spring_punch,,1,Водка,25,мл
+russian_spring_punch,,2,Ликёр кассис (crème de cassis),15,мл
+russian_spring_punch,,3,Сок лимона,25,мл
+russian_spring_punch,,4,Сахарный сироп,10,мл
+russian_spring_punch,,5,Шампанское,,долить
+brandy_alexander,,1,Коньяк,30,мл
+brandy_alexander,,2,Тёмный ликёр какао (crème de cacao),30,мл
+brandy_alexander,,3,Сливки,30,мл
+brandy_alexander,,4,Мускатный орех,,по вкусу
+grasshopper,,1,Зелёный мятный ликёр (crème de menthe),30,мл
+grasshopper,,2,Белый ликёр какао (crème de cacao),30,мл
+grasshopper,,3,Сливки,30,мл
+irish_coffee,,1,Ирландский виски,50,мл
+irish_coffee,,2,Горячий крепкий кофе,120,мл
+irish_coffee,,3,Коричневый сахар,1,ч.л.
+irish_coffee,,4,Слегка взбитые сливки,50,мл
+hot_toddy,,1,Виски (скотч или бурбон),50,мл
+hot_toddy,,2,Мёд,15,мл
+hot_toddy,,3,Сок лимона,15,мл
+hot_toddy,,4,Горячая вода,100,мл
+hot_toddy,,5,Гвоздика / палочка корицы,,по вкусу
+eggnog,,1,Коньяк или выдержанный ром,45,мл
+eggnog,,2,Молоко,60,мл
+eggnog,,3,Сливки,30,мл
+eggnog,,4,Яйцо,1,шт
+eggnog,,5,Сахарный сироп,15,мл
+eggnog,,6,Мускатный орех,,по вкусу
+mulled_wine,,1,Сухое красное вино,200,мл
+mulled_wine,,2,Мёд или сахар,15,мл
+mulled_wine,,3,Апельсин (дольки),2,шт
+mulled_wine,,4,Палочка корицы,1,шт
+mulled_wine,,5,Гвоздика,3,шт
+mulled_wine,,6,Бадьян,1,шт
+b52,,1,Кофейный ликёр,20,мл
+b52,,2,Сливочный ликёр (Baileys),20,мл
+b52,,3,Апельсиновый ликёр (Grand Marnier),20,мл
+horses_neck,,1,Коньяк,40,мл
+horses_neck,,2,Имбирный эль,120,мл
+horses_neck,,3,Ангостура (опц.),2,дэш
+jack_rose,,1,Кальвадос (или эпплджек),50,мл
+jack_rose,,2,Сок лимона,20,мл
+jack_rose,,3,Гренадин,15,мл
+between_the_sheets,,1,Белый ром,30,мл
+between_the_sheets,,2,Коньяк,30,мл
+between_the_sheets,,3,Трипл-сек,30,мл
+between_the_sheets,,4,Сок лимона,20,мл
+mary_pickford,,1,Белый ром,60,мл
+mary_pickford,,2,Ананасовый сок,60,мл
+mary_pickford,,3,Мараскино,10,мл
+mary_pickford,,4,Гренадин,10,мл
+porto_flip,,1,Красный портвейн,45,мл
+porto_flip,,2,Коньяк,15,мл
+porto_flip,,3,Яичный желток,10,мл
+porto_flip,,4,Мускатный орех,,по вкусу
+brandy_crusta,,1,Коньяк,50,мл
+brandy_crusta,,2,Мараскино,7.5,мл
+brandy_crusta,,3,Апельсиновый кюрасао,7.5,мл
+brandy_crusta,,4,Сок лимона,15,мл
+brandy_crusta,,5,Сахарный сироп,1,б.л.
+brandy_crusta,,6,Ангостура,2,дэш
+monkey_gland,,1,Джин (London Dry),50,мл
+monkey_gland,,2,Апельсиновый сок,30,мл
+monkey_gland,,3,Гренадин,2,б.л.
+monkey_gland,,4,Абсент,2,дэш
+fernandito,,1,Фернет-Бранка,50,мл
+fernandito,,2,Кола,150,мл
+sangria,,1,Сухое красное вино,150,мл
+sangria,,2,Бренди,20,мл
+sangria,,3,Апельсиновый сок,30,мл
+sangria,,4,Сахарный сироп,10,мл
+sangria,,5,"Нарезанные фрукты (апельсин, яблоко)",,по вкусу
+sangria,,6,Содовая,30,мл
+trinidad_sour,,1,Ангостура,45,мл
+trinidad_sour,,2,Оршад (миндальный сироп),30,мл
+trinidad_sour,,3,Сок лимона,22.5,мл
+trinidad_sour,,4,Ржаной виски,15,мл
+angel_face,,1,Джин (London Dry),30,мл
+angel_face,,2,Абрикосовый бренди (ликёр),30,мл
+angel_face,,3,Кальвадос,30,мл
+casino,,1,Джин (Old Tom),40,мл
+casino,,2,Мараскино,10,мл
+casino,,3,Сок лимона,10,мл
+casino,,4,Апельсиновый биттер,2,дэш
+paradise,,1,Джин (London Dry),35,мл
+paradise,,2,Абрикосовый бренди (ликёр),20,мл
+paradise,,3,Апельсиновый сок,15,мл
+tuxedo,,1,Джин (Old Tom),30,мл
+tuxedo,,2,Сухой вермут,30,мл
+tuxedo,,3,Мараскино,0.5,б.л.
+tuxedo,,4,Абсент,0.25,б.л.
+tuxedo,,5,Апельсиновый биттер,3,дэш
+french_connection,,1,Коньяк,35,мл
+french_connection,,2,Амаретто,35,мл
+golden_dream,,1,Гальяно,20,мл
+golden_dream,,2,Трипл-сек,20,мл
+golden_dream,,3,Апельсиновый сок,20,мл
+golden_dream,,4,Сливки,10,мл
+cardinale,,1,Джин (London Dry),40,мл
+cardinale,,2,Сухой вермут,20,мл
+cardinale,,3,Кампари,10,мл
+barracuda,,1,Золотой ром,45,мл
+barracuda,,2,Гальяно,15,мл
+barracuda,,3,Ананасовый сок,60,мл
+barracuda,,4,Сок лайма,1,дэш
+barracuda,,5,Просекко,,долить
+chartreuse_swizzle,,1,Зелёный шартрез,45,мл
+chartreuse_swizzle,,2,Фалернум,15,мл
+chartreuse_swizzle,,3,Ананасовый сок,30,мл
+chartreuse_swizzle,,4,Сок лайма,22.5,мл
+illegal,,1,Мескаль,30,мл
+illegal,,2,Белый ром (крепкий),15,мл
+illegal,,3,Фалернум,15,мл
+illegal,,4,Мараскино,1,б.л.
+illegal,,5,Сок лайма,22.5,мл
+illegal,,6,Сахарный сироп,15,мл
+illegal,,7,Яичный белок (опц.),15,мл
+new_york_sour,,1,Бурбон или ржаной виски,60,мл
+new_york_sour,,2,Сок лимона,22.5,мл
+new_york_sour,,3,Сахарный сироп,22.5,мл
+new_york_sour,,4,Яичный белок (опц.),15,мл
+new_york_sour,,5,Сухое красное вино,30,мл
+old_cuban,,1,Выдержанный ром,45,мл
+old_cuban,,2,Сок лайма,22.5,мл
+old_cuban,,3,Сахарный сироп,30,мл
+old_cuban,,4,Листья мяты,6,шт
+old_cuban,,5,Ангостура,2,дэш
+old_cuban,,6,Шампанское,60,мл
+spicy_fifty,,1,Ванильная водка,50,мл
+spicy_fifty,,2,Кордиал (сироп) бузины,15,мл
+spicy_fifty,,3,Сок лайма,15,мл
+spicy_fifty,,4,Медовый сироп,10,мл
+spicy_fifty,,5,Красный перец чили (кольца),2,шт
+suffering_bastard,,1,Джин (London Dry),30,мл
+suffering_bastard,,2,Бренди,30,мл
+suffering_bastard,,3,Сок лайма,15,мл
+suffering_bastard,,4,Ангостура,2,дэш
+suffering_bastard,,5,Имбирное пиво,,долить
+tipperary,,1,Ирландский виски,50,мл
+tipperary,,2,Красный вермут,25,мл
+tipperary,,3,Зелёный шартрез,15,мл
+tipperary,,4,Ангостура,2,дэш
+vento,,1,Белая граппа,45,мл
+vento,,2,Сок лимона,22.5,мл
+vento,,3,Медовый сироп с ромашкой,15,мл
+vento,,4,Яичный белок,10,мл
+yellow_bird,,1,Белый ром,30,мл
+yellow_bird,,2,Гальяно,15,мл
+yellow_bird,,3,Трипл-сек,15,мл
+yellow_bird,,4,Сок лайма,15,мл
+brooklyn,,1,Ржаной виски,60,мл
+brooklyn,,2,Сухой вермут,30,мл
+brooklyn,,3,Мараскино,1,б.л.
+brooklyn,,4,Amer Picon (или амаро),1,б.л.
+old_pal,,1,Ржаной виски,30,мл
+old_pal,,2,Сухой вермут,30,мл
+old_pal,,3,Кампари,30,мл
+toronto,,1,Ржаной виски,60,мл
+toronto,,2,Фернет-Бранка,7.5,мл
+toronto,,3,Сахарный сироп,7.5,мл
+toronto,,4,Ангостура,2,дэш
+ward_eight,,1,Ржаной виски,60,мл
+ward_eight,,2,Сок лимона,20,мл
+ward_eight,,3,Апельсиновый сок,20,мл
+ward_eight,,4,Гренадин,10,мл
+blood_and_sand,,1,Скотч (купажированный),22.5,мл
+blood_and_sand,,2,Черри-бренди (вишнёвый ликёр),22.5,мл
+blood_and_sand,,3,Красный вермут,22.5,мл
+blood_and_sand,,4,Апельсиновый сок,22.5,мл
+bobby_burns,,1,Скотч (купажированный),45,мл
+bobby_burns,,2,Красный вермут,30,мл
+bobby_burns,,3,Бенедиктин,7.5,мл
+remember_the_maine,,1,Ржаной виски,60,мл
+remember_the_maine,,2,Красный вермут,22.5,мл
+remember_the_maine,,3,Черри-бренди (вишнёвый ликёр),7.5,мл
+remember_the_maine,,4,Абсент,0.5,б.л.
+scofflaw,,1,Ржаной виски,45,мл
+scofflaw,,2,Сухой вермут,30,мл
+scofflaw,,3,Сок лимона,22.5,мл
+scofflaw,,4,Гренадин,15,мл
+scofflaw,,5,Апельсиновый биттер,1,дэш
+whiskey_smash,,1,Бурбон,60,мл
+whiskey_smash,,2,Лимон (дольки),0.5,шт
+whiskey_smash,,3,Сахарный сироп,22.5,мл
+whiskey_smash,,4,Листья мяты,8,шт
+mamie_taylor,,1,Скотч (купажированный),60,мл
+mamie_taylor,,2,Сок лайма,22.5,мл
+mamie_taylor,,3,Имбирное пиво,120,мл
+japanese_highball,,1,Японский виски,45,мл
+japanese_highball,,2,Газированная вода (сильно газированная),135,мл
+brown_derby,,1,Бурбон,60,мл
+brown_derby,,2,Грейпфрутовый сок,30,мл
+brown_derby,,3,Медовый сироп,15,мл
+kentucky_mule,,1,Бурбон,50,мл
+kentucky_mule,,2,Имбирное пиво,120,мл
+kentucky_mule,,3,Сок лайма,10,мл
+lions_tail,,1,Бурбон,60,мл
+lions_tail,,2,Ликёр душистого перца (allspice dram),15,мл
+lions_tail,,3,Сок лайма,15,мл
+lions_tail,,4,Сахарный сироп,7.5,мл
+lions_tail,,5,Ангостура,2,дэш
+black_manhattan,,1,Ржаной виски,60,мл
+black_manhattan,,2,Амаро Аверна,30,мл
+black_manhattan,,3,Ангостура,1,дэш
+black_manhattan,,4,Апельсиновый биттер,1,дэш
+final_ward,,1,Ржаной виски,22.5,мл
+final_ward,,2,Зелёный шартрез,22.5,мл
+final_ward,,3,Мараскино,22.5,мл
+final_ward,,4,Сок лимона,22.5,мл
+boilermaker,,1,Виски (бурбон или купаж),45,мл
+boilermaker,,2,Светлое пиво (лагер),330,мл
+seelbach,,1,Бурбон,30,мл
+seelbach,,2,Куантро,15,мл
+seelbach,,3,Ангостура,7,дэш
+seelbach,,4,Пейшо биттер,7,дэш
+seelbach,,5,Шампанское,120,мл
+presbyterian,,1,Скотч (купажированный),60,мл
+presbyterian,,2,Имбирный эль,60,мл
+presbyterian,,3,Содовая,60,мл
+blinker,,1,Ржаной виски,60,мл
+blinker,,2,Грейпфрутовый сок,30,мл
+blinker,,3,Малиновый сироп,15,мл
+bronx,,1,Джин (London Dry),30,мл
+bronx,,2,Красный вермут,15,мл
+bronx,,3,Сухой вермут,15,мл
+bronx,,4,Апельсиновый сок,30,мл
+satans_whiskers,,1,Джин (London Dry),15,мл
+satans_whiskers,,2,Сухой вермут,15,мл
+satans_whiskers,,3,Красный вермут,15,мл
+satans_whiskers,,4,Гран Марнье,15,мл
+satans_whiskers,,5,Апельсиновый сок,15,мл
+satans_whiskers,,6,Апельсиновый биттер,1,дэш
+army_and_navy,,1,Джин (London Dry),60,мл
+army_and_navy,,2,Сок лимона,22.5,мл
+army_and_navy,,3,Оршад (миндальный сироп),15,мл
+army_and_navy,,4,Ангостура,2,дэш
+pink_gin,,1,Джин (Plymouth или London Dry),60,мл
+pink_gin,,2,Ангостура,3,дэш
+gin_rickey,,1,Джин (London Dry),50,мл
+gin_rickey,,2,Сок лайма,15,мл
+gin_rickey,,3,Содовая,120,мл
+twentieth_century,,1,Джин (London Dry),45,мл
+twentieth_century,,2,Лилле Блан,22.5,мл
+twentieth_century,,3,Белый ликёр какао (crème de cacao),15,мл
+twentieth_century,,4,Сок лимона,22.5,мл
+jasmine,,1,Джин (London Dry),45,мл
+jasmine,,2,Куантро,7.5,мл
+jasmine,,3,Кампари,7.5,мл
+jasmine,,4,Сок лимона,22.5,мл
+breakfast_martini,,1,Джин (London Dry),50,мл
+breakfast_martini,,2,Куантро,15,мл
+breakfast_martini,,3,Сок лимона,15,мл
+breakfast_martini,,4,Апельсиновый мармелад (джем),1,б.л.
+saturn,,1,Джин (London Dry),45,мл
+saturn,,2,Сок лимона,15,мл
+saturn,,3,Сироп маракуйи,15,мл
+saturn,,4,Фалернум,7.5,мл
+saturn,,5,Оршад (миндальный сироп),7.5,мл
+alaska,,1,Джин (London Dry),60,мл
+alaska,,2,Жёлтый шартрез,15,мл
+alaska,,3,Апельсиновый биттер,2,дэш
+fitzgerald,,1,Джин (London Dry),45,мл
+fitzgerald,,2,Сок лимона,22.5,мл
+fitzgerald,,3,Сахарный сироп,22.5,мл
+fitzgerald,,4,Ангостура,2,дэш
+earl_grey_marteani,,1,"Джин, настоянный на чае Эрл Грей",45,мл
+earl_grey_marteani,,2,Сок лимона,22.5,мл
+earl_grey_marteani,,3,Сахарный сироп,30,мл
+earl_grey_marteani,,4,Яичный белок,15,мл
+white_negroni,,1,Джин (London Dry),45,мл
+white_negroni,,2,Лилле Блан,30,мл
+white_negroni,,3,Сюз (Suze),22.5,мл
+floradora,,1,Джин (London Dry),45,мл
+floradora,,2,Сок лайма,15,мл
+floradora,,3,Малиновый сироп,15,мл
+floradora,,4,Имбирный эль,90,мл
+sloe_gin_fizz,,1,Тёрновый джин (sloe gin),45,мл
+sloe_gin_fizz,,2,Сок лимона,22.5,мл
+sloe_gin_fizz,,3,Сахарный сироп,15,мл
+sloe_gin_fizz,,4,Содовая,60,мл
+hotel_nacional,,1,Белый ром,45,мл
+hotel_nacional,,2,Абрикосовый бренди (ликёр),15,мл
+hotel_nacional,,3,Ананасовый сок,30,мл
+hotel_nacional,,4,Сок лайма,15,мл
+hotel_nacional,,5,Сахарный сироп,7.5,мл
+navy_grog,,1,Тёмный ямайский ром,30,мл
+navy_grog,,2,Демерара-ром,30,мл
+navy_grog,,3,Белый ром,30,мл
+navy_grog,,4,Сок лайма,22.5,мл
+navy_grog,,5,Грейпфрутовый сок,22.5,мл
+navy_grog,,6,Медовый сироп,30,мл
+navy_grog,,7,Содовая,30,мл
+three_dots_and_a_dash,,1,Агриколь-ром (выдержанный),45,мл
+three_dots_and_a_dash,,2,Демерара-ром,15,мл
+three_dots_and_a_dash,,3,Сок лайма,15,мл
+three_dots_and_a_dash,,4,Апельсиновый сок,15,мл
+three_dots_and_a_dash,,5,Медовый сироп,15,мл
+three_dots_and_a_dash,,6,Фалернум,7.5,мл
+three_dots_and_a_dash,,7,Ликёр душистого перца (allspice dram),7.5,мл
+three_dots_and_a_dash,,8,Ангостура,1,дэш
+scorpion,,1,Белый ром,60,мл
+scorpion,,2,Бренди,30,мл
+scorpion,,3,Апельсиновый сок,60,мл
+scorpion,,4,Сок лимона,30,мл
+scorpion,,5,Оршад (миндальный сироп),15,мл
+fog_cutter,,1,Белый ром,60,мл
+fog_cutter,,2,Бренди,30,мл
+fog_cutter,,3,Джин (London Dry),15,мл
+fog_cutter,,4,Апельсиновый сок,60,мл
+fog_cutter,,5,Сок лимона,30,мл
+fog_cutter,,6,Оршад (миндальный сироп),15,мл
+fog_cutter,,7,Херес амонтильядо (сверху),15,мл
+missionarys_downfall,,1,Белый ром,30,мл
+missionarys_downfall,,2,Персиковый ликёр,15,мл
+missionarys_downfall,,3,Сок лайма,15,мл
+missionarys_downfall,,4,Медовый сироп,15,мл
+missionarys_downfall,,5,Свежий ананас (кусочки),4,шт
+missionarys_downfall,,6,Листья мяты,10,шт
+rum_runner,,1,Белый ром,30,мл
+rum_runner,,2,Тёмный ром,30,мл
+rum_runner,,3,Банановый ликёр,30,мл
+rum_runner,,4,Ежевичный ликёр,30,мл
+rum_runner,,5,Сок лайма,15,мл
+rum_runner,,6,Гренадин,15,мл
+bahama_mama,,1,Тёмный ром,30,мл
+bahama_mama,,2,Кокосовый ром,30,мл
+bahama_mama,,3,Апельсиновый сок,60,мл
+bahama_mama,,4,Ананасовый сок,60,мл
+bahama_mama,,5,Гренадин,10,мл
+hot_buttered_rum,,1,Тёмный ром,50,мл
+hot_buttered_rum,,2,Сливочное масло,1,ст.л.
+hot_buttered_rum,,3,Коричневый сахар,1,ч.л.
+hot_buttered_rum,,4,"Специи (корица, мускат, гвоздика)",,по вкусу
+hot_buttered_rum,,5,Горячая вода,120,мл
+nuclear_daiquiri,,1,"Белый ром (крепкий, Wray & Nephew)",22.5,мл
+nuclear_daiquiri,,2,Зелёный шартрез,22.5,мл
+nuclear_daiquiri,,3,Фалернум,15,мл
+nuclear_daiquiri,,4,Сок лайма,22.5,мл
+corn_n_oil,,1,Тёмный ром (блэкстрэп),60,мл
+corn_n_oil,,2,Фалернум,15,мл
+corn_n_oil,,3,Сок лайма,7.5,мл
+corn_n_oil,,4,Ангостура,3,дэш
+blue_hawaii,,1,Белый ром,22.5,мл
+blue_hawaii,,2,Водка,22.5,мл
+blue_hawaii,,3,Блю кюрасао,15,мл
+blue_hawaii,,4,Ананасовый сок,90,мл
+blue_hawaii,,5,Сок лимона,15,мл
+blue_hawaii,,6,Сахарный сироп,15,мл
+bermuda_rum_swizzle,,1,Тёмный ром,30,мл
+bermuda_rum_swizzle,,2,Золотой ром,30,мл
+bermuda_rum_swizzle,,3,Ананасовый сок,60,мл
+bermuda_rum_swizzle,,4,Апельсиновый сок,60,мл
+bermuda_rum_swizzle,,5,Фалернум,15,мл
+bermuda_rum_swizzle,,6,Гренадин,10,мл
+bermuda_rum_swizzle,,7,Ангостура,2,дэш
+batida,,1,Кашаса,60,мл
+batida,,2,Сгущённое молоко,30,мл
+batida,,3,Пюре маракуйи (или кокосовое молоко),60,мл
+matador,,1,Текила бланко,45,мл
+matador,,2,Ананасовый сок,45,мл
+matador,,3,Сок лайма,15,мл
+siesta,,1,Текила бланко,45,мл
+siesta,,2,Кампари,15,мл
+siesta,,3,Сок лайма,15,мл
+siesta,,4,Грейпфрутовый сок,15,мл
+siesta,,5,Сахарный сироп,15,мл
+division_bell,,1,Мескаль,30,мл
+division_bell,,2,Апероль,22.5,мл
+division_bell,,3,Мараскино,15,мл
+division_bell,,4,Сок лайма,22.5,мл
+mezcal_mule,,1,Мескаль,45,мл
+mezcal_mule,,2,Сок лайма,22.5,мл
+mezcal_mule,,3,Пюре маракуйи,22.5,мл
+mezcal_mule,,4,Сироп агавы,15,мл
+mezcal_mule,,5,Огурец (кружки),3,шт
+mezcal_mule,,6,Имбирное пиво,30,мл
+batanga,,1,Текила бланко,50,мл
+batanga,,2,Сок лайма,10,мл
+batanga,,3,Кола (мексиканская),120,мл
+batanga,,4,Соль для ободка,,по вкусу
+cantarito,,1,Текила бланко,60,мл
+cantarito,,2,Апельсиновый сок,30,мл
+cantarito,,3,Грейпфрутовый сок,30,мл
+cantarito,,4,Сок лайма,15,мл
+cantarito,,5,Грейпфрутовая газировка,90,мл
+cantarito,,6,Соль,1,щепотка
+ranch_water,,1,Текила бланко,45,мл
+ranch_water,,2,Сок лайма,15,мл
+ranch_water,,3,Минеральная газированная вода (Topo Chico),150,мл
+rosita,,1,Текила репосадо,45,мл
+rosita,,2,Кампари,15,мл
+rosita,,3,Красный вермут,15,мл
+rosita,,4,Сухой вермут,15,мл
+rosita,,5,Ангостура,1,дэш
+vampiro,,1,Текила бланко,50,мл
+vampiro,,2,Томатный сок,60,мл
+vampiro,,3,Апельсиновый сок,30,мл
+vampiro,,4,Сок лайма,15,мл
+vampiro,,5,Гренадин,10,мл
+vampiro,,6,Острый соус,2,дэш
+vampiro,,7,Грейпфрутовая газировка,60,мл
+vampiro,,8,Соль,1,щепотка
+brave_bull,,1,Текила бланко,45,мл
+brave_bull,,2,Кофейный ликёр,30,мл
+mexican_firing_squad,,1,Текила бланко,60,мл
+mexican_firing_squad,,2,Сок лайма,22.5,мл
+mexican_firing_squad,,3,Гренадин,22.5,мл
+mexican_firing_squad,,4,Ангостура,4,дэш
+mexican_firing_squad,,5,Содовая (опц.),30,мл
+screwdriver,,1,Водка,50,мл
+screwdriver,,2,Апельсиновый сок,100,мл
+greyhound,,1,Водка (или джин),45,мл
+greyhound,,2,Грейпфрутовый сок,120,мл
+salty_dog,,1,Водка (или джин),45,мл
+salty_dog,,2,Грейпфрутовый сок,120,мл
+salty_dog,,3,Соль для ободка,,по вкусу
+cape_codder,,1,Водка,45,мл
+cape_codder,,2,Клюквенный сок (морс),120,мл
+cape_codder,,3,Сок лайма,10,мл
+harvey_wallbanger,,1,Водка,45,мл
+harvey_wallbanger,,2,Апельсиновый сок,90,мл
+harvey_wallbanger,,3,Гальяно (сверху),15,мл
+bullshot,,1,Водка,45,мл
+bullshot,,2,Холодный говяжий бульон,120,мл
+bullshot,,3,Сок лимона,10,мл
+bullshot,,4,Вустерширский соус,2,дэш
+bullshot,,5,Табаско,1,дэш
+bullshot,,6,Соль и перец,,по вкусу
+appletini,,1,Водка,45,мл
+appletini,,2,Яблочный ликёр (sour apple),30,мл
+appletini,,3,Сок лимона,15,мл
+appletini,,4,Сахарный сироп,7.5,мл
+woo_woo,,1,Водка,40,мл
+woo_woo,,2,Персиковый ликёр (шнапс),20,мл
+woo_woo,,3,Клюквенный сок,120,мл
+madras,,1,Водка,45,мл
+madras,,2,Клюквенный сок,90,мл
+madras,,3,Апельсиновый сок,30,мл
+mudslide,,1,Водка,30,мл
+mudslide,,2,Кофейный ликёр,30,мл
+mudslide,,3,Сливочный ликёр (Baileys),30,мл
+mudslide,,4,Сливки (опц.),30,мл
+szarlotka,,1,Зубровка (водка на зубровке),50,мл
+szarlotka,,2,Яблочный сок (нефильтрованный),150,мл
+pisco_punch,,1,Писко,60,мл
+pisco_punch,,2,Ананасовый сироп,22.5,мл
+pisco_punch,,3,Сок лимона,15,мл
+pisco_punch,,4,Холодная вода,30,мл
+chilcano,,1,Писко,50,мл
+chilcano,,2,Сок лайма,15,мл
+chilcano,,3,Имбирный эль,120,мл
+chilcano,,4,Ангостура,2,дэш
+corpse_reviver_1,,1,Коньяк,30,мл
+corpse_reviver_1,,2,Кальвадос,15,мл
+corpse_reviver_1,,3,Красный вермут,15,мл
+japanese_cocktail,,1,Коньяк,60,мл
+japanese_cocktail,,2,Оршад (миндальный сироп),15,мл
+japanese_cocktail,,3,Ангостура,2,дэш
+brandy_milk_punch,,1,Коньяк или бренди,60,мл
+brandy_milk_punch,,2,Молоко,90,мл
+brandy_milk_punch,,3,Сахарный сироп,15,мл
+brandy_milk_punch,,4,Ванильный экстракт,2,капля
+brandy_milk_punch,,5,Мускатный орех,,по вкусу
+champs_elysees,,1,Коньяк,45,мл
+champs_elysees,,2,Шартрез (зелёный или жёлтый),15,мл
+champs_elysees,,3,Сок лимона,22.5,мл
+champs_elysees,,4,Сахарный сироп,15,мл
+champs_elysees,,5,Ангостура,1,дэш
+widows_kiss,,1,Кальвадос,45,мл
+widows_kiss,,2,Бенедиктин,22.5,мл
+widows_kiss,,3,Жёлтый шартрез,22.5,мл
+widows_kiss,,4,Ангостура,2,дэш
+sherry_cobbler,,1,Херес амонтильядо,90,мл
+sherry_cobbler,,2,Сахарный сироп,15,мл
+sherry_cobbler,,3,Долька апельсина,2,шт
+sherry_cobbler,,4,Сезонные ягоды,,по вкусу
+bamboo,,1,Сухой херес (фино),45,мл
+bamboo,,2,Сухой вермут,45,мл
+bamboo,,3,Ангостура,2,дэш
+bamboo,,4,Апельсиновый биттер,2,дэш
+adonis,,1,Сухой херес (фино),60,мл
+adonis,,2,Красный вермут,30,мл
+adonis,,3,Апельсиновый биттер,2,дэш
+kalimotxo,,1,Красное вино,100,мл
+kalimotxo,,2,Кола,100,мл
+tinto_de_verano,,1,Красное вино,100,мл
+tinto_de_verano,,2,Газированный лимонад (gaseosa),100,мл
+black_velvet,,1,Стаут (Guinness),75,мл
+black_velvet,,2,Шампанское,75,мл
+rebujito,,1,Херес мансанилья (или фино),100,мл
+rebujito,,2,Лимонад (спрайт),200,мл
+rebujito,,3,Листья мяты,4,шт
+porto_tonico,,1,Белый портвейн,50,мл
+porto_tonico,,2,Тоник,100,мл
+radler,,1,Светлое пиво (лагер),250,мл
+radler,,2,Лимонад (газированный),250,мл
+snakebite,,1,Светлое пиво (лагер),250,мл
+snakebite,,2,Сухой сидр,250,мл
+snakebite,,3,Смородиновый сироп (опц.),15,мл
+midori_sour,,1,Дынный ликёр (Midori),30,мл
+midori_sour,,2,Водка,30,мл
+midori_sour,,3,Сок лимона,15,мл
+midori_sour,,4,Сок лайма,15,мл
+midori_sour,,5,Содовая,60,мл
+japanese_slipper,,1,Дынный ликёр (Midori),30,мл
+japanese_slipper,,2,Куантро,30,мл
+japanese_slipper,,3,Сок лимона,30,мл
+pimms_cup,,1,Pimm's No. 1,50,мл
+pimms_cup,,2,Имбирный эль или лимонад,150,мл
+pimms_cup,,3,Огурец (ломтики),3,шт
+pimms_cup,,4,Клубника и апельсин (нарезка),,по вкусу
+pimms_cup,,5,Листья мяты,4,шт
+limoncello_spritz,,1,Лимончелло,60,мл
+limoncello_spritz,,2,Просекко,90,мл
+limoncello_spritz,,3,Содовая,30,мл
+jagerbomb,,1,Jägermeister,30,мл
+jagerbomb,,2,Энергетический напиток,150,мл
+pink_squirrel,,1,Миндальный ликёр (crème de noyaux),22.5,мл
+pink_squirrel,,2,Белый ликёр какао (crème de cacao),22.5,мл
+pink_squirrel,,3,Сливки,45,мл
+slippery_nipple,,1,Самбука,15,мл
+slippery_nipple,,2,Сливочный ликёр (Baileys),15,мл
+fuzzy_navel,,1,Персиковый ликёр (шнапс),45,мл
+fuzzy_navel,,2,Апельсиновый сок,120,мл
+sgroppino,,1,Лимонный сорбет,2,шарик
+sgroppino,,2,Водка,15,мл
+sgroppino,,3,Просекко,60,мл
+absinthe_frappe,,1,Абсент,45,мл
+absinthe_frappe,,2,Сахарный сироп,15,мл
+absinthe_frappe,,3,Вода,30,мл
+absinthe_frappe,,4,Листья мяты (опц.),4,шт
+absinthe_drip,,1,Абсент,30,мл
+absinthe_drip,,2,Сахарный кубик,1,шт
+absinthe_drip,,3,Ледяная вода,120,мл
+shirley_temple,,1,Имбирный эль,150,мл
+shirley_temple,,2,Гренадин,15,мл
+shirley_temple,,3,Сок лайма (опц.),10,мл
+grog,,1,Тёмный ром,50,мл
+grog,,2,Горячая вода,100,мл
+grog,,3,Сок лимона,15,мл
+grog,,4,Мёд или коричневый сахар,15,мл
+grog,,5,Палочка корицы,1,шт
+carajillo,,1,Licor 43,45,мл
+carajillo,,2,Свежий эспрессо,45,мл
+bombardino,,1,"Яичный ликёр (забайоне, VOV)",60,мл
+bombardino,,2,Бренди,30,мл
+bombardino,,3,Взбитые сливки,,сверху
+spaghett,,1,Светлое лёгкое пиво (лагер),330,мл
+spaghett,,2,Апероль,30,мл
+spaghett,,3,Сок лимона,10,мл
+algonquin,,1,Ржаной виски,45,мл
+algonquin,,2,Сухой вермут,22.5,мл
+algonquin,,3,Ананасовый сок,22.5,мл
+affinity,,1,Скотч (купажированный),30,мл
+affinity,,2,Красный вермут,30,мл
+affinity,,3,Сухой вермут,30,мл
+affinity,,4,Ангостура,2,дэш
+blackthorn,,1,Ирландский виски,45,мл
+blackthorn,,2,Сухой вермут,45,мл
+blackthorn,,3,Абсент,3,дэш
+blackthorn,,4,Ангостура,3,дэш
+red_hook,,1,Ржаной виски,60,мл
+red_hook,,2,Punt e Mes,15,мл
+red_hook,,3,Мараскино,15,мл
+greenpoint,,1,Ржаной виски,60,мл
+greenpoint,,2,Жёлтый шартрез,15,мл
+greenpoint,,3,Красный вермут,15,мл
+greenpoint,,4,Ангостура,1,дэш
+greenpoint,,5,Апельсиновый биттер,1,дэш
+bensonhurst,,1,Ржаной виски,60,мл
+bensonhurst,,2,Сухой вермут,30,мл
+bensonhurst,,3,Мараскино,7.5,мл
+bensonhurst,,4,Амаро Cynar,5,мл
+little_italy,,1,Ржаной виски,60,мл
+little_italy,,2,Красный вермут,22.5,мл
+little_italy,,3,Амаро Cynar,15,мл
+monte_carlo,,1,Ржаной виски,60,мл
+monte_carlo,,2,Бенедиктин,15,мл
+monte_carlo,,3,Ангостура,2,дэш
+chancellor,,1,Скотч (купажированный),60,мл
+chancellor,,2,Рубиновый портвейн,30,мл
+chancellor,,3,Сухой вермут,15,мл
+chancellor,,4,Ангостура,2,дэш
+de_la_louisiane,,1,Ржаной виски,45,мл
+de_la_louisiane,,2,Красный вермут,22.5,мл
+de_la_louisiane,,3,Бенедиктин,22.5,мл
+de_la_louisiane,,4,Абсент,3,дэш
+de_la_louisiane,,5,Пейшо биттер,3,дэш
+morning_glory_fizz,,1,Скотч (купажированный),60,мл
+morning_glory_fizz,,2,Сок лимона,15,мл
+morning_glory_fizz,,3,Сок лайма,7.5,мл
+morning_glory_fizz,,4,Сахарный сироп,22.5,мл
+morning_glory_fizz,,5,Яичный белок,20,мл
+morning_glory_fizz,,6,Абсент,2,дэш
+morning_glory_fizz,,7,Содовая,60,мл
+rattlesnake,,1,Ржаной виски,60,мл
+rattlesnake,,2,Сок лимона,22.5,мл
+rattlesnake,,3,Сахарный сироп,22.5,мл
+rattlesnake,,4,Яичный белок,20,мл
+rattlesnake,,5,Абсент,3,дэш
+bourbon_renewal,,1,Бурбон,60,мл
+bourbon_renewal,,2,Сок лимона,30,мл
+bourbon_renewal,,3,Ликёр кассис (crème de cassis),15,мл
+bourbon_renewal,,4,Сахарный сироп,7.5,мл
+bourbon_renewal,,5,Ангостура,1,дэш
+bentons_old_fashioned,,1,"Бурбон, «отмытый» беконом (fat-washed)",60,мл
+bentons_old_fashioned,,2,Кленовый сироп,7.5,мл
+bentons_old_fashioned,,3,Ангостура,2,дэш
+revolver,,1,Бурбон,60,мл
+revolver,,2,Кофейный ликёр,15,мл
+revolver,,3,Апельсиновый биттер,2,дэш
+improved_whiskey_cocktail,,1,Ржаной виски,60,мл
+improved_whiskey_cocktail,,2,Мараскино,5,мл
+improved_whiskey_cocktail,,3,Сахарный сироп,5,мл
+improved_whiskey_cocktail,,4,Абсент,1,дэш
+improved_whiskey_cocktail,,5,Ангостура,2,дэш
+irish_maid,,1,Ирландский виски,60,мл
+irish_maid,,2,Ликёр бузины (St-Germain),15,мл
+irish_maid,,3,Сок лимона,22.5,мл
+irish_maid,,4,Сахарный сироп,15,мл
+irish_maid,,5,Огурец (кружки),2,шт
+camerons_kick,,1,Скотч (купажированный),30,мл
+camerons_kick,,2,Ирландский виски,30,мл
+camerons_kick,,3,Сок лимона,22.5,мл
+camerons_kick,,4,Оршад (миндальный сироп),15,мл
+whisky_mac,,1,Скотч (купажированный),45,мл
+whisky_mac,,2,Имбирное вино (Stone's Green Ginger),30,мл
+frisco_sour,,1,Ржаной или купажированный виски,60,мл
+frisco_sour,,2,Бенедиктин,15,мл
+frisco_sour,,3,Сок лимона,15,мл
+frisco_sour,,4,Сок лайма,15,мл
+stone_sour,,1,Бурбон,45,мл
+stone_sour,,2,Апельсиновый сок,30,мл
+stone_sour,,3,Сок лимона,22.5,мл
+stone_sour,,4,Сахарный сироп,15,мл
+whiskey_daisy,,1,Бурбон,60,мл
+whiskey_daisy,,2,Сок лимона,22.5,мл
+whiskey_daisy,,3,Апельсиновый кюрасао или жёлтый шартрез,15,мл
+whiskey_daisy,,4,Содовая,30,мл
+fancy_free,,1,Бурбон,60,мл
+fancy_free,,2,Мараскино,7.5,мл
+fancy_free,,3,Ангостура,1,дэш
+fancy_free,,4,Апельсиновый биттер,1,дэш
+kentucky_buck,,1,Бурбон,60,мл
+kentucky_buck,,2,Сок лимона,22.5,мл
+kentucky_buck,,3,Сахарный сироп,15,мл
+kentucky_buck,,4,Клубника,1,шт
+kentucky_buck,,5,Ангостура,2,дэш
+kentucky_buck,,6,Имбирное пиво,60,мл
+lynchburg_lemonade,,1,Теннесси-виски,45,мл
+lynchburg_lemonade,,2,Трипл-сек,15,мл
+lynchburg_lemonade,,3,Сок лимона,30,мл
+lynchburg_lemonade,,4,Сахарный сироп,15,мл
+lynchburg_lemonade,,5,Лимонад (спрайт),90,мл
+whiskey_cola,,1,Виски (бурбон или теннесси),50,мл
+whiskey_cola,,2,Кола,150,мл
+whiskey_cola,,3,Долька лайма (опц.),1,шт
+seven_and_seven,,1,Канадский виски (Seagram's 7 Crown),45,мл
+seven_and_seven,,2,Лимонно-лаймовая газировка (7 Up),150,мл
+whiskey_ginger,,1,Ирландский виски или бурбон,50,мл
+whiskey_ginger,,2,Имбирный эль,150,мл
+whiskey_ginger,,3,Долька лайма,1,шт
+abbey_cocktail,,1,Джин (London Dry),45,мл
+abbey_cocktail,,2,Лилле Блан,22.5,мл
+abbey_cocktail,,3,Апельсиновый сок,22.5,мл
+abbey_cocktail,,4,Ангостура,1,дэш
+gin_and_it,,1,Джин (London Dry),45,мл
+gin_and_it,,2,Красный вермут,45,мл
+leap_year,,1,Джин (London Dry),60,мл
+leap_year,,2,Гран Марнье,15,мл
+leap_year,,3,Красный вермут,15,мл
+leap_year,,4,Сок лимона,1,б.л.
+hotel_georgia,,1,Джин (London Dry),60,мл
+hotel_georgia,,2,Сок лимона,22.5,мл
+hotel_georgia,,3,Оршад (миндальный сироп),15,мл
+hotel_georgia,,4,Яичный белок,20,мл
+hotel_georgia,,5,Вода апельсинового цвета,3,дэш
+ford_cocktail,,1,Джин (Old Tom),45,мл
+ford_cocktail,,2,Сухой вермут,45,мл
+ford_cocktail,,3,Бенедиктин,7.5,мл
+ford_cocktail,,4,Апельсиновый биттер,3,дэш
+gin_daisy,,1,Джин (London Dry),60,мл
+gin_daisy,,2,Сок лимона,22.5,мл
+gin_daisy,,3,Гренадин,10,мл
+gin_daisy,,4,Сахарный сироп,7.5,мл
+gin_daisy,,5,Содовая,30,мл
+gin_sling,,1,Джин (London Dry),60,мл
+gin_sling,,2,Сок лимона,15,мл
+gin_sling,,3,Сахарный сироп,15,мл
+gin_sling,,4,Вода или содовая,60,мл
+gin_sling,,5,Мускатный орех,,по вкусу
+gin_swizzle,,1,Джин (London Dry),60,мл
+gin_swizzle,,2,Сок лайма,22.5,мл
+gin_swizzle,,3,Сахарный сироп,15,мл
+gin_swizzle,,4,Ангостура,2,дэш
+gin_swizzle,,5,Содовая,30,мл
+turf_cocktail,,1,Джин (London Dry),45,мл
+turf_cocktail,,2,Сухой вермут,30,мл
+turf_cocktail,,3,Мараскино,1,б.л.
+turf_cocktail,,4,Абсент,1,дэш
+turf_cocktail,,5,Апельсиновый биттер,2,дэш
+pink_lady,,1,Джин (London Dry),45,мл
+pink_lady,,2,Эпплджек или кальвадос,15,мл
+pink_lady,,3,Сок лимона,22.5,мл
+pink_lady,,4,Гренадин,15,мл
+pink_lady,,5,Яичный белок,20,мл
+english_rose,,1,Джин (London Dry),45,мл
+english_rose,,2,Сухой вермут,22.5,мл
+english_rose,,3,Абрикосовый бренди (ликёр),22.5,мл
+english_rose,,4,Гренадин,1,б.л.
+english_rose,,5,Сок лимона,1,б.л.
+rose_cocktail,,1,Сухой вермут,60,мл
+rose_cocktail,,2,Кирш (вишнёвый бренди),30,мл
+rose_cocktail,,3,Малиновый сироп,1,б.л.
+smoky_martini,,1,Джин (London Dry),60,мл
+smoky_martini,,2,Торфяной скотч,7.5,мл
+cosmonaut,,1,Джин (London Dry),60,мл
+cosmonaut,,2,Сок лимона,22.5,мл
+cosmonaut,,3,Малиновый джем,1,б.л.
+eastside,,1,Джин (London Dry),60,мл
+eastside,,2,Сок лайма,22.5,мл
+eastside,,3,Сахарный сироп,22.5,мл
+eastside,,4,Огурец (кружки),2,шт
+eastside,,5,Листья мяты,6,шт
+water_lily,,1,Джин (London Dry),22.5,мл
+water_lily,,2,Куантро,22.5,мл
+water_lily,,3,Фиалковый ликёр (crème de violette),22.5,мл
+water_lily,,4,Сок лимона,22.5,мл
+juliet_and_romeo,,1,Джин (London Dry),60,мл
+juliet_and_romeo,,2,Сок лайма,22.5,мл
+juliet_and_romeo,,3,Сахарный сироп,22.5,мл
+juliet_and_romeo,,4,Огурец (кружки),3,шт
+juliet_and_romeo,,5,Листья мяты,3,шт
+juliet_and_romeo,,6,Розовая вода,3,капля
+juliet_and_romeo,,7,Ангостура,3,капля
+wibble,,1,Джин (Plymouth),25,мл
+wibble,,2,Тёрновый джин,25,мл
+wibble,,3,Грейпфрутовый сок,25,мл
+wibble,,4,Сок лимона,10,мл
+wibble,,5,Ежевичный ликёр (crème de mûre),10,мл
+wibble,,6,Сахарный сироп,5,мл
+enzoni,,1,Джин (London Dry),30,мл
+enzoni,,2,Кампари,30,мл
+enzoni,,3,Сок лимона,22.5,мл
+enzoni,,4,Сахарный сироп,15,мл
+enzoni,,5,Белый виноград,5,шт
+lucien_gaudin,,1,Джин (London Dry),30,мл
+lucien_gaudin,,2,Кампари,15,мл
+lucien_gaudin,,3,Куантро,15,мл
+lucien_gaudin,,4,Сухой вермут,15,мл
+gin_and_juice,,1,Джин (London Dry),50,мл
+gin_and_juice,,2,Апельсиновый сок,60,мл
+gin_and_juice,,3,Грейпфрутовый сок,60,мл
+bitter_giuseppe,,1,Амаро Cynar,60,мл
+bitter_giuseppe,,2,Красный вермут,30,мл
+bitter_giuseppe,,3,Сок лимона,7.5,мл
+bitter_giuseppe,,4,Апельсиновый биттер,6,дэш
+bacardi_cocktail,,1,Белый ром (Bacardí),50,мл
+bacardi_cocktail,,2,Сок лайма,25,мл
+bacardi_cocktail,,3,Гренадин,10,мл
+bacardi_cocktail,,4,Сахарный сироп,5,мл
+havana_cocktail,,1,Белый ром,45,мл
+havana_cocktail,,2,Ананасовый сок,45,мл
+havana_cocktail,,3,Сок лимона,7.5,мл
+shanghai_cocktail,,1,Тёмный ямайский ром,45,мл
+shanghai_cocktail,,2,Сок лимона,22.5,мл
+shanghai_cocktail,,3,Анисовый ликёр (анизетт),7.5,мл
+shanghai_cocktail,,4,Гренадин,7.5,мл
+quarter_deck,,1,Тёмный ром,45,мл
+quarter_deck,,2,"Херес (сладкий, cream)",15,мл
+quarter_deck,,3,Сок лайма,15,мл
+ancient_mariner,,1,Тёмный ямайский ром,30,мл
+ancient_mariner,,2,Демерара-ром,30,мл
+ancient_mariner,,3,Сок лайма,22.5,мл
+ancient_mariner,,4,Грейпфрутовый сок,15,мл
+ancient_mariner,,5,Сахарный сироп,15,мл
+ancient_mariner,,6,Ликёр душистого перца (allspice dram),7.5,мл
+jet_pilot,,1,Тёмный ямайский ром,30,мл
+jet_pilot,,2,Демерара-ром,22.5,мл
+jet_pilot,,3,Крепкий ром (overproof),15,мл
+jet_pilot,,4,Сок лайма,15,мл
+jet_pilot,,5,Грейпфрутовый сок,15,мл
+jet_pilot,,6,Коричный сироп,15,мл
+jet_pilot,,7,Фалернум,15,мл
+jet_pilot,,8,Ангостура,1,дэш
+jet_pilot,,9,Абсент,6,капля
+test_pilot,,1,Тёмный ямайский ром,45,мл
+test_pilot,,2,Светлый ром,22.5,мл
+test_pilot,,3,Куантро,15,мл
+test_pilot,,4,Фалернум,15,мл
+test_pilot,,5,Сок лайма,15,мл
+test_pilot,,6,Ангостура,1,дэш
+test_pilot,,7,Абсент,6,капля
+cobras_fang,,1,Крепкий демерара-ром (overproof),30,мл
+cobras_fang,,2,Тёмный ром,15,мл
+cobras_fang,,3,Сок лайма,15,мл
+cobras_fang,,4,Апельсиновый сок,15,мл
+cobras_fang,,5,Фалернум,15,мл
+cobras_fang,,6,Маракуйевый сироп,15,мл
+cobras_fang,,7,Ангостура,1,дэш
+cobras_fang,,8,Абсент,6,капля
+port_light,,1,Бурбон,45,мл
+port_light,,2,Сок лимона,15,мл
+port_light,,3,Маракуйевый сироп,15,мл
+port_light,,4,Гренадин,7.5,мл
+port_light,,5,Яичный белок,15,мл
+doctor_funk,,1,Тёмный ром,45,мл
+doctor_funk,,2,Сок лайма,22.5,мл
+doctor_funk,,3,Гренадин,15,мл
+doctor_funk,,4,Абсент,1,б.л.
+doctor_funk,,5,Содовая,60,мл
+royal_bermuda_yacht_club,,1,Барбадосский ром,60,мл
+royal_bermuda_yacht_club,,2,Сок лайма,22.5,мл
+royal_bermuda_yacht_club,,3,Фалернум,15,мл
+royal_bermuda_yacht_club,,4,Апельсиновый кюрасао,7.5,мл
+periodista,,1,Выдержанный ром,45,мл
+periodista,,2,Апельсиновый ликёр,15,мл
+periodista,,3,Абрикосовый бренди (ликёр),15,мл
+periodista,,4,Сок лайма,15,мл
+treacle,,1,Тёмный ром,50,мл
+treacle,,2,Сахарный сироп,5,мл
+treacle,,3,Ангостура,2,дэш
+treacle,,4,Яблочный сок (флоат),15,мл
+pearl_diver,,1,Демерара-ром,30,мл
+pearl_diver,,2,Золотой ром,30,мл
+pearl_diver,,3,Сок лайма,15,мл
+pearl_diver,,4,Апельсиновый сок,15,мл
+pearl_diver,,5,"Смесь «Гардения» (мёд, масло, специи)",15,мл
+pearl_diver,,6,Фалернум,7.5,мл
+pearl_diver,,7,Ангостура,1,дэш
+fish_house_punch,,1,Ямайский ром,30,мл
+fish_house_punch,,2,Коньяк,15,мл
+fish_house_punch,,3,Персиковый бренди (ликёр),7.5,мл
+fish_house_punch,,4,Сок лимона,22.5,мл
+fish_house_punch,,5,Сахарный сироп,22.5,мл
+fish_house_punch,,6,Холодный чёрный чай или вода,60,мл
+cable_car,,1,Пряный ром,45,мл
+cable_car,,2,Апельсиновый кюрасао,22.5,мл
+cable_car,,3,Сок лимона,22.5,мл
+cable_car,,4,Сахарный сироп,15,мл
+daisy_de_santiago,,1,Белый ром,60,мл
+daisy_de_santiago,,2,Сок лайма,22.5,мл
+daisy_de_santiago,,3,Сахарный сироп,15,мл
+daisy_de_santiago,,4,Жёлтый шартрез (сверху),15,мл
+daisy_de_santiago,,5,Содовая,30,мл
+bushwacker,,1,Тёмный ром,30,мл
+bushwacker,,2,Кофейный ликёр,30,мл
+bushwacker,,3,Тёмный ликёр какао,15,мл
+bushwacker,,4,Кокосовые сливки,30,мл
+bushwacker,,5,Молоко,60,мл
+bushwacker,,6,Ванильное мороженое (опц.),1,шарик
+miami_vice,,1,Белый ром,60,мл
+miami_vice,,2,Кокосовые сливки,30,мл
+miami_vice,,3,Ананасовый сок,45,мл
+miami_vice,,4,Клубника,5,шт
+miami_vice,,5,Сок лайма,15,мл
+miami_vice,,6,Сахарный сироп,15,мл
+rum_punch,,1,Ямайский ром (крепкий),45,мл
+rum_punch,,2,Сок лайма,22.5,мл
+rum_punch,,3,Сахарный сироп,30,мл
+rum_punch,,4,Вода или ананасовый сок,60,мл
+rum_punch,,5,Гренадин,5,мл
+rum_punch,,6,Ангостура,2,дэш
+rum_punch,,7,Мускатный орех,,по вкусу
+rum_milk_punch,,1,Выдержанный ром,60,мл
+rum_milk_punch,,2,Молоко,120,мл
+rum_milk_punch,,3,Сахарный сироп,15,мл
+rum_milk_punch,,4,Мускатный орех,,по вкусу
+saoco,,1,Белый ром,60,мл
+saoco,,2,Кокосовая вода,120,мл
+saoco,,3,Сок лайма (опц.),10,мл
+coquito,,1,Белый или золотой ром,45,мл
+coquito,,2,Кокосовые сливки,45,мл
+coquito,,3,Сгущённое молоко,30,мл
+coquito,,4,Сгущённое некипячёное молоко (evaporated),30,мл
+coquito,,5,"Корица, ваниль, мускат",,по вкусу
+mulata_daisy,,1,Выдержанный ром,45,мл
+mulata_daisy,,2,Тёмный ликёр какао,22.5,мл
+mulata_daisy,,3,Гальяно,7.5,мл
+mulata_daisy,,4,Сок лайма,22.5,мл
+mulata_daisy,,5,Сахарный сироп,7.5,мл
+lava_flow,,1,Белый ром,30,мл
+lava_flow,,2,Кокосовый ром,30,мл
+lava_flow,,3,Клубника,5,шт
+lava_flow,,4,Банан,0.5,шт
+lava_flow,,5,Ананасовый сок,60,мл
+lava_flow,,6,Кокосовые сливки,60,мл
+goombay_smash,,1,Кокосовый ром,30,мл
+goombay_smash,,2,Тёмный ром,30,мл
+goombay_smash,,3,Абрикосовый бренди (ликёр),15,мл
+goombay_smash,,4,Ананасовый сок,90,мл
+goombay_smash,,5,Апельсиновый сок,30,мл
+bitter_mai_tai,,1,Кампари,45,мл
+bitter_mai_tai,,2,Ямайский ром,22.5,мл
+bitter_mai_tai,,3,Сок лайма,22.5,мл
+bitter_mai_tai,,4,Апельсиновый кюрасао,15,мл
+bitter_mai_tai,,5,Оршад (миндальный сироп),22.5,мл
+brancolada,,1,Fernet-Branca Menta,30,мл
+brancolada,,2,Выдержанный ром,22.5,мл
+brancolada,,3,Ананасовый сок,45,мл
+brancolada,,4,Кокосовые сливки,30,мл
+brancolada,,5,Апельсиновый сок,15,мл
+toreador,,1,Текила бланко,45,мл
+toreador,,2,Абрикосовый бренди (ликёр),15,мл
+toreador,,3,Сок лайма,15,мл
+tia_mia,,1,Мескаль,22.5,мл
+tia_mia,,2,Выдержанный ямайский ром,22.5,мл
+tia_mia,,3,Апельсиновый кюрасао,15,мл
+tia_mia,,4,Оршад,15,мл
+tia_mia,,5,Сок лайма,22.5,мл
+chimayo,,1,Текила бланко,45,мл
+chimayo,,2,Яблочный сидр (нефильтрованный сок),30,мл
+chimayo,,3,Ликёр кассис,7.5,мл
+chimayo,,4,Сок лимона,7.5,мл
+death_flip,,1,Текила бланко,30,мл
+death_flip,,2,Жёлтый шартрез,15,мл
+death_flip,,3,Jägermeister,15,мл
+death_flip,,4,Сахарный сироп,7.5,мл
+death_flip,,5,Яйцо целиком,1,шт
+mexican_martini,,1,Текила репосадо,45,мл
+mexican_martini,,2,Куантро,22.5,мл
+mexican_martini,,3,Сок лайма,22.5,мл
+mexican_martini,,4,Апельсиновый сок,15,мл
+mexican_martini,,5,Рассол оливок,7.5,мл
+tequila_mockingbird,,1,Текила бланко,45,мл
+tequila_mockingbird,,2,Белый мятный ликёр,15,мл
+tequila_mockingbird,,3,Сок лайма,22.5,мл
+vodka_tonic,,1,Водка,50,мл
+vodka_tonic,,2,Тоник,150,мл
+vodka_tonic,,3,Долька лайма,1,шт
+chocolate_martini,,1,Водка,45,мл
+chocolate_martini,,2,Ликёр какао (crème de cacao),30,мл
+chocolate_martini,,3,Сливочный ликёр (опц.),15,мл
+lychee_martini,,1,Водка,45,мл
+lychee_martini,,2,Ликёр личи,15,мл
+lychee_martini,,3,Сироп от консервированных личи,15,мл
+lychee_martini,,4,Сухой вермут (опц.),7.5,мл
+polish_martini,,1,Зубровка,30,мл
+polish_martini,,2,Медовый ликёр Krupnik,15,мл
+polish_martini,,3,Яблочный сок,15,мл
+flirtini,,1,Водка,30,мл
+flirtini,,2,Куантро,15,мл
+flirtini,,3,Ананасовый сок,30,мл
+flirtini,,4,Шампанское,60,мл
+bloody_bull,,1,Водка,45,мл
+bloody_bull,,2,Томатный сок,60,мл
+bloody_bull,,3,Говяжий бульон,60,мл
+bloody_bull,,4,Сок лимона,10,мл
+bloody_bull,,5,"Вустерширский соус, табаско, соль, перец",,по вкусу
+electric_lemonade,,1,Водка,45,мл
+electric_lemonade,,2,Блю кюрасао,15,мл
+electric_lemonade,,3,Сок лимона,22.5,мл
+electric_lemonade,,4,Сахарный сироп,15,мл
+electric_lemonade,,5,Лимонад (спрайт),90,мл
+melon_ball,,1,Дынный ликёр (Midori),30,мл
+melon_ball,,2,Водка,30,мл
+melon_ball,,3,Апельсиновый сок,120,мл
+severnoe_siyanie,,1,Шампанское (советское полусладкое),100,мл
+severnoe_siyanie,,2,Водка (или спирт),50,мл
+severnoe_siyanie,,3,Сок лимона,10,мл
+yorsh,,1,Светлое пиво,400,мл
+yorsh,,2,Водка,50,мл
+brandy_cobbler,,1,Коньяк,60,мл
+brandy_cobbler,,2,Апельсиновый кюрасао,15,мл
+brandy_cobbler,,3,Сахарный сироп,10,мл
+brandy_cobbler,,4,Дольки апельсина и лимона,2,шт
+brandy_cobbler,,5,Сезонные ягоды,,по вкусу
+brandy_flip,,1,Коньяк,60,мл
+brandy_flip,,2,Сахарный сироп,15,мл
+brandy_flip,,3,Сливки (опц.),15,мл
+brandy_flip,,4,Яйцо целиком,1,шт
+brandy_flip,,5,Мускатный орех,,по вкусу
+b_and_b,,1,Коньяк,30,мл
+b_and_b,,2,Бенедиктин,30,мл
+metropolitan,,1,Коньяк,45,мл
+metropolitan,,2,Красный вермут,30,мл
+metropolitan,,3,Сахарный сироп,2,дэш
+metropolitan,,4,Ангостура,2,дэш
+harvard,,1,Коньяк,45,мл
+harvard,,2,Красный вермут,30,мл
+harvard,,3,Ангостура,2,дэш
+harvard,,4,Содовая,15,мл
+brandy_daisy,,1,Коньяк,60,мл
+brandy_daisy,,2,Сок лимона,22.5,мл
+brandy_daisy,,3,Апельсиновый кюрасао,15,мл
+brandy_daisy,,4,Сахарный сироп,7.5,мл
+brandy_daisy,,5,Содовая,30,мл
+marconi_wireless,,1,Эпплджек или кальвадос,60,мл
+marconi_wireless,,2,Красный вермут,30,мл
+marconi_wireless,,3,Апельсиновый биттер,2,дэш
+prince_of_wales,,1,Коньяк,30,мл
+prince_of_wales,,2,Бенедиктин,7.5,мл
+prince_of_wales,,3,Ангостура,2,дэш
+prince_of_wales,,4,Сахарный кубик,1,шт
+prince_of_wales,,5,Шампанское,60,мл
+coffee_cocktail,,1,Рубиновый портвейн,45,мл
+coffee_cocktail,,2,Коньяк,30,мл
+coffee_cocktail,,3,Сахарный сироп,7.5,мл
+coffee_cocktail,,4,Яйцо целиком,1,шт
+coffee_cocktail,,5,Мускатный орех,,по вкусу
+saratoga,,1,Коньяк,30,мл
+saratoga,,2,Ржаной виски,30,мл
+saratoga,,3,Красный вермут,30,мл
+saratoga,,4,Ангостура,2,дэш
+el_capitan,,1,Писко,45,мл
+el_capitan,,2,Красный вермут,45,мл
+el_capitan,,3,Ангостура,2,дэш
+algarrobina,,1,Писко,45,мл
+algarrobina,,2,Сироп рожкового дерева (algarrobina),15,мл
+algarrobina,,3,Молоко или сгущённое молоко,60,мл
+algarrobina,,4,Яичный желток,1,шт
+algarrobina,,5,Корица,,по вкусу
+star_cocktail,,1,Эпплджек или кальвадос,45,мл
+star_cocktail,,2,Красный вермут,45,мл
+star_cocktail,,3,Ангостура,2,дэш
+sol_y_sombra,,1,Испанский бренди (de Jerez),30,мл
+sol_y_sombra,,2,Анисовый ликёр (анис),30,мл
+vermouth_cassis,,1,Сухой вермут,60,мл
+vermouth_cassis,,2,Ликёр кассис,15,мл
+vermouth_cassis,,3,Содовая,90,мл
+dubonnet_cocktail,,1,Дюбонне Руж,45,мл
+dubonnet_cocktail,,2,Джин (London Dry),30,мл
+dubonnet_cocktail,,3,Ангостура,1,дэш
+bicicletta,,1,Сухое белое вино,90,мл
+bicicletta,,2,Кампари,60,мл
+bicicletta,,3,Содовая,30,мл
+lillet_tonic,,1,Лилле Блан,60,мл
+lillet_tonic,,2,Тоник,120,мл
+sherry_flip,,1,Сладкий херес (cream или олоросо),60,мл
+sherry_flip,,2,Сахарный сироп,7.5,мл
+sherry_flip,,3,Яйцо целиком,1,шт
+sherry_flip,,4,Мускатный орех,,по вкусу
+agua_de_valencia,,1,Кава (испанское игристое),90,мл
+agua_de_valencia,,2,Свежевыжатый апельсиновый сок,90,мл
+agua_de_valencia,,3,Водка,15,мл
+agua_de_valencia,,4,Джин (London Dry),15,мл
+agua_de_valencia,,5,Сахар,1,ч.л.
+poinsettia,,1,Клюквенный сок,45,мл
+poinsettia,,2,Куантро,15,мл
+poinsettia,,3,Шампанское,90,мл
+wine_cooler,,1,Сухое белое или розовое вино,120,мл
+wine_cooler,,2,Лимонад или содовая,60,мл
+wine_cooler,,3,Фрукты,,по вкусу
+erdbeerbowle,,1,Сухое белое вино,120,мл
+erdbeerbowle,,2,Клубника (нарезанная),5,шт
+erdbeerbowle,,3,Сахар,1,ч.л.
+erdbeerbowle,,4,Игристое (Sekt),60,мл
+chatham_artillery_punch,,1,Коньяк,15,мл
+chatham_artillery_punch,,2,Бурбон,15,мл
+chatham_artillery_punch,,3,Ямайский ром,15,мл
+chatham_artillery_punch,,4,Сок лимона,15,мл
+chatham_artillery_punch,,5,Сахар (олеосахарум),15,мл
+chatham_artillery_punch,,6,Шампанское,60,мл
+milk_punch,,1,Ром,30,мл
+milk_punch,,2,Коньяк,15,мл
+milk_punch,,3,Сок лимона,15,мл
+milk_punch,,4,Сахар,15,мл
+milk_punch,,5,Чай (заварка),30,мл
+milk_punch,,6,Молоко (для осветления),60,мл
+black_and_tan,,1,Светлый эль (пейл-эль),250,мл
+black_and_tan,,2,Стаут,250,мл
+diesel,,1,Светлое пиво (лагер),250,мл
+diesel,,2,Кола,250,мл
+alabama_slammer,,1,Southern Comfort,30,мл
+alabama_slammer,,2,Амаретто,30,мл
+alabama_slammer,,3,Тёрновый джин,15,мл
+alabama_slammer,,4,Апельсиновый сок,60,мл
+alabama_slammer,,5,Сок лимона,10,мл
+snowball,,1,Яичный ликёр (Advocaat),50,мл
+snowball,,2,Лимонад (газированный),120,мл
+snowball,,3,Сок лайма,5,мл
+golden_cadillac,,1,Гальяно,30,мл
+golden_cadillac,,2,Белый ликёр какао,30,мл
+golden_cadillac,,3,Сливки,30,мл
+nutty_irishman,,1,Сливочный ликёр (Baileys),30,мл
+nutty_irishman,,2,Ореховый ликёр (Frangelico),30,мл
+nutty_irishman,,3,Молоко или сливки,30,мл
+st_germain_cocktail,,1,Ликёр бузины (St-Germain),45,мл
+st_germain_cocktail,,2,Шампанское или сухое игристое,60,мл
+st_germain_cocktail,,3,Содовая,60,мл
+aperol_sour,,1,Апероль,60,мл
+aperol_sour,,2,Сок лимона,22.5,мл
+aperol_sour,,3,Сахарный сироп,15,мл
+aperol_sour,,4,Яичный белок,20,мл
+art_of_choke,,1,Амаро Cynar,30,мл
+art_of_choke,,2,Белый ром,30,мл
+art_of_choke,,3,Зелёный шартрез,7.5,мл
+art_of_choke,,4,Сок лайма,7.5,мл
+art_of_choke,,5,Демерара-сироп,7.5,мл
+art_of_choke,,6,Листья мяты,2,шт
+toasted_almond,,1,Амаретто,30,мл
+toasted_almond,,2,Кофейный ликёр,30,мл
+toasted_almond,,3,Сливки,30,мл
+scarlett_ohara,,1,Southern Comfort,45,мл
+scarlett_ohara,,2,Клюквенный сок,60,мл
+scarlett_ohara,,3,Сок лайма,15,мл
+orange_whip,,1,Водка,30,мл
+orange_whip,,2,Белый ром,30,мл
+orange_whip,,3,Апельсиновый сок,90,мл
+orange_whip,,4,Сливки,30,мл
+spanish_coffee,,1,Крепкий ром (overproof),15,мл
+spanish_coffee,,2,Трипл-сек,15,мл
+spanish_coffee,,3,Кофейный ликёр,30,мл
+spanish_coffee,,4,Горячий кофе,90,мл
+spanish_coffee,,5,Взбитые сливки,,сверху
+spanish_coffee,,6,Сахар для ободка,,по вкусу
+cafe_brulot,,1,Коньяк,30,мл
+cafe_brulot,,2,Апельсиновый ликёр,15,мл
+cafe_brulot,,3,Горячий кофе,120,мл
+cafe_brulot,,4,"Цедра апельсина и лимона, корица, гвоздика, сахар",,по вкусу
+karsk,,1,Горячий кофе (слабый),120,мл
+karsk,,2,Самогон или водка,60,мл
+karsk,,3,Сахар (опц.),1,ч.л.
+caffe_corretto,,1,Эспрессо,30,мл
+caffe_corretto,,2,"Граппа, самбука или бренди",15,мл
+wassail,,1,Яблочный сидр,150,мл
+wassail,,2,Херес или бренди,30,мл
+wassail,,3,Мёд,15,мл
+wassail,,4,"Печёное яблоко, апельсин, корица, гвоздика, имбирь",,по вкусу
+tequila_shot,,1,Текила бланко,40,мл
+tequila_shot,,2,Соль,1,щепотка
+tequila_shot,,3,Долька лайма,1,шт
+tequila_slammer,,1,Текила бланко,25,мл
+tequila_slammer,,2,Лимонад (спрайт) или тоник,25,мл
+bandera,,1,Сок лайма,30,мл
+bandera,,2,Текила бланко,30,мл
+bandera,,3,Сангрита,30,мл
+b53,,1,Кофейный ликёр,20,мл
+b53,,2,Самбука,20,мл
+b53,,3,Апельсиновый ликёр (Grand Marnier),20,мл
+baby_guinness,,1,Кофейный ликёр,25,мл
+baby_guinness,,2,Сливочный ликёр (Baileys),10,мл
+brain_hemorrhage,,1,Персиковый ликёр (шнапс),25,мл
+brain_hemorrhage,,2,Сливочный ликёр (Baileys),5,мл
+brain_hemorrhage,,3,Гренадин,3,капля
+buttery_nipple,,1,Ирисковый шнапс (butterscotch),20,мл
+buttery_nipple,,2,Сливочный ликёр (Baileys),20,мл
+irish_slammer,,1,Стаут (Guinness),200,мл
+irish_slammer,,2,Ирландский виски,15,мл
+irish_slammer,,3,Сливочный ликёр (Baileys),15,мл
+flaming_dr_pepper,,1,Амаретто,20,мл
+flaming_dr_pepper,,2,"Крепкий ром (overproof, флоат)",5,мл
+flaming_dr_pepper,,3,Светлое пиво,150,мл
+jello_shots,,1,Водка,50,мл
+jello_shots,,2,Фруктовое желе (порошок),15,г
+jello_shots,,3,Горячая вода,100,мл
+kalashnikov,,1,Водка,40,мл
+kalashnikov,,2,Долька лимона,1,шт
+kalashnikov,,3,Сахар,1,ч.л.
+kalashnikov,,4,Молотый кофе,0.5,ч.л.
+nikolashka,,1,Коньяк,40,мл
+nikolashka,,2,Долька лимона,1,шт
+nikolashka,,3,Сахар,1,ч.л.
+nikolashka,,4,Молотый кофе,0.5,ч.л.
+boyarsky,,1,Гренадин,20,мл
+boyarsky,,2,Водка,20,мл
+boyarsky,,3,Табаско,2,капля
+mad_dog,,1,Водка,30,мл
+mad_dog,,2,Малиновый сироп,10,мл
+mad_dog,,3,Табаско,3,капля
+hiroshima,,1,Самбука,20,мл
+hiroshima,,2,Сливочный ликёр (Baileys),10,мл
+hiroshima,,3,Абсент,10,мл
+hiroshima,,4,Гренадин,3,капля
+medusa_shot,,1,Куантро,15,мл
+medusa_shot,,2,Кокосовый ликёр (Malibu),15,мл
+medusa_shot,,3,Блю кюрасао,5,мл
+medusa_shot,,4,Сливочный ликёр (Baileys),3,капля
+green_mexican,,1,Банановый ликёр (Pisang Ambon),20,мл
+green_mexican,,2,Текила бланко,20,мл
+green_mexican,,3,Сок лайма,5,мл
+pickleback,,1,Ирландский виски или бурбон,40,мл
+pickleback,,2,Рассол маринованных огурцов,40,мл
+oyster_shooter,,1,Водка,30,мл
+oyster_shooter,,2,Устрица,1,шт
+oyster_shooter,,3,Томатный сок,30,мл
+oyster_shooter,,4,"Сок лимона, табаско, хрен, перец",,по вкусу
+prairie_fire,,1,Текила бланко,40,мл
+prairie_fire,,2,Табаско,5,капля
+green_tea_shot,,1,Ирландский виски,15,мл
+green_tea_shot,,2,Персиковый ликёр (шнапс),15,мл
+green_tea_shot,,3,Кисло-сладкий микс (лимон + сироп),15,мл
+green_tea_shot,,4,Лимонад (спрайт),5,мл
+washington_apple_shot,,1,Канадский виски,15,мл
+washington_apple_shot,,2,Яблочный ликёр (sour apple),15,мл
+washington_apple_shot,,3,Клюквенный сок,15,мл
+lemon_drop_shot,,1,Водка-цитрон,40,мл
+lemon_drop_shot,,2,Долька лимона,1,шт
+lemon_drop_shot,,3,Сахар,1,ч.л.
+mind_eraser,,1,Кофейный ликёр,20,мл
+mind_eraser,,2,Водка,20,мл
+mind_eraser,,3,Содовая,40,мл
+duck_fart,,1,Кофейный ликёр,15,мл
+duck_fart,,2,Сливочный ликёр (Baileys),15,мл
+duck_fart,,3,Канадский виски,15,мл
+chocolate_cake_shot,,1,Ванильная водка,20,мл
+chocolate_cake_shot,,2,Ореховый ликёр (Frangelico),20,мл
+chocolate_cake_shot,,3,Долька лимона с сахаром,1,шт
+pineapple_upside_down_shot,,1,Ванильная водка,20,мл
+pineapple_upside_down_shot,,2,Ананасовый сок,20,мл
+pineapple_upside_down_shot,,3,Гренадин,5,мл
+vegas_bomb,,1,Канадский виски (Crown Royal),15,мл
+vegas_bomb,,2,Персиковый шнапс,15,мл
+vegas_bomb,,3,Клюквенный сок,15,мл
+vegas_bomb,,4,Энергетический напиток,90,мл
+royal_flush,,1,Канадский виски (Crown Royal),20,мл
+royal_flush,,2,Персиковый шнапс,15,мл
+royal_flush,,3,Клюквенный сок,15,мл
+red_snapper_shot,,1,Канадский виски (Crown Royal),15,мл
+red_snapper_shot,,2,Амаретто,15,мл
+red_snapper_shot,,3,Клюквенный сок,15,мл
+mexican_candy_shot,,1,Текила бланко,20,мл
+mexican_candy_shot,,2,Арбузный ликёр,15,мл
+mexican_candy_shot,,3,Сок лайма,5,мл
+mexican_candy_shot,,4,Острый соус,2,капля
+mexican_candy_shot,,5,Тахин (соль с чили) для ободка,,по вкусу
+gummy_bear_shot,,1,Малиновая водка,20,мл
+gummy_bear_shot,,2,Персиковый шнапс,15,мл
+gummy_bear_shot,,3,Лимонад (спрайт),15,мл
+cinnamon_toast_crunch,,1,Коричный виски-ликёр (Fireball),20,мл
+cinnamon_toast_crunch,,2,Ликёр на ромовых сливках (RumChata),20,мл
+three_wise_men,,1,Теннесси-виски (Jack Daniel's),15,мл
+three_wise_men,,2,Скотч (Johnnie Walker),15,мл
+three_wise_men,,3,Бурбон (Jim Beam),15,мл
+sambuca_con_la_mosca,,1,Самбука,30,мл
+sambuca_con_la_mosca,,2,Кофейные зёрна,3,шт
+snaquiri,,1,Белый ром,30,мл
+snaquiri,,2,Сок лайма,10,мл
+snaquiri,,3,Сахарный сироп,7.5,мл
+bartenders_handshake,,1,Фернет-Бранка,30,мл
+bartenders_handshake,,2,Имбирное пиво (запивка),60,мл
+pousse_cafe,,1,Гренадин,10,мл
+pousse_cafe,,2,Ликёр какао,10,мл
+pousse_cafe,,3,Мараскино,10,мл
+pousse_cafe,,4,Апельсиновый кюрасао,10,мл
+pousse_cafe,,5,Зелёный шартрез,10,мл
+pousse_cafe,,6,Коньяк,10,мл
+irish_flag,,1,Зелёный мятный ликёр,15,мл
+irish_flag,,2,Сливочный ликёр (Baileys),15,мл
+irish_flag,,3,Апельсиновый ликёр (Grand Marnier),15,мл
+purple_hooter,,1,Водка,20,мл
+purple_hooter,,2,Малиновый ликёр (Chambord),10,мл
+purple_hooter,,3,Сок лайма,10,мл
+purple_hooter,,4,Лимонад (спрайт),10,мл
+screaming_orgasm,,1,Водка,15,мл
+screaming_orgasm,,2,Амаретто,15,мл
+screaming_orgasm,,3,Кофейный ликёр,15,мл
+screaming_orgasm,,4,Сливочный ликёр (Baileys),15,мл
+bob_marley_shot,,1,Гренадин,15,мл
+bob_marley_shot,,2,Зелёный мятный ликёр,15,мл
+bob_marley_shot,,3,Гальяно,15,мл
+flaming_lamborghini,,1,Самбука,20,мл
+flaming_lamborghini,,2,Кофейный ликёр,20,мл
+flaming_lamborghini,,3,Блю кюрасао,20,мл
+flaming_lamborghini,,4,Сливочный ликёр (Baileys),20,мл
+galliano_hot_shot,,1,Гальяно,20,мл
+galliano_hot_shot,,2,Горячий эспрессо,20,мл
+galliano_hot_shot,,3,Взбитые сливки,15,мл
+mini_beer,,1,Licor 43,25,мл
+mini_beer,,2,Сливки (слегка взбитые),5,мл
+sake_bomb,,1,Сакэ,30,мл
+sake_bomb,,2,Японское светлое пиво,200,мл
+lunchbox,,1,Светлое пиво,150,мл
+lunchbox,,2,Апельсиновый сок,30,мл
+lunchbox,,3,Амаретто,20,мл
+arnold_palmer,,1,Холодный чёрный чай,120,мл
+arnold_palmer,,2,Лимонад (домашний),120,мл
+pussyfoot,,1,Апельсиновый сок,60,мл
+pussyfoot,,2,Сок лимона,15,мл
+pussyfoot,,3,Сок лайма,15,мл
+pussyfoot,,4,Гренадин,10,мл
+pussyfoot,,5,Яичный желток,1,шт
+cinderella,,1,Апельсиновый сок,45,мл
+cinderella,,2,Ананасовый сок,45,мл
+cinderella,,3,Сок лимона,15,мл
+cinderella,,4,Гренадин,5,мл
+cinderella,,5,Содовая,60,мл
+lime_rickey,,1,Сок лайма,30,мл
+lime_rickey,,2,Сахарный сироп,22.5,мл
+lime_rickey,,3,Содовая,150,мл
+egg_cream,,1,Шоколадный сироп,30,мл
+egg_cream,,2,Холодное молоко,60,мл
+egg_cream,,3,Сильно газированная вода (сельтерская),120,мл
+espresso_tonic,,1,Эспрессо,30,мл
+espresso_tonic,,2,Тоник,120,мл
+sangrita,,1,Томатный сок,45,мл
+sangrita,,2,Апельсиновый сок,45,мл
+sangrita,,3,Сок лайма,15,мл
+sangrita,,4,Гренадин или гранатовый сок,10,мл
+sangrita,,5,"Острый соус, соль, перец",,по вкусу
+ipanema,,1,Лайм,0.5,шт
+ipanema,,2,Тростниковый сахар,2,ч.л.
+ipanema,,3,Сок маракуйи,60,мл
+ipanema,,4,Имбирный эль,90,мл
+classic_lemonade,,1,Сок лимона,45,мл
+classic_lemonade,,2,Сахарный сироп,30,мл
+classic_lemonade,,3,Холодная вода или содовая,150,мл
+strawberry_lemonade,,1,Клубника,5,шт
+strawberry_lemonade,,2,Сок лимона,30,мл
+strawberry_lemonade,,3,Сахарный сироп,22.5,мл
+strawberry_lemonade,,4,Содовая,150,мл
+tarkhun,,1,Свежий эстрагон (тархун),5,веточка
+tarkhun,,2,Сок лимона,22.5,мл
+tarkhun,,3,Сахарный сироп,30,мл
+tarkhun,,4,Содовая,150,мл
+sbiten,,1,Вода,200,мл
+sbiten,,2,Мёд,30,мл
+sbiten,,3,"Пряности (корица, гвоздика, имбирь, кардамон, лавровый лист)",,по вкусу
+crodino_spritz,,1,Безалкогольный биттер-аперитив (Crodino или аналог),100,мл
+crodino_spritz,,2,Содовая или тоник,60,мл
+crodino_spritz,,3,Долька апельсина,1,шт
+limonana,,1,Сок лимона,45,мл
+limonana,,2,Сахарный сироп,30,мл
+limonana,,3,Листья мяты,15,шт
+limonana,,4,Лёд,1,стакан
+limonana,,5,Вода,60,мл
+limonada_suica,,1,"Лайм (целиком, с кожурой)",1,шт
+limonada_suica,,2,Сгущённое молоко,45,мл
+limonada_suica,,3,Сахар,1,ст.л.
+limonada_suica,,4,Холодная вода,200,мл
+chapman,,1,Апельсиновая газировка (Fanta),90,мл
+chapman,,2,Лимонно-лаймовая газировка (Sprite),90,мл
+chapman,,3,Гренадин,15,мл
+chapman,,4,Ангостура,3,дэш
+chapman,,5,Огурец и лимон (дольки),,по вкусу
+rock_shandy,,1,Лимонад (газированный),100,мл
+rock_shandy,,2,Содовая,100,мл
+rock_shandy,,3,Ангостура,3,дэш
+lemon_lime_bitters,,1,Лимонно-лаймовая газировка,180,мл
+lemon_lime_bitters,,2,Лаймовый кордиал,15,мл
+lemon_lime_bitters,,3,Ангостура,4,дэш
+saint_clements,,1,Апельсиновый сок,100,мл
+saint_clements,,2,Биттер-лимон,100,мл
+cucumber_cooler,,1,Огурец (кружки),5,шт
+cucumber_cooler,,2,Листья мяты,6,шт
+cucumber_cooler,,3,Сок лайма,22.5,мл
+cucumber_cooler,,4,Сахарный сироп,22.5,мл
+cucumber_cooler,,5,Содовая,120,мл
+switchel,,1,Яблочный уксус,15,мл
+switchel,,2,Мёд или кленовый сироп,22.5,мл
+switchel,,3,Свежий имбирь (тёртый),1,ч.л.
+switchel,,4,Холодная вода или содовая,180,мл
+shrub_soda,,1,"Фруктовый шраб (ягоды, сахар, уксус)",30,мл
+shrub_soda,,2,Содовая,150,мл
+agua_de_jamaica,,1,Сушёный гибискус (каркаде),10,г
+agua_de_jamaica,,2,Вода,250,мл
+agua_de_jamaica,,3,Сахар,15,мл
+agua_de_jamaica,,4,Сок лайма (опц.),10,мл
+thai_iced_tea,,1,Крепкий тайский чай (со специями),150,мл
+thai_iced_tea,,2,Сгущённое молоко,30,мл
+thai_iced_tea,,3,Сливки или эвапорированное молоко,30,мл
+matcha_tonic,,1,Матча (порошок),1,ч.л.
+matcha_tonic,,2,Тёплая вода,30,мл
+matcha_tonic,,3,Тоник,150,мл
+matcha_tonic,,4,Сок лайма,5,мл
+hot_apple_cider,,1,Нефильтрованный яблочный сок (сидр),200,мл
+hot_apple_cider,,2,Палочка корицы,1,шт
+hot_apple_cider,,3,Гвоздика,3,шт
+hot_apple_cider,,4,Апельсиновая цедра,1,шт
+hot_apple_cider,,5,Мёд (опц.),10,мл
+virgin_mule,,1,Имбирное пиво,150,мл
+virgin_mule,,2,Сок лайма,20,мл
+virgin_mule,,3,Листья мяты,4,шт
+safe_sex_on_the_beach,,1,Персиковый нектар или сироп,30,мл
+safe_sex_on_the_beach,,2,Апельсиновый сок,60,мл
+safe_sex_on_the_beach,,3,Клюквенный сок,60,мл
+nojito_watermelon,,1,Свежий арбуз (кубики),120,г
+nojito_watermelon,,2,Сок лайма,20,мл
+nojito_watermelon,,3,Сахарный сироп,15,мл
+nojito_watermelon,,4,Листья мяты,6,шт
+nojito_watermelon,,5,Содовая,60,мл
+virgin_paloma,,1,Грейпфрутовый сок,90,мл
+virgin_paloma,,2,Сок лайма,15,мл
+virgin_paloma,,3,Сироп агавы,15,мл
+virgin_paloma,,4,Содовая,90,мл
+virgin_paloma,,5,Соль,1,щепотка
+charlie_chaplin,,1,Тёрновый джин,30,мл
+charlie_chaplin,,2,Абрикосовый бренди (ликёр),30,мл
+charlie_chaplin,,3,Сок лайма,30,мл
+bitter_french,,1,Джин (London Dry),30,мл
+bitter_french,,2,Кампари,7.5,мл
+bitter_french,,3,Сок лимона,15,мл
+bitter_french,,4,Сахарный сироп,7.5,мл
+bitter_french,,5,Шампанское,60,мл
+royal_hawaiian,,1,Джин (London Dry),45,мл
+royal_hawaiian,,2,Ананасовый сок,30,мл
+royal_hawaiian,,3,Сок лимона,15,мл
+royal_hawaiian,,4,Оршад,15,мл
+boxcar,,1,Джин (London Dry),45,мл
+boxcar,,2,Трипл-сек,22.5,мл
+boxcar,,3,Сок лимона,15,мл
+boxcar,,4,Гренадин,1,б.л.
+boxcar,,5,Яичный белок,15,мл
+chrysanthemum,,1,Сухой вермут,60,мл
+chrysanthemum,,2,Бенедиктин,30,мл
+chrysanthemum,,3,Абсент,3,дэш
+conference,,1,Ржаной виски,15,мл
+conference,,2,Бурбон,15,мл
+conference,,3,Кальвадос,15,мл
+conference,,4,Коньяк,15,мл
+conference,,5,Демерара-сироп,7.5,мл
+conference,,6,Ангостура,2,дэш
+conference,,7,Биттер «Bitter Truth Xocolatl» или шоколадный,1,дэш
+loch_lomond,,1,Скотч (купажированный),60,мл
+loch_lomond,,2,Драмбуи,15,мл
+loch_lomond,,3,Сухой вермут,15,мл
+halekulani,,1,Бурбон,45,мл
+halekulani,,2,Сок лимона,15,мл
+halekulani,,3,Апельсиновый сок,15,мл
+halekulani,,4,Ананасовый сок,15,мл
+halekulani,,5,Демерара-сироп,7.5,мл
+halekulani,,6,Гренадин,1,б.л.
+halekulani,,7,Ангостура,1,дэш
+casa_blanca,,1,Белый ром,60,мл
+casa_blanca,,2,Трипл-сек,7.5,мл
+casa_blanca,,3,Мараскино,7.5,мл
+casa_blanca,,4,Сок лайма,7.5,мл
+chicago_fizz,,1,Тёмный ром,30,мл
+chicago_fizz,,2,Рубиновый портвейн,30,мл
+chicago_fizz,,3,Сок лимона,22.5,мл
+chicago_fizz,,4,Сахарный сироп,15,мл
+chicago_fizz,,5,Яичный белок,20,мл
+chicago_fizz,,6,Содовая,60,мл
+nui_nui,,1,Золотой ром,60,мл
+nui_nui,,2,Сок лайма,15,мл
+nui_nui,,3,Апельсиновый сок,15,мл
+nui_nui,,4,Коричный сироп,7.5,мл
+nui_nui,,5,Ванильный сироп,7.5,мл
+nui_nui,,6,Ликёр душистого перца,7.5,мл
+nui_nui,,7,Ангостура,1,дэш
+palmetto,,1,Выдержанный ром,45,мл
+palmetto,,2,Красный вермут,45,мл
+palmetto,,3,Апельсиновый биттер,2,дэш
+ice_pick,,1,Водка,45,мл
+ice_pick,,2,Холодный чай,150,мл
+ice_pick,,3,Сок лимона,15,мл
+diki_diki,,1,Кальвадос,45,мл
+diki_diki,,2,Шведский пунш (Swedish punsch),15,мл
+diki_diki,,3,Грейпфрутовый сок,15,мл
+port_sangaree,,1,Рубиновый портвейн,90,мл
+port_sangaree,,2,Сахарный сироп,7.5,мл
+port_sangaree,,3,Мускатный орех,,по вкусу
+milano_torino,,1,Кампари,30,мл
+milano_torino,,2,Красный вермут,30,мл
+vermut_con_sifon,,1,Красный вермут,75,мл
+vermut_con_sifon,,2,Газированная вода из сифона,60,мл
+spritzer,,1,Сухое белое вино,120,мл
+spritzer,,2,Газированная минеральная вода,120,мл
+clerico,,1,Сухое белое вино,150,мл
+clerico,,2,"Нарезанные фрукты (персик, яблоко, клубника, цитрусы)",,по вкусу
+clerico,,3,Сахар,10,мл
+clerico,,4,Апельсиновый сок,30,мл
+negus,,1,Портвейн,90,мл
+negus,,2,Горячая вода,90,мл
+negus,,3,Сахар,10,мл
+negus,,4,Сок лимона,10,мл
+negus,,5,Мускатный орех,,по вкусу
+kioki_coffee,,1,Кофейный ликёр,30,мл
+kioki_coffee,,2,Бренди,15,мл
+kioki_coffee,,3,Горячий кофе,120,мл
+kioki_coffee,,4,Взбитые сливки (опц.),,сверху
+tennessee_mud,,1,Теннесси-виски,30,мл
+tennessee_mud,,2,Амаретто,30,мл
+tennessee_mud,,3,Горячий кофе,120,мл
+tennessee_mud,,4,Взбитые сливки,,сверху
+cafe_royale,,1,Коньяк,20,мл
+cafe_royale,,2,Сахарный кубик,1,шт
+cafe_royale,,3,Горячий чёрный кофе,120,мл
+pharisaer,,1,Тёмный ром,30,мл
+pharisaer,,2,Горячий крепкий кофе,120,мл
+pharisaer,,3,Сахар,1,ч.л.
+pharisaer,,4,Взбитые сливки,,сверху
+rudesheimer_kaffee,,1,Немецкий бренди (Asbach Uralt),40,мл
+rudesheimer_kaffee,,2,Сахарные кубики,3,шт
+rudesheimer_kaffee,,3,Горячий кофе,120,мл
+rudesheimer_kaffee,,4,Взбитые сливки с ванилью,,сверху
+rudesheimer_kaffee,,5,Тёртый шоколад,,по вкусу
+mexican_coffee,,1,Текила репосадо,20,мл
+mexican_coffee,,2,Кофейный ликёр,20,мл
+mexican_coffee,,3,Горячий кофе,120,мл
+mexican_coffee,,4,Взбитые сливки,,сверху
+mexican_coffee,,5,Корица,,по вкусу
+beergarita,,1,Текила бланко,30,мл
+beergarita,,2,Трипл-сек,15,мл
+beergarita,,3,Сок лайма,30,мл
+beergarita,,4,Мексиканское светлое пиво,180,мл
+biere_picon,,1,Светлое пиво,250,мл
+biere_picon,,2,Amer Picon,30,мл
+biere_picon,,3,Гренадин (опц.),5,мл
+red_eye,,1,Светлое пиво,250,мл
+red_eye,,2,Томатный сок,120,мл
+red_eye,,3,"Соль, перец",,по вкусу
+saketini,,1,Джин или водка,45,мл
+saketini,,2,Сухое сакэ,15,мл
+chuhai,,1,Сётю,45,мл
+chuhai,,2,Свежий сок лимона,20,мл
+chuhai,,3,Газированная вода,140,мл
+trident,,1,Аквавит,30,мл
+trident,,2,Сухой херес (фино),30,мл
+trident,,3,Амаро Cynar,30,мл
+trident,,4,Персиковый биттер,2,дэш
+jungle_juice,,1,Водка,30,мл
+jungle_juice,,2,Белый ром,15,мл
+jungle_juice,,3,Фруктовый пунш или смесь соков,120,мл
+jungle_juice,,4,Лимонад,30,мл
+jungle_juice,,5,Нарезанные фрукты,,по вкусу
+terremoto,,1,Пипеньо (молодое белое вино),200,мл
+terremoto,,2,Ананасовое мороженое,1,шарик
+terremoto,,3,Гренадин или фернет (капля),10,мл
+piscola,,1,Чилийское писко,50,мл
+piscola,,2,Кола,150,мл
+cola_de_mono,,1,Агуардиенте или писко,45,мл
+cola_de_mono,,2,Молоко,90,мл
+cola_de_mono,,3,Крепкий кофе,30,мл
+cola_de_mono,,4,Сахар,15,мл
+cola_de_mono,,5,"Корица, гвоздика, ваниль",,по вкусу
+rompope,,1,Ром или бренди,30,мл
+rompope,,2,Молоко,90,мл
+rompope,,3,Яичный желток,1,шт
+rompope,,4,Сахар,15,мл
+rompope,,5,"Ваниль, корица",,по вкусу
+quentao,,1,Кашаса,60,мл
+quentao,,2,Вода,60,мл
+quentao,,3,Свежий имбирь,3,ломтик
+quentao,,4,Сахар,15,мл
+quentao,,5,"Корица, гвоздика, цедра апельсина",,по вкусу
+canelazo,,1,Агуардиенте (тростниковый),45,мл
+canelazo,,2,Отвар корицы,120,мл
+canelazo,,3,Тростниковый сахар (панела),15,мл
+canelazo,,4,Сок наранхильи или лайма,15,мл
+feuerzangenbowle,,1,Красное вино,150,мл
+feuerzangenbowle,,2,Крепкий ром (54%+),20,мл
+feuerzangenbowle,,3,"Апельсин, корица, гвоздика, бадьян",,по вкусу
+feuerzangenbowle,,4,Сахарная голова,1,кусок
+eierpunsch,,1,Белое вино,120,мл
+eierpunsch,,2,Яичные желтки,2,шт
+eierpunsch,,3,Сахар,20,мл
+eierpunsch,,4,Ваниль,,по вкусу
+eierpunsch,,5,Взбитые сливки,,сверху
+queimada,,1,Орухо (галисийская виноградная водка),100,мл
+queimada,,2,Сахар,20,мл
+queimada,,3,Лимонная цедра,1,шт
+queimada,,4,Кофейные зёрна,5,шт
+pastis,,1,Пастис (Ricard или Pastis 51),30,мл
+pastis,,2,Холодная вода,150,мл
+mauresque,,1,Пастис,30,мл
+mauresque,,2,Оршад (миндальный сироп),15,мл
+mauresque,,3,Холодная вода,150,мл
+monaco,,1,Светлое пиво,150,мл
+monaco,,2,Лимонад,100,мл
+monaco,,3,Гренадин,15,мл
+soju_yakult,,1,Соджу,60,мл
+soju_yakult,,2,Якульт (кисломолочный напиток),65,мл
+soju_yakult,,3,Лимонно-лаймовая газировка,60,мл
+mexican_flag,,1,Гренадин,15,мл
+mexican_flag,,2,Зелёный мятный ликёр,15,мл
+mexican_flag,,3,Текила бланко,15,мл
+port_and_starboard,,1,Гренадин,15,мл
+port_and_starboard,,2,Зелёный мятный ликёр,15,мл
+somaek,,1,Соджу,30,мл
+somaek,,2,Корейское светлое пиво,150,мл
+oatmeal_cookie,,1,Ирисковый шнапс,15,мл
+oatmeal_cookie,,2,Сливочный ликёр (Baileys),15,мл
+oatmeal_cookie,,3,Jägermeister,10,мл
+oatmeal_cookie,,4,Коричный шнапс,5,мл
+diabolo_menthe,,1,Мятный сироп,20,мл
+diabolo_menthe,,2,Лимонад (газированный),200,мл
+florida_mocktail,,1,Грейпфрутовый сок,60,мл
+florida_mocktail,,2,Апельсиновый сок,30,мл
+florida_mocktail,,3,Сок лимона,15,мл
+florida_mocktail,,4,Сахарный сироп,10,мл
+florida_mocktail,,5,Содовая,60,мл
+ponche_navideno,,1,Вода,250,мл
+ponche_navideno,,2,"Гуава, яблоко, тейокоте, апельсин (нарезка)",,по вкусу
+ponche_navideno,,3,Тростниковый сахар (пилонсильо),20,мл
+ponche_navideno,,4,Палочка корицы,1,шт
+ponche_navideno,,5,Каркаде (цветки гибискуса),3,г
+old_fashioned,old_fashioned_muddled,1,Бренди или бурбон,45,мл
+old_fashioned,old_fashioned_muddled,2,Сахарный кубик,1,шт
+old_fashioned,old_fashioned_muddled,3,Ангостура,3,дэш
+old_fashioned,old_fashioned_muddled,4,Долька апельсина,1,шт
+old_fashioned,old_fashioned_muddled,5,Коктейльная вишня,1,шт
+old_fashioned,old_fashioned_muddled,6,Лимонад или содовая,60,мл
+old_fashioned,rum_old_fashioned,1,Выдержанный ром,60,мл
+old_fashioned,rum_old_fashioned,2,Сироп демерара,7.5,мл
+old_fashioned,rum_old_fashioned,3,Ангостура,2,дэш
+manhattan,perfect_manhattan,1,Ржаной виски,50,мл
+manhattan,perfect_manhattan,2,Красный вермут,10,мл
+manhattan,perfect_manhattan,3,Сухой вермут,10,мл
+manhattan,perfect_manhattan,4,Ангостура,1,дэш
+manhattan,dry_manhattan,1,Ржаной виски,50,мл
+manhattan,dry_manhattan,2,Сухой вермут,20,мл
+manhattan,dry_manhattan,3,Ангостура,1,дэш
+manhattan,bourbon_manhattan,1,Бурбон,50,мл
+manhattan,bourbon_manhattan,2,Красный вермут,20,мл
+manhattan,bourbon_manhattan,3,Ангостура,2,дэш
+rob_roy,perfect_rob_roy,1,Скотч (купажированный),50,мл
+rob_roy,perfect_rob_roy,2,Красный вермут,12.5,мл
+rob_roy,perfect_rob_roy,3,Сухой вермут,12.5,мл
+rob_roy,perfect_rob_roy,4,Ангостура,1,дэш
+sazerac,sazerac_cognac,1,Коньяк,60,мл
+sazerac,sazerac_cognac,2,Абсент (ополаскивание),5,мл
+sazerac,sazerac_cognac,3,Сахарный кубик,1,шт
+sazerac,sazerac_cognac,4,Пейшо биттер,3,дэш
+whiskey_sour,whiskey_sour_no_egg,1,Бурбон,60,мл
+whiskey_sour,whiskey_sour_no_egg,2,Сок лимона,22.5,мл
+whiskey_sour,whiskey_sour_no_egg,3,Сахарный сироп,22.5,мл
+whiskey_sour,boston_sour,1,Бурбон,45,мл
+whiskey_sour,boston_sour,2,Сок лимона,25,мл
+whiskey_sour,boston_sour,3,Сахарный сироп,20,мл
+whiskey_sour,boston_sour,4,Яичный белок,20,мл
+mint_julep,georgia_mint_julep,1,Коньяк,45,мл
+mint_julep,georgia_mint_julep,2,Персиковый бренди (ликёр),15,мл
+mint_julep,georgia_mint_julep,3,Сахарный сироп,10,мл
+mint_julep,georgia_mint_julep,4,Листья мяты,8,шт
+penicillin,penicillin_bourbon,1,Бурбон,60,мл
+penicillin,penicillin_bourbon,2,Сок лимона,22.5,мл
+penicillin,penicillin_bourbon,3,Медово-имбирный сироп,22.5,мл
+penicillin,penicillin_bourbon,4,Торфяной скотч (Айла),7.5,мл
+godfather,godmother,1,Водка,45,мл
+godfather,godmother,2,Амаретто,20,мл
+godfather,godchild,1,Водка,30,мл
+godfather,godchild,2,Амаретто,30,мл
+godfather,godchild,3,Сливки,30,мл
+irish_coffee,jamaican_coffee,1,Тёмный ром,30,мл
+irish_coffee,jamaican_coffee,2,Кофейный ликёр,20,мл
+irish_coffee,jamaican_coffee,3,Горячий кофе,120,мл
+irish_coffee,jamaican_coffee,4,Взбитые сливки,,сверху
+irish_coffee,baileys_coffee,1,Сливочный ликёр (Baileys),45,мл
+irish_coffee,baileys_coffee,2,Горячий кофе,150,мл
+irish_coffee,baileys_coffee,3,Взбитые сливки (опц.),,сверху
+hot_toddy,hot_toddy_tea,1,Виски,50,мл
+hot_toddy,hot_toddy_tea,2,Мёд,15,мл
+hot_toddy,hot_toddy_tea,3,Сок лимона,15,мл
+hot_toddy,hot_toddy_tea,4,Горячий чёрный чай,120,мл
+dry_martini,dirty_martini,1,Джин или водка,60,мл
+dry_martini,dirty_martini,2,Сухой вермут,10,мл
+dry_martini,dirty_martini,3,Рассол оливок,15,мл
+dry_martini,gibson,1,Джин (London Dry),60,мл
+dry_martini,gibson,2,Сухой вермут,10,мл
+dry_martini,vodka_martini,1,Водка,60,мл
+dry_martini,vodka_martini,2,Сухой вермут,10,мл
+dry_martini,fifty_fifty_martini,1,Джин (London Dry),40,мл
+dry_martini,fifty_fifty_martini,2,Сухой вермут,40,мл
+dry_martini,fifty_fifty_martini,3,Апельсиновый биттер,1,дэш
+dry_martini,perfect_martini,1,Джин (London Dry),60,мл
+dry_martini,perfect_martini,2,Сухой вермут,7.5,мл
+dry_martini,perfect_martini,3,Красный вермут,7.5,мл
+negroni,mezcal_negroni,1,Мескаль,30,мл
+negroni,mezcal_negroni,2,Кампари,30,мл
+negroni,mezcal_negroni,3,Красный вермут,30,мл
+negroni,kingston_negroni,1,Ямайский ром,30,мл
+negroni,kingston_negroni,2,Кампари,30,мл
+negroni,kingston_negroni,3,Красный вермут,30,мл
+negroni,negroni_on_tap,1,Джин (London Dry),45,мл
+negroni,negroni_on_tap,2,Кампари,22.5,мл
+negroni,negroni_on_tap,3,Красный вермут,22.5,мл
+tom_collins,vodka_collins,1,Водка,45,мл
+tom_collins,vodka_collins,2,Сок лимона,30,мл
+tom_collins,vodka_collins,3,Сахарный сироп,15,мл
+tom_collins,vodka_collins,4,Содовая,60,мл
+tom_collins,juan_collins,1,Текила бланко,45,мл
+tom_collins,juan_collins,2,Сок лимона,30,мл
+tom_collins,juan_collins,3,Сироп агавы,15,мл
+tom_collins,juan_collins,4,Содовая,60,мл
+tom_collins,john_collins_whiskey,1,Бурбон,45,мл
+tom_collins,john_collins_whiskey,2,Сок лимона,30,мл
+tom_collins,john_collins_whiskey,3,Сахарный сироп,15,мл
+tom_collins,john_collins_whiskey,4,Содовая,60,мл
+gin_fizz,silver_fizz,1,Джин (London Dry),45,мл
+gin_fizz,silver_fizz,2,Сок лимона,30,мл
+gin_fizz,silver_fizz,3,Сахарный сироп,15,мл
+gin_fizz,silver_fizz,4,Яичный белок,20,мл
+gin_fizz,silver_fizz,5,Содовая,60,мл
+gin_fizz,golden_fizz,1,Джин (London Dry),45,мл
+gin_fizz,golden_fizz,2,Сок лимона,30,мл
+gin_fizz,golden_fizz,3,Сахарный сироп,15,мл
+gin_fizz,golden_fizz,4,Яичный желток,1,шт
+gin_fizz,golden_fizz,5,Содовая,60,мл
+gin_fizz,royal_fizz,1,Джин (London Dry),45,мл
+gin_fizz,royal_fizz,2,Сок лимона,30,мл
+gin_fizz,royal_fizz,3,Сахарный сироп,15,мл
+gin_fizz,royal_fizz,4,Яйцо целиком,1,шт
+gin_fizz,royal_fizz,5,Содовая,60,мл
+gin_fizz,diamond_fizz,1,Джин (London Dry),45,мл
+gin_fizz,diamond_fizz,2,Сок лимона,30,мл
+gin_fizz,diamond_fizz,3,Сахарный сироп,15,мл
+gin_fizz,diamond_fizz,4,Шампанское,60,мл
+gin_and_tonic,gintonic_spanish,1,Джин,50,мл
+gin_and_tonic,gintonic_spanish,2,Премиальный тоник,200,мл
+gin_and_tonic,gintonic_spanish,3,"Ботанический гарнир (можжевельник, цедра, перец, травы)",,по вкусу
+french_75,french_75_cognac,1,Коньяк,30,мл
+french_75,french_75_cognac,2,Сок лимона,15,мл
+french_75,french_75_cognac,3,Сахарный сироп,15,мл
+french_75,french_75_cognac,4,Шампанское,60,мл
+gimlet,gimlet_cordial,1,Джин (London Dry),60,мл
+gimlet,gimlet_cordial,2,Лаймовый кордиал (Rose's),30,мл
+gimlet,vodka_gimlet,1,Водка,60,мл
+gimlet,vodka_gimlet,2,Сок лайма,20,мл
+gimlet,vodka_gimlet,3,Сахарный сироп,15,мл
+singapore_sling,straits_sling,1,Джин (London Dry),60,мл
+singapore_sling,straits_sling,2,Черри-бренди (вишнёвый ликёр),15,мл
+singapore_sling,straits_sling,3,Бенедиктин,15,мл
+singapore_sling,straits_sling,4,Сок лимона,22.5,мл
+singapore_sling,straits_sling,5,Ангостура,2,дэш
+singapore_sling,straits_sling,6,Апельсиновый биттер,2,дэш
+singapore_sling,straits_sling,7,Содовая,60,мл
+brandy_alexander,alexander_gin,1,Джин (London Dry),30,мл
+brandy_alexander,alexander_gin,2,Белый ликёр какао (crème de cacao),30,мл
+brandy_alexander,alexander_gin,3,Сливки,30,мл
+vesper,vesper_cocchi,1,Джин (London Dry),45,мл
+vesper,vesper_cocchi,2,Водка,15,мл
+vesper,vesper_cocchi,3,Cocchi Americano,7.5,мл
+daiquiri,frozen_daiquiri,1,Белый ром,60,мл
+daiquiri,frozen_daiquiri,2,Сок лайма,25,мл
+daiquiri,frozen_daiquiri,3,Сахарный сироп,20,мл
+daiquiri,frozen_daiquiri,4,Дроблёный лёд,1,стакан
+daiquiri,strawberry_daiquiri,1,Белый ром,50,мл
+daiquiri,strawberry_daiquiri,2,Сок лайма,20,мл
+daiquiri,strawberry_daiquiri,3,Сахарный сироп,15,мл
+daiquiri,strawberry_daiquiri,4,Клубника,5,шт
+daiquiri,banana_daiquiri,1,Белый ром,50,мл
+daiquiri,banana_daiquiri,2,Банановый ликёр,15,мл
+daiquiri,banana_daiquiri,3,Банан,0.5,шт
+daiquiri,banana_daiquiri,4,Сок лайма,20,мл
+daiquiri,banana_daiquiri,5,Сахарный сироп,10,мл
+daiquiri,daiquiri_no4,1,Белый ром,60,мл
+daiquiri,daiquiri_no4,2,Сок лайма,20,мл
+daiquiri,daiquiri_no4,3,Сахарный сироп,10,мл
+daiquiri,daiquiri_no4,4,Мараскино,1,б.л.
+mojito,virgin_mojito,1,Сок лайма,25,мл
+mojito,virgin_mojito,2,Тростниковый сахар,2,ч.л.
+mojito,virgin_mojito,3,Листья мяты,8,шт
+mojito,virgin_mojito,4,Содовая или спрайт,150,мл
+mojito,strawberry_mojito,1,Белый ром,45,мл
+mojito,strawberry_mojito,2,Сок лайма,20,мл
+mojito,strawberry_mojito,3,Тростниковый сахар,2,ч.л.
+mojito,strawberry_mojito,4,Листья мяты,6,шт
+mojito,strawberry_mojito,5,Клубника,3,шт
+mojito,strawberry_mojito,6,Содовая,60,мл
+mojito,royal_mojito,1,Белый ром,45,мл
+mojito,royal_mojito,2,Сок лайма,20,мл
+mojito,royal_mojito,3,Тростниковый сахар,2,ч.л.
+mojito,royal_mojito,4,Листья мяты,6,шт
+mojito,royal_mojito,5,Шампанское,60,мл
+mai_tai,mai_tai_royal_hawaiian,1,Белый ром,30,мл
+mai_tai,mai_tai_royal_hawaiian,2,Тёмный ром (флоат),30,мл
+mai_tai,mai_tai_royal_hawaiian,3,Апельсиновый кюрасао,15,мл
+mai_tai,mai_tai_royal_hawaiian,4,Оршад,15,мл
+mai_tai,mai_tai_royal_hawaiian,5,Сок лайма,22.5,мл
+mai_tai,mai_tai_royal_hawaiian,6,Ананасовый сок,60,мл
+mai_tai,mai_tai_royal_hawaiian,7,Апельсиновый сок,30,мл
+pina_colada,virgin_colada,1,Кокосовые сливки,45,мл
+pina_colada,virgin_colada,2,Ананасовый сок,90,мл
+pina_colada,virgin_colada,3,Сок лайма,10,мл
+pina_colada,chi_chi,1,Водка,45,мл
+pina_colada,chi_chi,2,Кокосовые сливки,30,мл
+pina_colada,chi_chi,3,Ананасовый сок,90,мл
+caipirinha,caipiroska,1,Водка,60,мл
+caipirinha,caipiroska,2,Лайм,0.5,шт
+caipirinha,caipiroska,3,Тростниковый сахар,2,ч.л.
+caipirinha,caipirissima,1,Белый ром,60,мл
+caipirinha,caipirissima,2,Лайм,0.5,шт
+caipirinha,caipirissima,3,Тростниковый сахар,2,ч.л.
+caipirinha,caipirinha_fruit,1,Кашаса,60,мл
+caipirinha,caipirinha_fruit,2,Лайм,0.25,шт
+caipirinha,caipirinha_fruit,3,"Фрукты (маракуйя, клубника, киви)",,по вкусу
+caipirinha,caipirinha_fruit,4,Тростниковый сахар,2,ч.л.
+cuba_libre,cuba_libre_dark,1,Тёмный или пряный ром,50,мл
+cuba_libre,cuba_libre_dark,2,Кола,120,мл
+cuba_libre,cuba_libre_dark,3,Сок лайма,10,мл
+margarita,frozen_margarita,1,Текила бланко,50,мл
+margarita,frozen_margarita,2,Трипл-сек,20,мл
+margarita,frozen_margarita,3,Сок лайма,25,мл
+margarita,frozen_margarita,4,Сахарный сироп,15,мл
+margarita,frozen_margarita,5,Дроблёный лёд,1,стакан
+margarita,spicy_margarita,1,Текила бланко (или настоянная на халапеньо),50,мл
+margarita,spicy_margarita,2,Трипл-сек или сироп агавы,15,мл
+margarita,spicy_margarita,3,Сок лайма,25,мл
+margarita,spicy_margarita,4,Халапеньо (кружки),2,шт
+margarita,mezcal_margarita,1,Мескаль,50,мл
+margarita,mezcal_margarita,2,Трипл-сек,20,мл
+margarita,mezcal_margarita,3,Сок лайма,20,мл
+margarita,strawberry_margarita,1,Текила бланко,45,мл
+margarita,strawberry_margarita,2,Трипл-сек,15,мл
+margarita,strawberry_margarita,3,Сок лайма,20,мл
+margarita,strawberry_margarita,4,Клубника,5,шт
+margarita,strawberry_margarita,5,Сахарный сироп,10,мл
+margarita,cadillac_margarita,1,Текила репосадо,50,мл
+margarita,cadillac_margarita,2,Гран Марнье,20,мл
+margarita,cadillac_margarita,3,Сок лайма,20,мл
+margarita,cadillac_margarita,4,Сироп агавы (опц.),5,мл
+paloma,paloma_fresh,1,Текила бланко,50,мл
+paloma,paloma_fresh,2,Свежий грейпфрутовый сок,60,мл
+paloma,paloma_fresh,3,Сок лайма,15,мл
+paloma,paloma_fresh,4,Сироп агавы,10,мл
+paloma,paloma_fresh,5,Содовая,60,мл
+paloma,paloma_fresh,6,Соль,1,щепотка
+tequila_sunrise,tequila_sunrise_biltmore,1,Текила бланко,45,мл
+tequila_sunrise,tequila_sunrise_biltmore,2,Ликёр кассис (crème de cassis),15,мл
+tequila_sunrise,tequila_sunrise_biltmore,3,Сок лайма,15,мл
+tequila_sunrise,tequila_sunrise_biltmore,4,Содовая,90,мл
+moscow_mule,mexican_mule,1,Текила бланко,45,мл
+moscow_mule,mexican_mule,2,Имбирное пиво,120,мл
+moscow_mule,mexican_mule,3,Сок лайма,15,мл
+moscow_mule,london_mule,1,Джин (London Dry),45,мл
+moscow_mule,london_mule,2,Имбирное пиво,120,мл
+moscow_mule,london_mule,3,Сок лайма,10,мл
+moscow_mule,irish_mule,1,Ирландский виски,45,мл
+moscow_mule,irish_mule,2,Имбирное пиво,120,мл
+moscow_mule,irish_mule,3,Сок лайма,10,мл
+bloody_mary,bloody_maria,1,Текила бланко,45,мл
+bloody_mary,bloody_maria,2,Томатный сок,90,мл
+bloody_mary,bloody_maria,3,Сок лайма,15,мл
+bloody_mary,bloody_maria,4,Вустерширский соус,2,дэш
+bloody_mary,bloody_maria,5,Острый соус,2,дэш
+bloody_mary,bloody_maria,6,"Соль, перец",,по вкусу
+bloody_mary,red_snapper,1,Джин (London Dry),45,мл
+bloody_mary,red_snapper,2,Томатный сок,90,мл
+bloody_mary,red_snapper,3,Сок лимона,15,мл
+bloody_mary,red_snapper,4,Вустерширский соус,2,дэш
+bloody_mary,red_snapper,5,Табаско,1,дэш
+bloody_mary,red_snapper,6,"Соль, перец",,по вкусу
+bloody_mary,bloody_caesar,1,Водка,45,мл
+bloody_mary,bloody_caesar,2,Clamato (томатный сок с соком моллюсков),120,мл
+bloody_mary,bloody_caesar,3,Вустерширский соус,2,дэш
+bloody_mary,bloody_caesar,4,Табаско,2,дэш
+bloody_mary,bloody_caesar,5,Сок лайма,10,мл
+bloody_mary,bloody_caesar,6,Сельдереевая соль (ободок),,по вкусу
+bloody_mary,virgin_mary,1,Томатный сок,150,мл
+bloody_mary,virgin_mary,2,Сок лимона,15,мл
+bloody_mary,virgin_mary,3,Вустерширский соус,2,дэш
+bloody_mary,virgin_mary,4,Табаско,1,дэш
+bloody_mary,virgin_mary,5,"Соль, перец",,по вкусу
+white_russian,colorado_bulldog,1,Водка,30,мл
+white_russian,colorado_bulldog,2,Кофейный ликёр,30,мл
+white_russian,colorado_bulldog,3,Сливки,30,мл
+white_russian,colorado_bulldog,4,Кола,60,мл
+white_russian,white_russian_oat,1,Водка,50,мл
+white_russian,white_russian_oat,2,Кофейный ликёр,20,мл
+white_russian,white_russian_oat,3,Овсяное молоко (бариста),40,мл
+espresso_martini,espresso_martini_tequila,1,Текила репосадо или выдержанный ром,45,мл
+espresso_martini,espresso_martini_tequila,2,Кофейный ликёр,15,мл
+espresso_martini,espresso_martini_tequila,3,Свежий эспрессо,30,мл
+espresso_martini,espresso_martini_tequila,4,Сахарный сироп,10,мл
+cosmopolitan,white_cosmo,1,Водка-цитрон,40,мл
+cosmopolitan,white_cosmo,2,Куантро,15,мл
+cosmopolitan,white_cosmo,3,Сок белой клюквы,30,мл
+cosmopolitan,white_cosmo,4,Сок лайма,15,мл
+sea_breeze,bay_breeze,1,Водка,40,мл
+sea_breeze,bay_breeze,2,Клюквенный сок,90,мл
+sea_breeze,bay_breeze,3,Ананасовый сок,60,мл
+long_island_iced_tea,long_beach_iced_tea,1,Водка,15,мл
+long_island_iced_tea,long_beach_iced_tea,2,Джин,15,мл
+long_island_iced_tea,long_beach_iced_tea,3,Белый ром,15,мл
+long_island_iced_tea,long_beach_iced_tea,4,Текила,15,мл
+long_island_iced_tea,long_beach_iced_tea,5,Трипл-сек,15,мл
+long_island_iced_tea,long_beach_iced_tea,6,Сок лимона,25,мл
+long_island_iced_tea,long_beach_iced_tea,7,Сахарный сироп,15,мл
+long_island_iced_tea,long_beach_iced_tea,8,Клюквенный сок,,долить
+long_island_iced_tea,tokyo_tea,1,Водка,15,мл
+long_island_iced_tea,tokyo_tea,2,Джин,15,мл
+long_island_iced_tea,tokyo_tea,3,Белый ром,15,мл
+long_island_iced_tea,tokyo_tea,4,Текила,15,мл
+long_island_iced_tea,tokyo_tea,5,Трипл-сек,15,мл
+long_island_iced_tea,tokyo_tea,6,Дынный ликёр (Midori),15,мл
+long_island_iced_tea,tokyo_tea,7,Сок лимона,25,мл
+long_island_iced_tea,tokyo_tea,8,Лимонад,,долить
+aperol_spritz,campari_spritz,1,Просекко,90,мл
+aperol_spritz,campari_spritz,2,Кампари,60,мл
+aperol_spritz,campari_spritz,3,Содовая,30,мл
+aperol_spritz,select_spritz,1,Просекко,90,мл
+aperol_spritz,select_spritz,2,Select Aperitivo,60,мл
+aperol_spritz,select_spritz,3,Содовая,30,мл
+aperol_spritz,aperol_spritz_white_wine,1,Сухое белое вино,90,мл
+aperol_spritz,aperol_spritz_white_wine,2,Апероль,60,мл
+aperol_spritz,aperol_spritz_white_wine,3,Содовая,60,мл
+bellini,rossini,1,Пюре клубники,50,мл
+bellini,rossini,2,Просекко,100,мл
+bellini,puccini,1,Сок мандарина,50,мл
+bellini,puccini,2,Просекко,100,мл
+bellini,tintoretto,1,Гранатовый сок,50,мл
+bellini,tintoretto,2,Просекко,100,мл
+mimosa,bucks_fizz,1,Апельсиновый сок,50,мл
+mimosa,bucks_fizz,2,Шампанское,100,мл
+kir_royale,kir,1,Ликёр кассис (crème de cassis),15,мл
+kir_royale,kir,2,Белое вино алиготе,90,мл
+kir_royale,kir_imperial,1,Малиновый ликёр (crème de framboise или Chambord),15,мл
+kir_royale,kir_imperial,2,Шампанское,90,мл
+kir_royale,cardinal,1,Ликёр кассис (crème de cassis),15,мл
+kir_royale,cardinal,2,Красное вино (божоле),90,мл
+mulled_wine,white_mulled_wine,1,Сухое белое вино,200,мл
+mulled_wine,white_mulled_wine,2,Мёд,15,мл
+mulled_wine,white_mulled_wine,3,Апельсин и лимон (дольки),2,шт
+mulled_wine,white_mulled_wine,4,"Корица, кардамон, бадьян",,по вкусу
+mulled_wine,white_mulled_wine,5,Имбирь (ломтики),2,шт
+mulled_wine,non_alc_mulled,1,Красный виноградный или вишнёвый сок,200,мл
+mulled_wine,non_alc_mulled,2,Апельсин (дольки),2,шт
+mulled_wine,non_alc_mulled,3,"Корица, гвоздика, бадьян",,по вкусу
+mulled_wine,non_alc_mulled,4,Сок лимона,10,мл
+mulled_wine,glogg,1,Красное вино,150,мл
+mulled_wine,glogg,2,Водка или портвейн,30,мл
+mulled_wine,glogg,3,Сахар,15,мл
+mulled_wine,glogg,4,"Специи (кардамон, корица, гвоздика, цедра)",,по вкусу
+mulled_wine,glogg,5,Изюм и миндаль,,по вкусу
+sangria,sangria_blanca,1,Сухое белое вино,150,мл
+sangria,sangria_blanca,2,Бренди или персиковый ликёр,20,мл
+sangria,sangria_blanca,3,"Персик, яблоко, цитрусы (нарезка)",,по вкусу
+sangria,sangria_blanca,4,Сахарный сироп,10,мл
+sangria,sangria_blanca,5,Содовая,30,мл
+sangria,sangria_cava,1,Кава (испанское игристое),150,мл
+sangria,sangria_cava,2,Апельсиновый ликёр,15,мл
+sangria,sangria_cava,3,Ягоды и цитрусы,,по вкусу
+grasshopper,frozen_grasshopper,1,Зелёный мятный ликёр,30,мл
+grasshopper,frozen_grasshopper,2,Белый ликёр какао,30,мл
+grasshopper,frozen_grasshopper,3,Ванильное мороженое,2,шарик
+pisco_sour,pisco_sour_chilean,1,Чилийское писко,60,мл
+pisco_sour,pisco_sour_chilean,2,Сок лимона (pica),30,мл
+pisco_sour,pisco_sour_chilean,3,Сахарная пудра,2,ч.л.
+amaretto_sour,amaretto_sour_classic,1,Амаретто,60,мл
+amaretto_sour,amaretto_sour_classic,2,Сок лимона,30,мл
+amaretto_sour,amaretto_sour_classic,3,Сахарный сироп,10,мл
+eggnog,tom_and_jerry,1,Тёмный ром,30,мл
+eggnog,tom_and_jerry,2,Коньяк,30,мл
+eggnog,tom_and_jerry,3,Яичное тесто (взбитые яйца с сахаром и специями),2,ст.л.
+eggnog,tom_and_jerry,4,Горячее молоко,120,мл
+michelada,chelada,1,Светлое пиво (лагер),330,мл
+michelada,chelada,2,Сок лайма,30,мл
+michelada,chelada,3,Соль для ободка,,по вкусу
+michelada,michelada_clamato,1,Светлое пиво (лагер),250,мл
+michelada,michelada_clamato,2,Clamato,90,мл
+michelada,michelada_clamato,3,Сок лайма,30,мл
+michelada,michelada_clamato,4,Вустерширский и острый соусы,2,дэш
+michelada,michelada_clamato,5,Соль с чили для ободка,,по вкусу
+shirley_temple,roy_rogers,1,Кола,150,мл
+shirley_temple,roy_rogers,2,Гренадин,15,мл
+shirley_temple,dirty_shirley,1,Водка,45,мл
+shirley_temple,dirty_shirley,2,Лимонад (спрайт),150,мл
+shirley_temple,dirty_shirley,3,Гренадин,15,мл
+negroni_sbagliato,sbagliato_bianco,1,Белый биттер (bitter bianco),30,мл
+negroni_sbagliato,sbagliato_bianco,2,Бланко-вермут,30,мл
+negroni_sbagliato,sbagliato_bianco,3,Просекко,30,мл
+dark_n_stormy,dark_n_stormy_spiced,1,Пряный ром,50,мл
+dark_n_stormy,dark_n_stormy_spiced,2,Имбирное пиво,120,мл
+dark_n_stormy,dark_n_stormy_spiced,3,Сок лайма,15,мл
+dark_n_stormy,dark_n_stormy_spiced,4,Ангостура,2,дэш
+tequila_shot,tequila_orange_cinnamon,1,Текила (золотая или репосадо),40,мл
+tequila_shot,tequila_orange_cinnamon,2,Долька апельсина,1,шт
+tequila_shot,tequila_orange_cinnamon,3,Молотая корица,,по вкусу
+b52,b52_flaming,1,Кофейный ликёр,20,мл
+b52,b52_flaming,2,Сливочный ликёр (Baileys),20,мл
+b52,b52_flaming,3,Апельсиновый ликёр (Grand Marnier),15,мл
+b52,b52_flaming,4,Крепкий ром (флоат),5,мл
+b52,b55,1,Кофейный ликёр,20,мл
+b52,b55,2,Сливочный ликёр (Baileys),20,мл
+b52,b55,3,Абсент,20,мл
+three_wise_men,four_horsemen,1,Теннесси-виски,10,мл
+three_wise_men,four_horsemen,2,Скотч,10,мл
+three_wise_men,four_horsemen,3,Бурбон,10,мл
+three_wise_men,four_horsemen,4,Текила (Jose Cuervo),10,мл
+screaming_orgasm,orgasm_shot,1,Амаретто,15,мл
+screaming_orgasm,orgasm_shot,2,Кофейный ликёр,15,мл
+screaming_orgasm,orgasm_shot,3,Сливочный ликёр (Baileys),15,мл
+brain_hemorrhage,alien_brain_hemorrhage,1,Персиковый шнапс,20,мл
+brain_hemorrhage,alien_brain_hemorrhage,2,Сливочный ликёр (Baileys),5,мл
+brain_hemorrhage,alien_brain_hemorrhage,3,Блю кюрасао,3,капля
+brain_hemorrhage,alien_brain_hemorrhage,4,Гренадин,3,капля
+sambuca_con_la_mosca,sambuca_flambe,1,Самбука,40,мл
+sambuca_con_la_mosca,sambuca_flambe,2,Кофейные зёрна,3,шт
+kalashnikov,kalashnikov_mix,1,Водка-цитрон,30,мл
+kalashnikov,kalashnikov_mix,2,Сок лимона,10,мл
+kalashnikov,kalashnikov_mix,3,Кофейный ликёр,10,мл
+bandera,bandera_mezcal,1,Сок лайма,30,мл
+bandera,bandera_mezcal,2,Мескаль,30,мл
+bandera,bandera_mezcal,3,Сангрита,30,мл
+bandera,bandera_mezcal,4,Долька апельсина с солью червячка (sal de gusano),1,шт
+whiskey_sour,gin_sour,1,Джин (London Dry),50,мл
+whiskey_sour,gin_sour,2,Сок лимона,25,мл
+whiskey_sour,gin_sour,3,Сахарный сироп,20,мл
+whiskey_sour,gin_sour,4,Яичный белок (опц.),20,мл
+whiskey_sour,rum_sour,1,Выдержанный ром,50,мл
+whiskey_sour,rum_sour,2,Сок лайма,25,мл
+whiskey_sour,rum_sour,3,Демерара-сироп,20,мл
+whiskey_sour,rum_sour,4,Яичный белок (опц.),20,мл
+whiskey_sour,scotch_sour,1,Скотч (купажированный),50,мл
+whiskey_sour,scotch_sour,2,Сок лимона,25,мл
+whiskey_sour,scotch_sour,3,Медовый сироп,20,мл
+whiskey_sour,scotch_sour,4,Яичный белок (опц.),20,мл
+whiskey_sour,brandy_sour,1,Бренди,50,мл
+whiskey_sour,brandy_sour,2,Сок лимона,25,мл
+whiskey_sour,brandy_sour,3,Сахарный сироп,15,мл
+whiskey_sour,brandy_sour,4,Ангостура,2,дэш
+whiskey_sour,tequila_sour,1,Текила бланко,50,мл
+whiskey_sour,tequila_sour,2,Сок лайма,25,мл
+whiskey_sour,tequila_sour,3,Сироп агавы,15,мл
+whiskey_sour,tequila_sour,4,Яичный белок,20,мл
+margarita,blue_margarita,1,Текила бланко,50,мл
+margarita,blue_margarita,2,Блю кюрасао,20,мл
+margarita,blue_margarita,3,Сок лайма,20,мл
+negroni,agavoni,1,Текила репосадо,30,мл
+negroni,agavoni,2,Кампари,30,мл
+negroni,agavoni,3,Красный вермут,30,мл
+negroni,agavoni,4,Апельсиновый биттер,1,дэш
+french_75,mexican_55,1,Текила репосадо,30,мл
+french_75,mexican_55,2,Сок лимона,15,мл
+french_75,mexican_55,3,Сахарный сироп,15,мл
+french_75,mexican_55,4,Шампанское,60,мл
+radler,shandy,1,Светлое пиво,250,мл
+radler,shandy,2,"Лимонад (британский, газированный)",250,мл
+kalimotxo,jote,1,Красное вино (обычно в пакете),100,мл
+kalimotxo,jote,2,Кола,100,мл
+mauresque,perroquet,1,Пастис,30,мл
+mauresque,perroquet,2,Мятный сироп,15,мл
+mauresque,perroquet,3,Холодная вода,150,мл
+mauresque,tomate,1,Пастис,30,мл
+mauresque,tomate,2,Гренадин,15,мл
+mauresque,tomate,3,Холодная вода,150,мл
+diabolo_menthe,diabolo_grenadine,1,Гренадин,20,мл
+diabolo_menthe,diabolo_grenadine,2,Лимонад,200,мл
+arnold_palmer,john_daly,1,Водка,45,мл
+arnold_palmer,john_daly,2,Холодный чай,90,мл
+arnold_palmer,john_daly,3,Лимонад,90,мл
+lime_rickey,raspberry_lime_rickey,1,Сок лайма,30,мл
+lime_rickey,raspberry_lime_rickey,2,Малиновый сироп,22.5,мл
+lime_rickey,raspberry_lime_rickey,3,Содовая,150,мл
+sbiten,sbiten_hmelnoy,1,Вода,150,мл
+sbiten,sbiten_hmelnoy,2,Мёд,30,мл
+sbiten,sbiten_hmelnoy,3,Пряности,,по вкусу
+sbiten,sbiten_hmelnoy,4,Красное вино или медовуха,60,мл
+chuhai,chuhai_grapefruit,1,Сётю,45,мл
+chuhai,chuhai_grapefruit,2,Свежий грейпфрутовый сок,60,мл
+chuhai,chuhai_grapefruit,3,Газированная вода,100,мл
+classic_lemonade,mint_lemonade,1,Сок лимона,45,мл
+classic_lemonade,mint_lemonade,2,Сахарный сироп,30,мл
+classic_lemonade,mint_lemonade,3,Листья мяты,10,шт
+classic_lemonade,mint_lemonade,4,Содовая,150,мл
+tarkhun,tarkhun_cocktail,1,Джин или водка,45,мл
+tarkhun,tarkhun_cocktail,2,Свежий эстрагон,4,веточка
+tarkhun,tarkhun_cocktail,3,Сок лимона,22.5,мл
+tarkhun,tarkhun_cocktail,4,Сахарный сироп,22.5,мл
+tarkhun,tarkhun_cocktail,5,Содовая,90,мл
+pastis,rourou,1,Пастис,30,мл
+pastis,rourou,2,Клубничный сироп,15,мл
+pastis,rourou,3,Холодная вода,150,мл

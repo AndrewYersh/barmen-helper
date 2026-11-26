@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#120f0d">
+  <title data-i18n-title="title.subs">Замены — Барная карта</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="logo" href="index.html" data-i18n-html="logo">Барная <span>карта</span></a>
+    <nav class="nav">
+      <a href="index.html" data-i18n="nav.search">Поиск</a>
+      <a href="mybar.html" data-i18n="nav.mybar">Мой бар</a>
+      <a href="builder.html" data-i18n="nav.builder">Конструктор</a>
+      <a href="substitutes.html" class="active" data-i18n="nav.subs">Замены</a>
+    </nav>
+  </header>
+
+  <main class="page">
+    <div class="builder-head">
+      <div>
+        <h1 data-i18n="subs.title">Замены</h1>
+        <p data-i18n="subs.text">Нет нужной бутылки? Выберите основу или ликёр — подскажем, чем его заменить
+           и что при этом изменится во вкусе.</p>
+      </div>
+    </div>
+
+    <div class="builder">
+      <aside class="panel ing-panel">
+        <div class="search-wrap">
+          <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <input id="subQ" class="search" type="search" autocomplete="off" placeholder="Найти основу или ликёр…" aria-label="Найти ингредиент" data-i18n-placeholder="subs.find" data-i18n-aria="subs.find">
+        </div>
+        <div id="subList" class="ing-list"></div>
+      </aside>
+
+      <section id="subDetail" class="panel detail"></section>
+    </div>
+  </main>
+
+  <script src="data/data.js"></script>
+  <script src="js/i18n.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/subs.js"></script>
+</body>
+</html>

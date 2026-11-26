@@ -1,0 +1,718 @@
+{
+ "Southern Comfort|Бурбон": {
+  "h": "a169c43739",
+  "note": "Bourbon + a bar spoon of peach liqueur and honey — close to the original; without them the drink is drier."
+ },
+ "Southern Comfort|Персиковый ликёр": {
+  "h": "7d20b98474",
+  "note": "The peach stays, but you lose the whiskey base; add 10–15 ml of bourbon."
+ },
+ "Абрикосовый ликёр|Персиковый ликёр": {
+  "h": "63d1dde921",
+  "note": "A very similar stone-fruit profile."
+ },
+ "Абсент|Пастис": {
+  "h": "856c6db0c3",
+  "note": "Same anise, but sweeter and lower in proof — use more and cut the sugar."
+ },
+ "Абсент|Самбука": {
+  "h": "4f3ac410e9",
+  "note": "Very sweet — leave out the syrup; fine for rinsing the glass."
+ },
+ "Абсент|Шартрез": {
+  "h": "036443d901",
+  "note": "Herbal instead of anise, but also gives a complex aroma as a rinse."
+ },
+ "Агриколь-ром|Белый ром": {
+  "h": "d79bbbeadf",
+  "note": "Softer and simpler, without the grassiness; add lime for brightness."
+ },
+ "Агриколь-ром|Кашаса": {
+  "h": "8197160ccc",
+  "note": "Also made from fresh cane juice, with a very similar grassy profile."
+ },
+ "Агуардиенте|Белый ром": {
+  "h": "6bd0150254",
+  "note": "Softer and cleaner, with less of the \"wild\" cane character."
+ },
+ "Агуардиенте|Кашаса": {
+  "h": "4a4a5fa0df",
+  "note": "Also a cane spirit, with a very similar profile."
+ },
+ "Агуардиенте|Писко": {
+  "h": "72e87f806e",
+  "note": "Grape instead of cane: more floral and lighter."
+ },
+ "Аквавит|Водка": {
+  "h": "47be482710",
+  "note": "Clean, but without the spices; add a pinch of caraway when shaking."
+ },
+ "Аквавит|Джин": {
+  "h": "f53ead4a2d",
+  "note": "Juniper instead of caraway and dill — the herbal profile remains."
+ },
+ "Амаретто|Оршад": {
+  "h": "28e9151b3b",
+  "note": "The almond stays, the alcohol and pit note go; use half the amount."
+ },
+ "Амаретто|Франжелико": {
+  "h": "d9c3e1e215",
+  "note": "Hazelnut instead of almond — the nutty character remains."
+ },
+ "Амаро|Кампари": {
+  "h": "456c298c38",
+  "note": "Bitter and bright, but without the caramel and herbs."
+ },
+ "Амаро|Фернет-Бранка": {
+  "h": "df6779c5dd",
+  "note": "Much more bitter and minty — use half."
+ },
+ "Анисовый ликёр|Пастис": {
+  "h": "68a6662487",
+  "note": "Same anise, slightly more herbal."
+ },
+ "Анисовый ликёр|Самбука": {
+  "h": "c7dc5bef1b",
+  "note": "A similar sweet anise."
+ },
+ "Апельсиновый кюрасао|Блю кюрасао": {
+  "h": "2ac5bcb1f8",
+  "note": "Almost the same flavour, but the drink turns blue."
+ },
+ "Апельсиновый кюрасао|Трипл-сек": {
+  "h": "68ff3fbfd6",
+  "note": "Cleaner and drier, without the aged base."
+ },
+ "Апероль|Аперитив Select": {
+  "h": "9f787aeab7",
+  "note": "Slightly more bitter and spicier, also good in a Spritz."
+ },
+ "Апероль|Кампари": {
+  "h": "eb272c72a7",
+  "note": "Noticeably more bitter and stronger — use a third less or add syrup."
+ },
+ "Арбузный ликёр|Арбуз": {
+  "h": "3d9488214d",
+  "note": "Fresh watermelon (muddled) + a little syrup: fresher, but no alcohol."
+ },
+ "Арбузный ликёр|Дынный ликёр": {
+  "h": "4aa874a370",
+  "note": "A different melon note, the same sweetness and brightness."
+ },
+ "Банановый ликёр|Ликёр 43": {
+  "h": "5d3e9012e9",
+  "note": "Similar vanilla and sweetness, but no banana."
+ },
+ "Безалкогольный аперитив|Биттер-лимон": {
+  "h": "3473946f18",
+  "note": "A bitter citrus soda: simpler, but still non-alcoholic."
+ },
+ "Безалкогольный аперитив|Кампари": {
+  "h": "1ee7c34335",
+  "note": "The same bitter-orange flavour, but with alcohol — the drink is no longer non-alcoholic."
+ },
+ "Белое вино|Игристое вино": {
+  "h": "cd3308e1e5",
+  "note": "You get bubbles and a bit more acidity — fine for spritzes and punches."
+ },
+ "Белое вино|Сухой вермут": {
+  "h": "17c7653b0e",
+  "note": "More herbal and stronger — use half the amount plus water or soda."
+ },
+ "Белый вермут|Лилле Блан": {
+  "h": "e664196234",
+  "note": "A very similar sweetish floral profile."
+ },
+ "Белый вермут|Сухой вермут": {
+  "h": "ba9835f92e",
+  "note": "Drier — add a little syrup."
+ },
+ "Белый ром|Агриколь-ром": {
+  "h": "79a7e52bf8",
+  "note": "Same category, but grassy and \"green\", with a brighter flavour; you can add a touch more sugar."
+ },
+ "Белый ром|Водка": {
+  "h": "948444b932",
+  "note": "You lose the cane sweetness — add a drop of syrup."
+ },
+ "Белый ром|Золотой ром": {
+  "h": "b4607f147c",
+  "note": "A bit more vanilla and caramel, and a rounder drink; same proportions."
+ },
+ "Белый ром|Кашаса": {
+  "h": "24dceb8c50",
+  "note": "A close cane spirit, a bit funkier and grassier — the Daiquiri will start to resemble a Caipirinha."
+ },
+ "Бенедиктин|Драмбуи": {
+  "h": "8ce44d7cb8",
+  "note": "Honey and herbs, but on a Scotch base; slightly sweeter."
+ },
+ "Бенедиктин|Жёлтый шартрез": {
+  "h": "295f5887b7",
+  "note": "Also herbal and honeyed, but brighter and stronger — use less."
+ },
+ "Блю кюрасао|Апельсиновый кюрасао": {
+  "h": "a8469e056c",
+  "note": "Almost the same flavour, without the blue colour."
+ },
+ "Блю кюрасао|Трипл-сек": {
+  "h": "55848441c0",
+  "note": "Same flavour; you only lose the colour."
+ },
+ "Бурбон|Ирландский виски": {
+  "h": "b74cbb3b67",
+  "note": "Softer and lighter, with less vanilla and oak."
+ },
+ "Бурбон|Коньяк / бренди": {
+  "h": "2cb3d83772",
+  "note": "Fruitier and softer — in old recipes it's the historically original swap."
+ },
+ "Бурбон|Ржаной виски": {
+  "h": "b67518d10f",
+  "note": "Drier and spicier, less sweet — the classic swap in a Manhattan or Old Fashioned."
+ },
+ "Бурбон|Тёмный ром": {
+  "h": "a953e3a30b",
+  "note": "More molasses and fruit, less oak; you can reduce the sugar."
+ },
+ "Вишнёвый ликёр|Мараскино": {
+  "h": "1ecec92ef8",
+  "note": "Drier, with a nutty note; the colour becomes clear."
+ },
+ "Вишнёвый ликёр|Ягодный ликёр": {
+  "h": "4443f90b76",
+  "note": "A different berry, but the same sweetness and body."
+ },
+ "Водка|Белый ром": {
+  "h": "3b222ac949",
+  "note": "Slightly sweeter with a cane note; barely noticeable in sours and with juices."
+ },
+ "Водка|Джин": {
+  "h": "c5b48fc4b4",
+  "note": "Adds juniper and botanicals for a more aromatic drink; works well in citrus drinks and highballs."
+ },
+ "Водка|Текила": {
+  "h": "f06e25d36e",
+  "note": "Agave brings an earthy, peppery note — the flavour changes noticeably, but the balance holds."
+ },
+ "Гальяно|Ликёр 43": {
+  "h": "5e4143a859",
+  "note": "The vanilla and citrus remain, with less anise."
+ },
+ "Гальяно|Самбука": {
+  "h": "fb1ec1686f",
+  "note": "The anise stays, but no vanilla — use less."
+ },
+ "Граппа|Писко": {
+  "h": "9a0658c041",
+  "note": "Also an unaged grape spirit, softer and more floral."
+ },
+ "Джин|Аквавит": {
+  "h": "f03f6ae83c",
+  "note": "Caraway and dill instead of juniper: the herbal profile stays, but the character becomes quite different."
+ },
+ "Джин|Водка": {
+  "h": "e969729b47",
+  "note": "Same structure, but you lose the juniper and botanicals, so the drink gets simpler and \"cleaner\"; a sprig of rosemary or a citrus twist helps."
+ },
+ "Джин|Женевер": {
+  "h": "1b55fe3bac",
+  "note": "Malty, fuller and softer; great in old recipes (Martinez, Collinses), heavier in sours."
+ },
+ "Драмбуи|Бенедиктин": {
+  "h": "c353ad165c",
+  "note": "Herbs and honey, without the Scotch base."
+ },
+ "Драмбуи|Медовый сироп": {
+  "h": "250ff18f91",
+  "note": "The honey stays, the herbs and alcohol go; add a drop of Scotch."
+ },
+ "Дынный ликёр|Яблочный ликёр": {
+  "h": "54b3cdf683",
+  "note": "A sweet, brightly coloured fruit liqueur, but it tastes of apple."
+ },
+ "Дюбонне|Красный вермут": {
+  "h": "dba2594ecb",
+  "note": "A very similar wine-based aperitif, with slightly less quinine bitterness."
+ },
+ "Дюбонне|Портвейн": {
+  "h": "0d25de7449",
+  "note": "Fuller and sweeter; add a dash of bitters for bitterness."
+ },
+ "Золотой ром|Белый ром": {
+  "h": "67b6086760",
+  "note": "Lighter and drier; for depth, add 5 ml of dark rum."
+ },
+ "Золотой ром|Тёмный ром": {
+  "h": "ecd8ebe693",
+  "note": "Fuller, with more molasses and spice; in tiki drinks it's only better."
+ },
+ "Игристое вино|Содовая": {
+  "h": "bddf74289d",
+  "note": "The bubbles stay, but the wine and alcohol go — the drink becomes simpler."
+ },
+ "Игристое вино|Шампанское": {
+  "h": "9fa5919dac",
+  "note": "Drier, with a brioche note."
+ },
+ "Имбирное вино|Имбирное пиво": {
+  "h": "a8ce21df6a",
+  "note": "The ginger stays, but with bubbles and no wine; reduce the dilution."
+ },
+ "Имбирное вино|Имбирный ликёр": {
+  "h": "9d56f2144e",
+  "note": "A similar spicy ginger sweetness."
+ },
+ "Ирисковый шнапс|Ликёр 43": {
+  "h": "b28755ff7c",
+  "note": "Similar vanilla and caramel, with less toffee."
+ },
+ "Ирисковый шнапс|Сливочный ликёр": {
+  "h": "0fb06f446f",
+  "note": "Creamy and caramel-like, but fuller and without the bright toffee."
+ },
+ "Ирландский виски|Бурбон": {
+  "h": "4b49efd7d3",
+  "note": "Sweeter and fuller, with more oak."
+ },
+ "Ирландский виски|Скотч": {
+  "h": "56cd063398",
+  "note": "Blended Scotch is very close, slightly drier."
+ },
+ "Кальвадос|Бурбон": {
+  "h": "b5e615c202",
+  "note": "Oak and vanilla instead of fruit; add an apple slice or a little apple juice, bit by bit."
+ },
+ "Кальвадос|Коньяк / бренди": {
+  "h": "396570f196",
+  "note": "You lose the apple, but the structure of an aged brandy remains."
+ },
+ "Кампари|Амаро": {
+  "h": "96177b8211",
+  "note": "Still bitter, but herbal and dark; the colour goes."
+ },
+ "Кампари|Аперитив Select": {
+  "h": "8d3468d4bb",
+  "note": "A Venetian bitter: the same bitterness, slightly more vanilla."
+ },
+ "Кампари|Апероль": {
+  "h": "263885ff39",
+  "note": "Sweeter and softer, less bitter — the Negroni gets lighter; you can add a dash of bitters."
+ },
+ "Канадский виски|Бурбон": {
+  "h": "7082f3f28e",
+  "note": "Slightly sweeter, with more vanilla."
+ },
+ "Канадский виски|Ирландский виски": {
+  "h": "b075a11457",
+  "note": "Just as soft and light."
+ },
+ "Канадский виски|Ржаной виски": {
+  "h": "eb9111746b",
+  "note": "Canadian whisky is traditionally a rye blend, so the swap is almost unnoticeable."
+ },
+ "Кашаса|Агриколь-ром": {
+  "h": "8c65f93150",
+  "note": "Also made from fresh cane juice, with a very similar profile."
+ },
+ "Кашаса|Белый ром": {
+  "h": "33c5ffcc4d",
+  "note": "Softer and less grassy; the Caipirinha will resemble a Daiquiri on ice."
+ },
+ "Кирш|Вишнёвый ликёр": {
+  "h": "a0f36beeb8",
+  "note": "Much sweeter and more berry-forward, lower in alcohol."
+ },
+ "Кирш|Мараскино": {
+  "h": "e262304d58",
+  "note": "The cherry-pit note remains, but sweeter — cut some of the syrup."
+ },
+ "Кокосовый ром|Белый ром": {
+  "h": "a8b23e06a7",
+  "note": "White rum + a little coconut cream or syrup brings back the coconut."
+ },
+ "Коньяк / бренди|Бурбон": {
+  "h": "b188c6ffa3",
+  "note": "Drier and oakier, less fruit."
+ },
+ "Коньяк / бренди|Кальвадос": {
+  "h": "ff03374b8e",
+  "note": "Also a fruit brandy, but with apple; excellent in a Sidecar and flips."
+ },
+ "Коньяк / бренди|Писко": {
+  "h": "178f4baa00",
+  "note": "Lighter, more floral and unaged — the drink becomes brighter."
+ },
+ "Коньяк / бренди|Тёмный ром": {
+  "h": "d59bb51d76",
+  "note": "More sweetness and molasses; good in punches."
+ },
+ "Коричный ликёр|Бурбон": {
+  "h": "ee6dbd3a17",
+  "note": "Bourbon + cinnamon syrup 3:1 — close to Fireball."
+ },
+ "Коричный ликёр|Пряный ром": {
+  "h": "1bffb3001d",
+  "note": "The spice remains, with less cinnamon — add a bar spoon of cinnamon syrup."
+ },
+ "Кофейный ликёр|Кофе": {
+  "h": "2ce6b10047",
+  "note": "Espresso + simple syrup 1:1; closer to fresh, but lower in alcohol."
+ },
+ "Кофейный ликёр|Ликёр какао": {
+  "h": "a6eefb7d29",
+  "note": "Chocolate instead of coffee — just as dessert-like, but a different flavour."
+ },
+ "Красное вино|Портвейн": {
+  "h": "8e9426391b",
+  "note": "Much sweeter and stronger — use half."
+ },
+ "Красный вермут|Амаро": {
+  "h": "82578a4e76",
+  "note": "More bitter and herbal, less wine — use a quarter less."
+ },
+ "Красный вермут|Белый вермут": {
+  "h": "7f09d973f0",
+  "note": "Lighter and more floral; the colour and depth go."
+ },
+ "Красный вермут|Портвейн": {
+  "h": "1531157a55",
+  "note": "Fuller and sweeter, without the wormwood; add a dash of bitters."
+ },
+ "Ликёр 43|Ванильный сироп": {
+  "h": "290962970c",
+  "note": "The vanilla stays; the alcohol and citrusy herbs go."
+ },
+ "Ликёр 43|Гальяно": {
+  "h": "7600509725",
+  "note": "More anise and herbs, slightly less vanilla."
+ },
+ "Ликёр бузины|Лилле Блан": {
+  "h": "8ba588ce0e",
+  "note": "A soft floral modifier, but without the elderflower."
+ },
+ "Ликёр бузины|Сироп бузины": {
+  "h": "d7cb4f0bab",
+  "note": "Same floral flavour, no alcohol — use half the amount."
+ },
+ "Ликёр душистого перца|Фалернум": {
+  "h": "2df457c82d",
+  "note": "A spiced liqueur with clove and ginger instead of allspice."
+ },
+ "Ликёр какао|Кофейный ликёр": {
+  "h": "826569c1f0",
+  "note": "Coffee instead of chocolate; works in creamy drinks."
+ },
+ "Ликёр кассис|Гренадин": {
+  "h": "7cacb35f17",
+  "note": "Gives colour and sweetness, but no berry depth; use less."
+ },
+ "Ликёр кассис|Ягодный ликёр": {
+  "h": "0525f93d51",
+  "note": "Raspberry or blackberry instead of blackcurrant — very similar role."
+ },
+ "Ликёр личи|Ликёр бузины": {
+  "h": "62dcbac772",
+  "note": "Floral instead of fruity, but just as delicate."
+ },
+ "Ликёр личи|Сироп личи": {
+  "h": "b0ceeec4b0",
+  "note": "Syrup from canned lychees gives the same aroma without the alcohol."
+ },
+ "Ликёр маракуйи|Маракуйя": {
+  "h": "d30bc1461f",
+  "note": "Passion fruit purée or syrup gives the same flavour, but no alcohol; add some syrup."
+ },
+ "Лилле Блан|Белый вермут": {
+  "h": "5caa89b571",
+  "note": "A similar sweetish floral profile."
+ },
+ "Лилле Блан|Кокки Американо": {
+  "h": "db9ec42a85",
+  "note": "Closer to the historical Kina Lillet, with a quinine bitterness."
+ },
+ "Лилле Блан|Сухой вермут": {
+  "h": "0853cf07d7",
+  "note": "Drier and more herbal; add a bar spoon of syrup."
+ },
+ "Лимончелло|Трипл-сек": {
+  "h": "9869355153",
+  "note": "Orange instead of lemon; add a little lemon zest or juice."
+ },
+ "Мараскино|Амаретто": {
+  "h": "74e6a56a08",
+  "note": "The almond pit note is similar, but there's no cherry; use very little."
+ },
+ "Мараскино|Вишнёвый ликёр": {
+  "h": "c8f5400d38",
+  "note": "Sweeter and more berry-forward, with less of the nutty pit note — use a third less."
+ },
+ "Медовый ликёр|Драмбуи": {
+  "h": "aa1db12e3d",
+  "note": "Honey and herbs on a Scotch base — spicier and smokier."
+ },
+ "Медовый ликёр|Медовый сироп": {
+  "h": "8c1327541f",
+  "note": "Honey + a little vodka — a simple approximation of krupnik."
+ },
+ "Мескаль|Текила": {
+  "h": "da290d9100",
+  "note": "No smoke; to bring it back, rinse the glass with peated Scotch."
+ },
+ "Мескаль|Торфяной скотч": {
+  "h": "4fc70dfabf",
+  "note": "The smoke stays, but the profile becomes malty rather than agave; use half the amount."
+ },
+ "Миндальный ликёр|Амаретто": {
+  "h": "be68f55714",
+  "note": "The same almond-pit flavour, slightly different colour."
+ },
+ "Мятный ликёр|Мята": {
+  "h": "4ca6fc9fa2",
+  "note": "Muddled mint leaves + syrup: fresher, but without the colour and body."
+ },
+ "Ореховый ликёр|Амаретто": {
+  "h": "01a8ac7846",
+  "note": "Almond instead of hazelnut — the nutty character remains."
+ },
+ "Ореховый ликёр|Ликёр какао": {
+  "h": "f0e5fb0a09",
+  "note": "Chocolate instead of nut; works in creamy dessert drinks."
+ },
+ "Пастис|Абсент": {
+  "h": "b6ba83c189",
+  "note": "Drier and stronger — use less and add sugar."
+ },
+ "Пастис|Анисовый ликёр": {
+  "h": "ec692f63b5",
+  "note": "Same anise, similar sweetness."
+ },
+ "Пастис|Самбука": {
+  "h": "84a9e61216",
+  "note": "Sweeter and fuller — reduce the syrup in the recipe."
+ },
+ "Персиковый ликёр|Абрикосовый ликёр": {
+  "h": "63d1dde921",
+  "note": "A very similar stone-fruit profile."
+ },
+ "Персиковый ликёр|Персиковое пюре": {
+  "h": "1d6ba666ac",
+  "note": "Fresher and less sweet; add a little syrup."
+ },
+ "Пиво|Имбирное пиво": {
+  "h": "4963c656ff",
+  "note": "A non-alcoholic spicy substitute; a completely different style."
+ },
+ "Пиммс|Красный вермут": {
+  "h": "aa0e4c4e7f",
+  "note": "Sweet vermouth + a drop of orange liqueur — close to Pimm's."
+ },
+ "Писко|Белый ром": {
+  "h": "fb788cfdab",
+  "note": "You lose the grape and floral notes; it becomes softer and sweeter."
+ },
+ "Писко|Граппа": {
+  "h": "6fc95e4a90",
+  "note": "An unaged grape spirit, but harsher — use 5–10 ml less."
+ },
+ "Писко|Коньяк / бренди": {
+  "h": "39a6bc29a6",
+  "note": "Fuller and darker, without the floral notes."
+ },
+ "Портвейн|Красный вермут": {
+  "h": "4f33bc694d",
+  "note": "Lighter and herbal, with less berry sweetness."
+ },
+ "Пряный ром|Золотой ром": {
+  "h": "c36163468a",
+  "note": "Gold rum + a pinch of cinnamon or a dash of Angostura brings back the spice."
+ },
+ "Пряный ром|Тёмный ром": {
+  "h": "62c5e39b59",
+  "note": "Fuller, with molasses but less spice — add a dash of bitters."
+ },
+ "Ржаной виски|Бурбон": {
+  "h": "47795dbbe4",
+  "note": "Sweeter and rounder; add a dash of bitters for spice."
+ },
+ "Ржаной виски|Коньяк / бренди": {
+  "h": "3d65ae00ab",
+  "note": "Softer and fruitier; in a Sazerac it's the historical original."
+ },
+ "Ржаной виски|Скотч": {
+  "h": "00e1e0b552",
+  "note": "Malt instead of spicy rye; avoid peated whisky — it will overpower everything."
+ },
+ "Сакэ|Белое вино": {
+  "h": "caf7d3db25",
+  "note": "Also light and dry, but with grape acidity."
+ },
+ "Сакэ|Соджу": {
+  "h": "03b2670dfa",
+  "note": "Drier and stronger, without the rice sweetness."
+ },
+ "Сакэ|Сухой вермут": {
+  "h": "52da1f2708",
+  "note": "A dry wine modifier, but with botanicals instead of the rice aroma."
+ },
+ "Самбука|Абсент": {
+  "h": "44c7d2ffa1",
+  "note": "Also anise, but dry and much stronger — use half the amount plus syrup."
+ },
+ "Сидр|Игристое вино": {
+  "h": "e4bddde0c2",
+  "note": "The bubbles stay, but no apple."
+ },
+ "Скотч|Бурбон": {
+  "h": "e168535121",
+  "note": "Sweeter, with more vanilla; a Rob Roy turns into a Manhattan."
+ },
+ "Скотч|Ирландский виски": {
+  "h": "37391d35b8",
+  "note": "A soft malty profile, slightly lighter."
+ },
+ "Сливочный ликёр|Сливки": {
+  "h": "4c36c4acc4",
+  "note": "Cream + a little whiskey and sugar — close to Baileys."
+ },
+ "Соджу|Водка": {
+  "h": "a99e77917b",
+  "note": "Vodka diluted with water about 1:1 is almost soju in strength and cleanness."
+ },
+ "Соджу|Сакэ": {
+  "h": "fb5728ac6a",
+  "note": "Softer, with a rice aroma, slightly sweeter."
+ },
+ "Стаут|Пиво": {
+  "h": "19f92d8781",
+  "note": "A lager is lighter, without the coffee and chocolate notes."
+ },
+ "Сухой вермут|Белый вермут": {
+  "h": "e835a021ca",
+  "note": "Sweeter; use less or add a drop of lemon."
+ },
+ "Сухой вермут|Лилле Блан": {
+  "h": "33b111276f",
+  "note": "Slightly sweeter and fruitier — the Martini becomes softer."
+ },
+ "Сухой вермут|Сухое белое вино": {
+  "h": "9bf0188942",
+  "note": "Wine without the botanicals or extra alcohol; add a dash of orange bitters."
+ },
+ "Сюз|Апероль": {
+  "h": "2237ec15fa",
+  "note": "You lose the gentian bitterness; it becomes sweeter and fruitier."
+ },
+ "Сюз|Лилле Блан": {
+  "h": "51038f0ba6",
+  "note": "Softer; make up the bitterness with a dash of bitters."
+ },
+ "Текила|Белый ром": {
+  "h": "3d198335da",
+  "note": "You lose the peppery agave; the drink becomes sweeter and simpler."
+ },
+ "Текила|Мескаль": {
+  "h": "0999bc73f8",
+  "note": "Same agave, but smoky — the drink becomes darker and more interesting; start with half mezcal."
+ },
+ "Торфяной скотч|Мескаль": {
+  "h": "fe0be6fdc0",
+  "note": "The smoke stays, but becomes earthy and agave-driven."
+ },
+ "Торфяной скотч|Скотч": {
+  "h": "6e0af73b8c",
+  "note": "Without the smoke the drink loses its accent; often it's just a float, so you can skip it."
+ },
+ "Трипл-сек|Апельсиновый кюрасао": {
+  "h": "b1f0cbb789",
+  "note": "Slightly sweeter, with cognac depth (Grand Marnier) — excellent in a Margarita and Sidecar."
+ },
+ "Трипл-сек|Апельсиновый сироп + водка": {
+  "h": "18c2aba4b2",
+  "note": "Half syrup, half vodka — crude, but the balance holds."
+ },
+ "Тёмный ром|Бурбон": {
+  "h": "6706aa8f3f",
+  "note": "Keeps the caramel and vanilla, but loses the tropical fruitiness — the drink turns \"American\"."
+ },
+ "Тёмный ром|Золотой ром": {
+  "h": "54035c8b5b",
+  "note": "Lighter, less molasses; you can add a bar spoon of demerara syrup."
+ },
+ "Тёмный ром|Коньяк / бренди": {
+  "h": "4aa8e3a38e",
+  "note": "Dried-fruit depth instead of molasses; works well in punches and flips."
+ },
+ "Тёрновый джин|Ликёр кассис": {
+  "h": "0e08c7d66f",
+  "note": "Similar berry sweetness, but without the tartness and gin base; add 10 ml of gin."
+ },
+ "Фалернум|Оршад": {
+  "h": "fd4b48bdf8",
+  "note": "The sweetness and spice partly remain; add a dash of Angostura and lime zest."
+ },
+ "Фалернум|Сахарный сироп": {
+  "h": "79007f91cc",
+  "note": "Syrup + a pinch of grated ginger + a dash of Angostura — a rough approximation."
+ },
+ "Фернет-Бранка|Амаро": {
+  "h": "ee6ee06802",
+  "note": "Softer and sweeter; the minty-menthol note will be almost gone."
+ },
+ "Фиалковый ликёр|Сироп бузины": {
+  "h": "6d39b02d8b",
+  "note": "Floral, but a different flower; you won't get the Aviation's colour."
+ },
+ "Херес|Лилле Блан": {
+  "h": "7bfd2cfd4e",
+  "note": "Softer and sweeter; the salty nuttiness of sherry goes."
+ },
+ "Херес|Сухой вермут": {
+  "h": "9b7181054e",
+  "note": "Also a dry wine modifier, but with botanicals instead of the nutty oxidative note."
+ },
+ "Шампанское|Игристое вино": {
+  "h": "bad5b116a5",
+  "note": "Prosecco or cava: slightly fruitier and sweeter, with almost no effect on the drink."
+ },
+ "Шартрез|Бенедиктин": {
+  "h": "51fefbae80",
+  "note": "Softer and sweeter, with less herbal bite."
+ },
+ "Шартрез|Женепи": {
+  "h": "b74d983cc0",
+  "note": "An Alpine herbal liqueur, lighter and drier."
+ },
+ "Шведский пунш|Тёмный ром": {
+  "h": "f3fb147b9a",
+  "note": "Dark rum + a little simple syrup and a dash of lemon — a rough approximation of punsch."
+ },
+ "Шведский пунш|Фалернум": {
+  "h": "6f218af745",
+  "note": "Similar spiced sweetness, but without the rum and arrack."
+ },
+ "Яблочный ликёр|Кальвадос": {
+  "h": "7147fb29fe",
+  "note": "The apple stays, but dry and strong — add syrup."
+ },
+ "Ягермайстер|Амаро": {
+  "h": "3f469b1642",
+  "note": "The herbal bitterness remains, but less sweet and spiced."
+ },
+ "Ягодный ликёр|Ликёр кассис": {
+  "h": "e06085db0f",
+  "note": "Blackcurrant instead of raspberry/blackberry — same role."
+ },
+ "Ягодный ликёр|Малиновый сироп": {
+  "h": "ba4e168c5e",
+  "note": "The sweetness and berry stay, the alcohol goes; use less."
+ },
+ "Яичный ликёр|Сливочный ликёр": {
+  "h": "86503aa72d",
+  "note": "The body stays, with less egg flavour."
+ },
+ "Японский виски|Скотч": {
+  "h": "96186fea52",
+  "note": "A similar malty style, slightly drier."
+ }
+}

@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#120f0d">
+  <title data-i18n-title="title.builder">Конструктор — Барная карта</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="logo" href="index.html" data-i18n-html="logo">Барная <span>карта</span></a>
+    <nav class="nav">
+      <a href="index.html" data-i18n="nav.search">Поиск</a>
+      <a href="mybar.html" data-i18n="nav.mybar">Мой бар</a>
+      <a href="builder.html" class="active" data-i18n="nav.builder">Конструктор</a>
+      <a href="substitutes.html" data-i18n="nav.subs">Замены</a>
+    </nav>
+  </header>
+
+  <main class="page">
+    <div class="builder-head">
+      <div>
+        <h1 data-i18n="builder.title">Конструктор</h1>
+        <p data-i18n="builder.text">Выберите ингредиент — увидите, с чем он чаще всего встречается в коктейлях.
+           Нажимайте на соседей в схеме, чтобы собирать набор и смотреть, что подходит ко всему сразу.</p>
+      </div>
+      <span class="badge-soon" data-i18n="builder.badge">черновик · сборка рецептов скоро</span>
+    </div>
+
+    <div id="builder" class="builder compact">
+      <aside class="panel ing-panel">
+        <div class="ing-head">
+          <span data-i18n="builder.ingredients">Ингредиенты</span>
+          <button id="ingToggle" class="ing-toggle" aria-expanded="false">
+            <b>развернуть</b>
+            <svg width="10" height="10" viewBox="0 0 10 10" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M2 3.5 5 6.5 8 3.5"/></svg>
+          </button>
+        </div>
+        <div class="search-wrap">
+          <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <input id="ingQ" class="search" type="search" autocomplete="off" placeholder="Найти ингредиент…" aria-label="Найти ингредиент" data-i18n-placeholder="builder.find" data-i18n-aria="builder.find">
+        </div>
+        <div id="ingList" class="ing-list"></div>
+      </aside>
+
+      <section id="detail" class="panel detail"></section>
+    </div>
+  </main>
+
+  <script src="data/data.js"></script>
+  <script src="js/i18n.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/builder.js"></script>
+</body>
+</html>

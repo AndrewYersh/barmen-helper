@@ -1,0 +1,764 @@
+{
+ "agavoni": {
+  "h": "fbc1bb30bd",
+  "ingredients": "Reposado tequila 30 ml; Campari 30 ml; Sweet vermouth 30 ml; Orange bitters 1 dash",
+  "difference": "With tequila: herbal, peppery agave notes against Campari's bitterness.",
+  "garnish": "orange peel"
+ },
+ "alexander_gin": {
+  "h": "f99d834026",
+  "ingredients": "London Dry gin 30 ml; White crème de cacao 30 ml; Cream 30 ml",
+  "difference": "The original early 20th-century Alexander: gin instead of cognac and white crème de cacao, making it drier and lighter.",
+  "garnish": "nutmeg"
+ },
+ "alien_brain_hemorrhage": {
+  "h": "e370a58e42",
+  "ingredients": "Peach schnapps 20 ml; Irish cream liqueur (Baileys) 5 ml; Blue curaçao 3 drops; Grenadine 3 drops",
+  "difference": "A drop of blue curaçao turns the \"brain\" green-blue, like an alien's.",
+  "garnish": "—"
+ },
+ "amaretto_sour_classic": {
+  "h": "410b537781",
+  "ingredients": "Amaretto 60 ml; Lemon juice 30 ml; Simple syrup 10 ml",
+  "difference": "No bourbon or egg white: simpler and sweeter, as in the 1970s.",
+  "garnish": "orange slice, cherry"
+ },
+ "aperol_spritz_white_wine": {
+  "h": "253a12b157",
+  "ingredients": "Dry white wine 90 ml; Aperol 60 ml; Club soda 60 ml",
+  "difference": "As served in Veneto bars: still white wine instead of prosecco, drier, with no bubbles from the wine.",
+  "garnish": "orange slice"
+ },
+ "b52_flaming": {
+  "h": "b1b1bcc089",
+  "ingredients": "Coffee liqueur 20 ml; Irish cream liqueur (Baileys) 20 ml; Orange liqueur (Grand Marnier) 15 ml; Overproof rum (float) 5 ml",
+  "difference": "The top layer (with a splash of overproof rum) is set alight and drunk quickly through a straw from the bottom. Requires care.",
+  "garnish": "—"
+ },
+ "b55": {
+  "h": "ca5b9b1d93",
+  "ingredients": "Coffee liqueur 20 ml; Irish cream liqueur (Baileys) 20 ml; Absinthe 20 ml",
+  "difference": "The top orange liqueur layer is replaced with absinthe: stronger and more anise-forward; usually served flaming.",
+  "garnish": "—"
+ },
+ "baileys_coffee": {
+  "h": "d799ec5522",
+  "ingredients": "Irish cream liqueur (Baileys) 45 ml; Hot coffee 150 ml; Whipped cream (optional) — on top",
+  "difference": "The simplest and sweetest home variation, with no sugar or whiskey.",
+  "garnish": "whipped cream"
+ },
+ "banana_daiquiri": {
+  "h": "60cce12b82",
+  "ingredients": "White rum 50 ml; Banana liqueur 15 ml; Banana 0.5 pc; Lime juice 20 ml; Simple syrup 10 ml",
+  "difference": "With banana and banana liqueur, blended with ice: dessert-like, with a creamy texture.",
+  "garnish": "banana slice"
+ },
+ "bandera_mezcal": {
+  "h": "6394a7ebfd",
+  "ingredients": "Lime juice 30 ml; Mezcal 30 ml; Sangrita 30 ml; Orange slice with worm salt (sal de gusano) 1 pc",
+  "difference": "In Oaxaca, mezcal is served with orange slices and salt made with chili and worms; the smoky flavor pairs well with sangrita.",
+  "garnish": "orange with salt"
+ },
+ "bay_breeze": {
+  "h": "419df441df",
+  "ingredients": "Vodka 40 ml; Cranberry juice 90 ml; Pineapple juice 60 ml",
+  "difference": "Grapefruit is replaced with pineapple: sweeter and more tropical.",
+  "garnish": "pineapple wedge"
+ },
+ "bloody_caesar": {
+  "h": "4de79139bb",
+  "ingredients": "Vodka 45 ml; Clamato (tomato and clam juice) 120 ml; Worcestershire sauce 2 dash; Tabasco 2 dash; Lime juice 10 ml; Celery salt (rim) — to taste",
+  "difference": "Canada's national version (Walter Chell, Calgary, 1969), made with Clamato tomato-clam juice.",
+  "garnish": "celery, lime, celery salt rim"
+ },
+ "bloody_maria": {
+  "h": "cb9908d07a",
+  "ingredients": "Blanco tequila 45 ml; Tomato juice 90 ml; Lime juice 15 ml; Worcestershire sauce 2 dash; Hot sauce 2 dash; Salt, pepper — to taste",
+  "difference": "Tequila instead of vodka and lime instead of lemon: more herbal and spicier.",
+  "garnish": "lime, cucumber, pepper"
+ },
+ "blue_margarita": {
+  "h": "45ad179697",
+  "ingredients": "Blanco tequila 50 ml; Blue curaçao 20 ml; Lime juice 20 ml",
+  "difference": "Triple sec is replaced with blue curaçao: same flavor, bright blue color.",
+  "garnish": "salt, lime"
+ },
+ "boston_sour": {
+  "h": "f3747ac217",
+  "ingredients": "Bourbon 45 ml; Lemon juice 25 ml; Simple syrup 20 ml; Egg white 20 ml",
+  "difference": "Egg white is mandatory: this is what old books called a Whiskey Sour with egg white, and today it's the standard bar version.",
+  "garnish": "Angostura on the foam"
+ },
+ "bourbon_manhattan": {
+  "h": "be62fd91ff",
+  "ingredients": "Bourbon 50 ml; Sweet vermouth 20 ml; Angostura bitters 2 dash",
+  "difference": "The most common bar version: bourbon instead of rye gives a sweeter, softer, more vanilla-forward drink.",
+  "garnish": "cocktail cherry"
+ },
+ "brandy_sour": {
+  "h": "db16fe7c76",
+  "ingredients": "Brandy 50 ml; Lemon juice 25 ml; Simple syrup 15 ml; Angostura bitters 2 dash",
+  "difference": "A Cypriot national classic (often with brandy, lemon cordial and soda): fruitier and softer.",
+  "garnish": "lemon"
+ },
+ "bucks_fizz": {
+  "h": "1d34d42abf",
+  "ingredients": "Orange juice 50 ml; Champagne 100 ml",
+  "difference": "The British version (Buck's Club, 1921) with twice the Champagne.",
+  "garnish": "—"
+ },
+ "cadillac_margarita": {
+  "h": "1a749954ba",
+  "ingredients": "Reposado tequila 50 ml; Grand Marnier 20 ml; Lime juice 20 ml; Agave syrup (optional) 5 ml",
+  "difference": "The \"premium\" version: aged tequila and cognac-based Grand Marnier instead of triple sec.",
+  "garnish": "salt, lime"
+ },
+ "caipirinha_fruit": {
+  "h": "70224c182d",
+  "ingredients": "Cachaça 60 ml; Lime 0.25 pc; Fruit (passion fruit, strawberry, kiwi) — to taste; Cane sugar 2 tsp",
+  "difference": "A Brazilian street version where seasonal fruit is muddled along with, or instead of, the lime.",
+  "garnish": "fruit"
+ },
+ "caipirissima": {
+  "h": "a759a21cf3",
+  "ingredients": "White rum 60 ml; Lime 0.5 pc; Cane sugar 2 tsp",
+  "difference": "White rum instead of cachaça: closer to a Daiquiri in flavor.",
+  "garnish": "lime wedges"
+ },
+ "caipiroska": {
+  "h": "0852df694b",
+  "ingredients": "Vodka 60 ml; Lime 0.5 pc; Cane sugar 2 tsp",
+  "difference": "Cachaça is replaced with vodka: cleaner and more neutral; very popular in Europe and Russia.",
+  "garnish": "lime wedges"
+ },
+ "campari_spritz": {
+  "h": "de89a95c00",
+  "ingredients": "Prosecco 90 ml; Campari 60 ml; Club soda 30 ml",
+  "difference": "Campari instead of Aperol: more bitter, drier, bright red, and its aperitivo is almost twice as strong.",
+  "garnish": "orange slice"
+ },
+ "cardinal": {
+  "h": "c79021fef0",
+  "ingredients": "Crème de cassis 15 ml; Red wine (Beaujolais) 90 ml",
+  "difference": "With red wine: darker and richer.",
+  "garnish": "—"
+ },
+ "chelada": {
+  "h": "4ba2867589",
+  "ingredients": "Light beer (lager) 330 ml; Lime juice 30 ml; Salt for the rim — to taste",
+  "difference": "The simplest version: just beer, lime and salt, no sauces.",
+  "garnish": "salt rim, lime"
+ },
+ "chi_chi": {
+  "h": "0ed49bc016",
+  "ingredients": "Vodka 45 ml; Coconut cream 30 ml; Pineapple juice 90 ml",
+  "difference": "Rum is replaced with vodka: more neutral, letting coconut and pineapple take center stage. A 1950s Hawaiian bar classic.",
+  "garnish": "pineapple"
+ },
+ "chuhai_grapefruit": {
+  "h": "eeff04fd4d",
+  "ingredients": "Shochu 45 ml; Fresh grapefruit juice 60 ml; Sparkling water 100 ml",
+  "difference": "The second most popular chuhai; in izakayas the grapefruit is often squeezed right at the table.",
+  "garnish": "grapefruit"
+ },
+ "colorado_bulldog": {
+  "h": "2ffac2568d",
+  "ingredients": "Vodka 30 ml; Coffee liqueur 30 ml; Cream 30 ml; Cola 60 ml",
+  "difference": "A White Russian topped with cola: foamy, sweet and lighter.",
+  "garnish": "—"
+ },
+ "cuba_libre_dark": {
+  "h": "bf8b8eca82",
+  "ingredients": "Dark or spiced rum 50 ml; Cola 120 ml; Lime juice 10 ml",
+  "difference": "Dark or spiced rum gives a richer caramel-vanilla flavor.",
+  "garnish": "lime wedge"
+ },
+ "daiquiri_no4": {
+  "h": "a2dfe2ccf8",
+  "ingredients": "White rum 60 ml; Lime juice 20 ml; Simple syrup 10 ml; Maraschino liqueur 1 bsp",
+  "difference": "Constantino Ribalaigua's El Floridita version with a touch of maraschino, blended with fine ice.",
+  "garnish": "—"
+ },
+ "dark_n_stormy_spiced": {
+  "h": "38ef82887d",
+  "ingredients": "Spiced rum 50 ml; Ginger beer 120 ml; Lime juice 15 ml; Angostura bitters 2 dash",
+  "difference": "An unofficial bar version with spiced rum, lime and bitters: more spice, less sweetness.",
+  "garnish": "lime wedge"
+ },
+ "diabolo_grenadine": {
+  "h": "8e1bec6699",
+  "ingredients": "Grenadine 20 ml; Lemonade 200 ml",
+  "difference": "With pomegranate syrup: red and fruity.",
+  "garnish": "—"
+ },
+ "diamond_fizz": {
+  "h": "ed81cf0514",
+  "ingredients": "London Dry gin 45 ml; Lemon juice 30 ml; Simple syrup 15 ml; Champagne 60 ml",
+  "difference": "Club soda is replaced with Champagne: essentially a French 75 in a tall glass.",
+  "garnish": "lemon peel"
+ },
+ "dirty_martini": {
+  "h": "467a7542cd",
+  "ingredients": "Gin or vodka 60 ml; Dry vermouth 10 ml; Olive brine 15 ml",
+  "difference": "Olive brine is added, making the drink cloudy and salty. Popular since the 1990s.",
+  "garnish": "olives"
+ },
+ "dirty_shirley": {
+  "h": "5c02ae60fe",
+  "ingredients": "Vodka 45 ml; Lemon-lime soda (Sprite) 150 ml; Grenadine 15 ml",
+  "difference": "The alcoholic version with vodka, which went viral in the 2020s.",
+  "garnish": "cocktail cherry"
+ },
+ "dry_manhattan": {
+  "h": "91813490a0",
+  "ingredients": "Rye whiskey 50 ml; Dry vermouth 20 ml; Angostura bitters 1 dash",
+  "difference": "Dry vermouth only: the driest, spiciest take on the Manhattan.",
+  "garnish": "lemon peel"
+ },
+ "espresso_martini_tequila": {
+  "h": "5d64af2301",
+  "ingredients": "Reposado tequila or aged rum 45 ml; Coffee liqueur 15 ml; Fresh espresso 30 ml; Simple syrup 10 ml",
+  "difference": "A modern bar variation: an aged spirit instead of vodka adds vanilla and caramel.",
+  "garnish": "three coffee beans"
+ },
+ "fifty_fifty_martini": {
+  "h": "aac342927d",
+  "ingredients": "London Dry gin 40 ml; Dry vermouth 40 ml; Orange bitters 1 dash",
+  "difference": "Equal parts gin and vermouth, as in the early 20th century: softer, more aromatic and lighter. Revived by cocktail renaissance bars.",
+  "garnish": "lemon peel"
+ },
+ "four_horsemen": {
+  "h": "dd45cb4e2a",
+  "ingredients": "Tennessee whiskey 10 ml; Scotch 10 ml; Bourbon 10 ml; Tequila (Jose Cuervo) 10 ml",
+  "difference": "Jose Cuervo tequila is added to the Three Wise Men as the fourth \"horseman\".",
+  "garnish": "—"
+ },
+ "french_75_cognac": {
+  "h": "3abbedb121",
+  "ingredients": "Cognac 30 ml; Lemon juice 15 ml; Simple syrup 15 ml; Champagne 60 ml",
+  "difference": "The New Orleans version (Arnaud's French 75 Bar): cognac instead of gin, warmer and fruitier.",
+  "garnish": "lemon peel"
+ },
+ "frozen_daiquiri": {
+  "h": "fb699c248e",
+  "ingredients": "White rum 60 ml; Lime juice 25 ml; Simple syrup 20 ml; Crushed ice 1 cup",
+  "difference": "Blended with ice to a sorbet-like consistency; a serve made famous by El Floridita. More sugar, since cold dulls sweetness.",
+  "garnish": "lime wedge"
+ },
+ "frozen_grasshopper": {
+  "h": "53b8239637",
+  "ingredients": "Green crème de menthe 30 ml; White crème de cacao 30 ml; Vanilla ice cream 2 scoops",
+  "difference": "Cream is replaced with ice cream and everything is blended, the way it's drunk in the US Midwest.",
+  "garnish": "grated chocolate"
+ },
+ "frozen_margarita": {
+  "h": "875e5192d8",
+  "ingredients": "Blanco tequila 50 ml; Triple sec 20 ml; Lime juice 25 ml; Simple syrup 15 ml; Crushed ice 1 cup",
+  "difference": "Blended with ice. The frozen margarita machine was invented by Mariano Martinez in Dallas in 1971.",
+  "garnish": "salt, lime"
+ },
+ "georgia_mint_julep": {
+  "h": "ad87f1c266",
+  "ingredients": "Cognac 45 ml; Peach brandy (liqueur) 15 ml; Simple syrup 10 ml; Mint leaves 8 pc",
+  "difference": "Antebellum 19th-century version: bourbon is replaced with cognac and peach brandy, making it fruitier and softer.",
+  "garnish": "mint bouquet"
+ },
+ "gibson": {
+  "h": "69e09e8790",
+  "ingredients": "London Dry gin 60 ml; Dry vermouth 10 ml",
+  "difference": "The same Dry Martini, but with a pickled onion instead of an olive, giving a savory, slightly sour note. By one account, named after illustrator Charles Dana Gibson.",
+  "garnish": "pickled cocktail onion"
+ },
+ "gimlet_cordial": {
+  "h": "826c07ea5c",
+  "ingredients": "London Dry gin 60 ml; Lime cordial (Rose's) 30 ml",
+  "difference": "The historical 2:1 formula with preserved lime cordial: sweeter and more candy-like than the fresh version.",
+  "garnish": "lime wedge"
+ },
+ "gin_sour": {
+  "h": "c61e0bc459",
+  "ingredients": "London Dry gin 50 ml; Lemon juice 25 ml; Simple syrup 20 ml; Egg white (optional) 20 ml",
+  "difference": "The same formula with gin: more herbal and lighter.",
+  "garnish": "lemon peel"
+ },
+ "gintonic_spanish": {
+  "h": "e7b9291ffe",
+  "ingredients": "Gin 50 ml; Premium tonic 200 ml; Botanical garnish (juniper, citrus peel, pepper, herbs) — to taste",
+  "difference": "Spanish-style serve: a huge balloon glass, lots of ice, premium tonic and a garnish that highlights the botanicals of the specific gin.",
+  "garnish": "citrus peel, juniper berries, rosemary"
+ },
+ "glogg": {
+  "h": "61f981ffd4",
+  "ingredients": "Red wine 150 ml; Vodka or port 30 ml; Sugar 15 ml; Spices (cardamom, cinnamon, cloves, citrus peel) — to taste; Raisins and almonds — to taste",
+  "difference": "The Scandinavian version: stronger thanks to vodka or port, served with raisins and almonds.",
+  "garnish": "raisins and almonds in the mug"
+ },
+ "godchild": {
+  "h": "e642def9ff",
+  "ingredients": "Vodka 30 ml; Amaretto 30 ml; Cream 30 ml",
+  "difference": "A creamy dessert version made with vodka.",
+  "garnish": "—"
+ },
+ "godmother": {
+  "h": "7e7798e057",
+  "ingredients": "Vodka 45 ml; Amaretto 20 ml",
+  "difference": "Scotch is replaced with vodka: more neutral, letting the amaretto's almond take center stage.",
+  "garnish": "—"
+ },
+ "golden_fizz": {
+  "h": "af4d37af8b",
+  "ingredients": "London Dry gin 45 ml; Lemon juice 30 ml; Simple syrup 15 ml; Egg yolk 1 pc; Club soda 60 ml",
+  "difference": "With egg yolk: a golden color and a richer, creamier taste.",
+  "garnish": "—"
+ },
+ "hot_toddy_tea": {
+  "h": "0948851bbf",
+  "ingredients": "Whiskey 50 ml; Honey 15 ml; Lemon juice 15 ml; Hot black tea 120 ml",
+  "difference": "Brewed tea instead of hot water adds astringency and tannins.",
+  "garnish": "lemon wheel studded with cloves"
+ },
+ "irish_mule": {
+  "h": "5d5109ded3",
+  "ingredients": "Irish whiskey 45 ml; Ginger beer 120 ml; Lime juice 10 ml",
+  "difference": "With Irish whiskey: a soft, malty flavor.",
+  "garnish": "lime wedge"
+ },
+ "jamaican_coffee": {
+  "h": "1f04c3c9b2",
+  "ingredients": "Dark rum 30 ml; Coffee liqueur 20 ml; Hot coffee 120 ml; Whipped cream — on top",
+  "difference": "Whiskey is replaced with rum and coffee liqueur: sweeter and more tropical.",
+  "garnish": "whipped cream"
+ },
+ "john_collins_whiskey": {
+  "h": "75458b5c18",
+  "ingredients": "Bourbon 45 ml; Lemon juice 30 ml; Simple syrup 15 ml; Club soda 60 ml",
+  "difference": "In the US, the bourbon version is often called a John Collins (the IBA uses gin).",
+  "garnish": "lemon wedge, cherry"
+ },
+ "john_daly": {
+  "h": "bcb7014af9",
+  "ingredients": "Vodka 45 ml; Iced tea 90 ml; Lemonade 90 ml",
+  "difference": "A \"grown-up\" Arnold Palmer with vodka, named after golfer John Daly.",
+  "garnish": "lemon"
+ },
+ "jote": {
+  "h": "0f1bf4249f",
+  "ingredients": "Red wine (usually boxed) 100 ml; Cola 100 ml",
+  "difference": "The Chilean name for the same wine-and-cola combination; a student and party classic in Chile.",
+  "garnish": "—"
+ },
+ "juan_collins": {
+  "h": "6c44d6fc1f",
+  "ingredients": "Blanco tequila 45 ml; Lemon juice 30 ml; Agave syrup 15 ml; Club soda 60 ml",
+  "difference": "A Mexican version with tequila and agave.",
+  "garnish": "lime wedge"
+ },
+ "kalashnikov_mix": {
+  "h": "dbe32bbc70",
+  "ingredients": "Citrus vodka 30 ml; Lemon juice 10 ml; Coffee liqueur 10 ml",
+  "difference": "Bar version: everything shaken into one shot; easier to drink, but you lose the contrast of the chaser.",
+  "garnish": "—"
+ },
+ "kingston_negroni": {
+  "h": "75dc809eeb",
+  "ingredients": "Jamaican rum 30 ml; Campari 30 ml; Sweet vermouth 30 ml",
+  "difference": "Made with Jamaican rum (Joey Goldstein, 2010s): the rum's fruity, funky notes play against Campari's bitterness.",
+  "garnish": "orange peel"
+ },
+ "kir": {
+  "h": "228bbf0e1c",
+  "ingredients": "Crème de cassis 15 ml; Aligoté white wine 90 ml",
+  "difference": "The original Burgundian version with still Aligoté white wine.",
+  "garnish": "—"
+ },
+ "kir_imperial": {
+  "h": "d163ac9f2c",
+  "ingredients": "Raspberry liqueur (crème de framboise or Chambord) 15 ml; Champagne 90 ml",
+  "difference": "Raspberry liqueur instead of blackcurrant.",
+  "garnish": "raspberry"
+ },
+ "london_mule": {
+  "h": "14609a89dd",
+  "ingredients": "London Dry gin 45 ml; Ginger beer 120 ml; Lime juice 10 ml",
+  "difference": "With gin: more herbal; historically this highball was called a Gin Buck.",
+  "garnish": "lime wedge"
+ },
+ "long_beach_iced_tea": {
+  "h": "9b75a38454",
+  "ingredients": "Vodka 15 ml; Gin 15 ml; White rum 15 ml; Tequila 15 ml; Triple sec 15 ml; Lemon juice 25 ml; Simple syrup 15 ml; Cranberry juice — top up",
+  "difference": "Cola is replaced with cranberry juice: pink and tart-berry.",
+  "garnish": "lemon wedge"
+ },
+ "mai_tai_royal_hawaiian": {
+  "h": "48399b2da7",
+  "ingredients": "White rum 30 ml; Dark rum (float) 30 ml; Orange curaçao 15 ml; Orgeat 15 ml; Lime juice 22.5 ml; Pineapple juice 60 ml; Orange juice 30 ml",
+  "difference": "The resort version Trader Vic adapted for Hawaiian hotels: with pineapple and orange juices, it's sweeter, lighter and more beachy than the original.",
+  "garnish": "pineapple, cherry, orchid"
+ },
+ "mexican_55": {
+  "h": "139283a847",
+  "ingredients": "Reposado tequila 30 ml; Lemon juice 15 ml; Simple syrup 15 ml; Champagne 60 ml",
+  "difference": "A French 75 with tequila: herbal and spicy.",
+  "garnish": "lemon peel"
+ },
+ "mexican_mule": {
+  "h": "06382ddd60",
+  "ingredients": "Blanco tequila 45 ml; Ginger beer 120 ml; Lime juice 15 ml",
+  "difference": "With tequila: herbal agave notes plus ginger.",
+  "garnish": "lime wedge"
+ },
+ "mezcal_margarita": {
+  "h": "6f86b15d2e",
+  "ingredients": "Mezcal 50 ml; Triple sec 20 ml; Lime juice 20 ml",
+  "difference": "Mezcal instead of tequila: a smoky margarita; tequila and mezcal are often split 50/50.",
+  "garnish": "worm salt (sal de gusano) rim, lime"
+ },
+ "mezcal_negroni": {
+  "h": "674aa20c58",
+  "ingredients": "Mezcal 30 ml; Campari 30 ml; Sweet vermouth 30 ml",
+  "difference": "Gin is replaced with mezcal, adding a smoky note. One of the most popular modern variations.",
+  "garnish": "orange peel"
+ },
+ "michelada_clamato": {
+  "h": "585c42d801",
+  "ingredients": "Light beer (lager) 250 ml; Clamato 90 ml; Lime juice 30 ml; Worcestershire and hot sauce 2 dash; Chili salt for the rim — to taste",
+  "difference": "With Clamato tomato-clam juice: popular in northern Mexico and the US; closer to a Bloody Mary.",
+  "garnish": "chili salt, lime"
+ },
+ "mint_lemonade": {
+  "h": "93b7ceb8be",
+  "ingredients": "Lemon juice 45 ml; Simple syrup 30 ml; Mint leaves 10 pc; Club soda 150 ml",
+  "difference": "With muddled mint; the basic \"lemonade\" at many Russian cafés.",
+  "garnish": "mint"
+ },
+ "negroni_on_tap": {
+  "h": "8319cf469a",
+  "ingredients": "London Dry gin 45 ml; Campari 22.5 ml; Sweet vermouth 22.5 ml",
+  "difference": "A bartender-favorite ratio with double the gin: drier and less sweet than 1:1:1.",
+  "garnish": "orange peel"
+ },
+ "non_alc_mulled": {
+  "h": "f055d71635",
+  "ingredients": "Red grape or cherry juice 200 ml; Orange (slices) 2 pc; Cinnamon, cloves, star anise — to taste; Lemon juice 10 ml",
+  "difference": "Made with grape (or cherry/cranberry) juice; honey usually isn't needed since the juice is already sweet.",
+  "garnish": "orange slice"
+ },
+ "old_fashioned_muddled": {
+  "h": "45b7935e4d",
+  "ingredients": "Brandy or bourbon 45 ml; Sugar cube 1 pc; Angostura bitters 3 dash; Orange slice 1 pc; Cocktail cherry 1 pc; Lemon-lime soda or club soda 60 ml",
+  "difference": "Post-war American version: the orange and cherry are muddled with sugar and topped with lemon-lime soda or club soda. In Wisconsin it's traditionally made with brandy.",
+  "garnish": "orange slice, cherry"
+ },
+ "orgasm_shot": {
+  "h": "2360919c7b",
+  "ingredients": "Amaretto 15 ml; Coffee liqueur 15 ml; Irish cream liqueur (Baileys) 15 ml",
+  "difference": "No vodka: softer and sweeter.",
+  "garnish": "—"
+ },
+ "paloma_fresh": {
+  "h": "fd24c80bb9",
+  "ingredients": "Blanco tequila 50 ml; Fresh grapefruit juice 60 ml; Lime juice 15 ml; Agave syrup 10 ml; Club soda 60 ml; Salt 1 pinch",
+  "difference": "A bar version without ready-made grapefruit soda: fresh juice, agave syrup and club soda make it drier and brighter.",
+  "garnish": "grapefruit, salt"
+ },
+ "penicillin_bourbon": {
+  "h": "d712d7c115",
+  "ingredients": "Bourbon 60 ml; Lemon juice 22.5 ml; Honey-ginger syrup 22.5 ml; Peated Islay Scotch 7.5 ml",
+  "difference": "A common bar swap of blended Scotch for bourbon: sweeter with more vanilla, and the smoke comes only from the float.",
+  "garnish": "candied ginger"
+ },
+ "perfect_manhattan": {
+  "h": "1ff21c706b",
+  "ingredients": "Rye whiskey 50 ml; Sweet vermouth 10 ml; Dry vermouth 10 ml; Angostura bitters 1 dash",
+  "difference": "The vermouth is split equally between sweet and dry, making it drier and lighter than the classic. Usually garnished with a twist instead of a cherry.",
+  "garnish": "lemon peel"
+ },
+ "perfect_martini": {
+  "h": "bcd4468665",
+  "ingredients": "London Dry gin 60 ml; Dry vermouth 7.5 ml; Sweet vermouth 7.5 ml",
+  "difference": "Equal parts dry and sweet vermouth for a rounder flavor.",
+  "garnish": "orange peel"
+ },
+ "perfect_rob_roy": {
+  "h": "1b05350042",
+  "ingredients": "Blended Scotch 50 ml; Sweet vermouth 12.5 ml; Dry vermouth 12.5 ml; Angostura bitters 1 dash",
+  "difference": "Like the Perfect Manhattan, it splits the two vermouths equally; this is the version preferred in Scotland.",
+  "garnish": "lemon peel"
+ },
+ "perroquet": {
+  "h": "815dd1239a",
+  "ingredients": "Pastis 30 ml; Mint syrup 15 ml; Cold water 150 ml",
+  "difference": "With mint syrup: a bright green \"parrot\".",
+  "garnish": "—"
+ },
+ "pisco_sour_chilean": {
+  "h": "d9d9c95ba0",
+  "ingredients": "Chilean pisco 60 ml; Lemon juice (pica) 30 ml; Powdered sugar 2 tsp",
+  "difference": "The Chilean version: lemon instead of lime, usually without egg white or bitters.",
+  "garnish": "—"
+ },
+ "puccini": {
+  "h": "bc7cacc046",
+  "ingredients": "Mandarin juice 50 ml; Prosecco 100 ml",
+  "difference": "With freshly squeezed mandarin juice.",
+  "garnish": "—"
+ },
+ "raspberry_lime_rickey": {
+  "h": "fe56deabee",
+  "ingredients": "Lime juice 30 ml; Raspberry syrup 22.5 ml; Club soda 150 ml",
+  "difference": "A New England classic with raspberry syrup: pink and berry-forward.",
+  "garnish": "raspberry, lime"
+ },
+ "red_snapper": {
+  "h": "3c2a89c5f8",
+  "ingredients": "London Dry gin 45 ml; Tomato juice 90 ml; Lemon juice 15 ml; Worcestershire sauce 2 dash; Tabasco 1 dash; Salt, pepper — to taste",
+  "difference": "Made with gin. In the 1930s at the St. Regis, Petiot's drink was for a time served as the Red Snapper because \"Bloody Mary\" seemed indecent; today the name refers specifically to the gin version.",
+  "garnish": "celery, lemon"
+ },
+ "rossini": {
+  "h": "2a846db8d2",
+  "ingredients": "Strawberry purée 50 ml; Prosecco 100 ml",
+  "difference": "Strawberry instead of white peach.",
+  "garnish": "—"
+ },
+ "rourou": {
+  "h": "98b9594f06",
+  "ingredients": "Pastis 30 ml; Strawberry syrup 15 ml; Cold water 150 ml",
+  "difference": "Rourou is pastis with strawberry syrup, another member of the \"syrup\" family alongside the Mauresque, Perroquet and Tomate.",
+  "garnish": "—"
+ },
+ "roy_rogers": {
+  "h": "df4e6171ae",
+  "ingredients": "Cola 150 ml; Grenadine 15 ml",
+  "difference": "Ginger ale is replaced with cola; named after the cowboy film star.",
+  "garnish": "cocktail cherry"
+ },
+ "royal_fizz": {
+  "h": "bcf072093f",
+  "ingredients": "London Dry gin 45 ml; Lemon juice 30 ml; Simple syrup 15 ml; Whole egg 1 pc; Club soda 60 ml",
+  "difference": "With a whole egg: the richest of the fizzes.",
+  "garnish": "—"
+ },
+ "royal_mojito": {
+  "h": "63189fa483",
+  "ingredients": "White rum 45 ml; Lime juice 20 ml; Cane sugar 2 tsp; Mint leaves 6 pc; Champagne 60 ml",
+  "difference": "Club soda is replaced with Champagne: a festive version.",
+  "garnish": "mint"
+ },
+ "rum_old_fashioned": {
+  "h": "a9d89d182f",
+  "ingredients": "Aged rum 60 ml; Demerara syrup 7.5 ml; Angostura bitters 2 dash",
+  "difference": "Whiskey is swapped for aged rum and sugar for demerara cane syrup: more caramel and tropical fruit.",
+  "garnish": "orange peel"
+ },
+ "rum_sour": {
+  "h": "564dc9ef5e",
+  "ingredients": "Aged rum 50 ml; Lime juice 25 ml; Demerara syrup 20 ml; Egg white (optional) 20 ml",
+  "difference": "Aged rum with lime and cane syrup: more caramel.",
+  "garnish": "lime wedge"
+ },
+ "sambuca_flambe": {
+  "h": "d9a564e13f",
+  "ingredients": "Sambuca 40 ml; Coffee beans 3 pc",
+  "difference": "The sambuca is lit in a snifter, which is then covered with a palm to put out the flame and create a vacuum; you drink it and inhale the vapors through a straw.",
+  "garnish": "—"
+ },
+ "sangria_blanca": {
+  "h": "897e54f391",
+  "ingredients": "Dry white wine 150 ml; Brandy or peach liqueur 20 ml; Peach, apple, citrus (sliced) — to taste; Simple syrup 10 ml; Club soda 30 ml",
+  "difference": "White wine with peaches and citrus: lighter and fresher.",
+  "garnish": "fruit"
+ },
+ "sangria_cava": {
+  "h": "fa8e118393",
+  "ingredients": "Cava (Spanish sparkling wine) 150 ml; Orange liqueur 15 ml; Berries and citrus — to taste",
+  "difference": "A Catalan sparkling version made with cava.",
+  "garnish": "berries"
+ },
+ "sazerac_cognac": {
+  "h": "1c5935fec9",
+  "ingredients": "Cognac 60 ml; Absinthe (rinse) 5 ml; Sugar cube 1 pc; Peychaud's bitters 3 dash",
+  "difference": "The historically original cognac version: softer, fruitier and less spicy than with rye. Often made 50/50 cognac and rye.",
+  "garnish": "lemon peel"
+ },
+ "sbagliato_bianco": {
+  "h": "75ff2543d6",
+  "ingredients": "Bitter bianco 30 ml; Blanc vermouth 30 ml; Prosecco 30 ml",
+  "difference": "A pale version with bitter bianco and blanc vermouth: more floral and softer.",
+  "garnish": "lemon peel"
+ },
+ "sbiten_hmelnoy": {
+  "h": "5ca1cdb7bd",
+  "ingredients": "Water 150 ml; Honey 30 ml; Spices — to taste; Red wine or mead 60 ml",
+  "difference": "The historical \"boozy\" version with wine or mead.",
+  "garnish": "cinnamon"
+ },
+ "scotch_sour": {
+  "h": "52454790ab",
+  "ingredients": "Blended Scotch 50 ml; Lemon juice 25 ml; Honey syrup 20 ml; Egg white (optional) 20 ml",
+  "difference": "Scotch with honey: a malty, slightly smoky version.",
+  "garnish": "lemon peel"
+ },
+ "select_spritz": {
+  "h": "da5d0d52e2",
+  "ingredients": "Prosecco 90 ml; Select Aperitivo 60 ml; Club soda 30 ml",
+  "difference": "The Venetian version with the local Select bitter, traditionally served with a green olive on a pick.",
+  "garnish": "large green olive"
+ },
+ "shandy": {
+  "h": "d3790e5bcb",
+  "ingredients": "Light beer 250 ml; Lemonade (British, carbonated) 250 ml",
+  "difference": "The British and French sibling of the radler; in Britain it's often made with ginger beer (ginger shandy).",
+  "garnish": "—"
+ },
+ "silver_fizz": {
+  "h": "3c7c846a96",
+  "ingredients": "London Dry gin 45 ml; Lemon juice 30 ml; Simple syrup 15 ml; Egg white 20 ml; Club soda 60 ml",
+  "difference": "With egg white: a fluffy foam and silky texture.",
+  "garnish": "—"
+ },
+ "spicy_margarita": {
+  "h": "cbe579119c",
+  "ingredients": "Blanco tequila (or jalapeño-infused) 50 ml; Triple sec or agave syrup 15 ml; Lime juice 25 ml; Jalapeño (slices) 2 pc",
+  "difference": "With jalapeño (muddled or infused) and chili salt. One of the most-ordered margaritas of the 2020s.",
+  "garnish": "chili salt, jalapeño slice"
+ },
+ "straits_sling": {
+  "h": "aa917ca3a6",
+  "ingredients": "London Dry gin 60 ml; Cherry brandy (cherry liqueur) 15 ml; Bénédictine 15 ml; Lemon juice 22.5 ml; Angostura bitters 2 dash; Orange bitters 2 dash; Club soda 60 ml",
+  "difference": "A reconstruction of the early version without pineapple and grenadine: drier, cherry-herbal, with club soda. Many historians consider it closer to the original.",
+  "garnish": "lemon peel"
+ },
+ "strawberry_daiquiri": {
+  "h": "06fc3abedc",
+  "ingredients": "White rum 50 ml; Lime juice 20 ml; Simple syrup 15 ml; Strawberries 5 pc",
+  "difference": "With strawberries (muddled or blended): a sweet, berry-forward and very popular resort version.",
+  "garnish": "strawberry"
+ },
+ "strawberry_margarita": {
+  "h": "db1036f9d1",
+  "ingredients": "Blanco tequila 45 ml; Triple sec 15 ml; Lime juice 20 ml; Strawberries 5 pc; Simple syrup 10 ml",
+  "difference": "With strawberries, usually served frozen: a sweet berry version.",
+  "garnish": "strawberry, sugar rim"
+ },
+ "strawberry_mojito": {
+  "h": "ab65986ef3",
+  "ingredients": "White rum 45 ml; Lime juice 20 ml; Cane sugar 2 tsp; Mint leaves 6 pc; Strawberries 3 pc; Club soda 60 ml",
+  "difference": "Strawberries are muddled with the mint for a sweet berry version. The same works with raspberry, passion fruit or watermelon.",
+  "garnish": "strawberry, mint"
+ },
+ "tarkhun_cocktail": {
+  "h": "016f5bec75",
+  "ingredients": "Gin or vodka 45 ml; Fresh tarragon 4 sprigs; Lemon juice 22.5 ml; Simple syrup 22.5 ml; Club soda 90 ml",
+  "difference": "An alcoholic take on tarragon soda, similar in spirit to the Gin Basil Smash.",
+  "garnish": "tarragon"
+ },
+ "tequila_orange_cinnamon": {
+  "h": "8d69e888ac",
+  "ingredients": "Tequila (gold or reposado) 40 ml; Orange slice 1 pc; Ground cinnamon — to taste",
+  "difference": "A serve popular in bars in Russia and Eastern Europe: instead of salt and lime, an orange slice dusted with cinnamon; it suits aged tequila better.",
+  "garnish": "orange slice with cinnamon"
+ },
+ "tequila_sour": {
+  "h": "a05027d7d9",
+  "ingredients": "Blanco tequila 50 ml; Lime juice 25 ml; Agave syrup 15 ml; Egg white 20 ml",
+  "difference": "Tequila with agave and lime: herbal and fresh.",
+  "garnish": "lime"
+ },
+ "tequila_sunrise_biltmore": {
+  "h": "7a14e7edab",
+  "ingredients": "Blanco tequila 45 ml; Crème de cassis 15 ml; Lime juice 15 ml; Club soda 90 ml",
+  "difference": "The original Arizona Biltmore version: lime, blackcurrant cassis and club soda instead of orange juice and grenadine.",
+  "garnish": "lime wedge"
+ },
+ "tintoretto": {
+  "h": "3b93938049",
+  "ingredients": "Pomegranate juice 50 ml; Prosecco 100 ml",
+  "difference": "With pomegranate juice: tart-sweet and ruby red.",
+  "garnish": "—"
+ },
+ "tokyo_tea": {
+  "h": "bb616e4bcf",
+  "ingredients": "Vodka 15 ml; Gin 15 ml; White rum 15 ml; Tequila 15 ml; Triple sec 15 ml; Melon liqueur (Midori) 15 ml; Lemon juice 25 ml; Lemon-lime soda — top up",
+  "difference": "Midori and lemon-lime soda instead of cola: bright green.",
+  "garnish": "cherry"
+ },
+ "tom_and_jerry": {
+  "h": "4c7f5acdeb",
+  "ingredients": "Dark rum 30 ml; Cognac 30 ml; Egg batter (eggs beaten with sugar and spices) 2 tbsp; Hot milk 120 ml",
+  "difference": "A hot 19th-century eggnog (Pierce Egan, 1820s): the whipped egg \"batter\" is topped with hot milk and spirits.",
+  "garnish": "nutmeg"
+ },
+ "tomate": {
+  "h": "f6334e7f97",
+  "ingredients": "Pastis 30 ml; Grenadine 15 ml; Cold water 150 ml",
+  "difference": "With grenadine: red, fruity and anise-flavored.",
+  "garnish": "—"
+ },
+ "vesper_cocchi": {
+  "h": "22f5eb0281",
+  "ingredients": "London Dry gin 45 ml; Vodka 15 ml; Cocchi Americano 7.5 ml",
+  "difference": "Cocchi Americano, with its quinine, is closer in bitterness to the discontinued Kina Lillet from Fleming's original recipe.",
+  "garnish": "lemon peel"
+ },
+ "virgin_colada": {
+  "h": "b119c8cf38",
+  "ingredients": "Coconut cream 45 ml; Pineapple juice 90 ml; Lime juice 10 ml",
+  "difference": "No rum and a bit more juice: a popular non-alcoholic version.",
+  "garnish": "pineapple, cherry"
+ },
+ "virgin_mary": {
+  "h": "82f2e51421",
+  "ingredients": "Tomato juice 150 ml; Lemon juice 15 ml; Worcestershire sauce 2 dash; Tabasco 1 dash; Salt, pepper — to taste",
+  "difference": "No vodka: a non-alcoholic brunch classic.",
+  "garnish": "celery"
+ },
+ "virgin_mojito": {
+  "h": "dae5ad1bab",
+  "ingredients": "Lime juice 25 ml; Cane sugar 2 tsp; Mint leaves 8 pc; Club soda or Sprite 150 ml",
+  "difference": "No rum: more soda and lime; the best-selling mocktail in the world.",
+  "garnish": "mint, lime"
+ },
+ "vodka_collins": {
+  "h": "0ba2e7b440",
+  "ingredients": "Vodka 45 ml; Lemon juice 30 ml; Simple syrup 15 ml; Club soda 60 ml",
+  "difference": "Vodka instead of gin: a neutral lemonade without herbal notes.",
+  "garnish": "lemon wedge"
+ },
+ "vodka_gimlet": {
+  "h": "7b04752119",
+  "ingredients": "Vodka 60 ml; Lime juice 20 ml; Simple syrup 15 ml",
+  "difference": "With vodka: neutral and as lime-forward as it gets; popular since the 1950s–60s.",
+  "garnish": "lime wedge"
+ },
+ "vodka_martini": {
+  "h": "c10a76337b",
+  "ingredients": "Vodka 60 ml; Dry vermouth 10 ml",
+  "difference": "Gin is replaced with vodka: cleaner and more neutral; this is the \"shaken, not stirred\" drink Bond orders in the films.",
+  "garnish": "lemon peel or olive"
+ },
+ "whiskey_sour_no_egg": {
+  "h": "767bc798c9",
+  "ingredients": "Bourbon 60 ml; Lemon juice 22.5 ml; Simple syrup 22.5 ml",
+  "difference": "The original 19th-century version without egg white: lighter, tarter and drier; vegan-friendly.",
+  "garnish": "lemon wedge, cherry"
+ },
+ "white_cosmo": {
+  "h": "42a2a25c0c",
+  "ingredients": "Citrus vodka 40 ml; Cointreau 15 ml; White cranberry juice 30 ml; Lime juice 15 ml",
+  "difference": "With white cranberry juice: clear and slightly less tart; often served with frozen berries.",
+  "garnish": "frozen cranberries"
+ },
+ "white_mulled_wine": {
+  "h": "e86803d850",
+  "ingredients": "Dry white wine 200 ml; Honey 15 ml; Orange and lemon (slices) 2 pc; Cinnamon, cardamom, star anise — to taste; Ginger (slices) 2 pc",
+  "difference": "With white wine: lighter, paler and more citrusy; cardamom and ginger work best.",
+  "garnish": "citrus slice"
+ },
+ "white_russian_oat": {
+  "h": "0de477e41e",
+  "ingredients": "Vodka 50 ml; Coffee liqueur 20 ml; Oat milk (barista) 40 ml",
+  "difference": "Cream is replaced with oat milk: lighter and vegan-friendly.",
+  "garnish": "—"
+ }
+}

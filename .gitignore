@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.claude/
+data/i18n/**/todo_*.json
+.DS_Store
+Thumbs.db

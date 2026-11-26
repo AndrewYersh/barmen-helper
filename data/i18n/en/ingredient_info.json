@@ -1,0 +1,967 @@
+{
+ "Southern Comfort": {
+  "h": "0cf55071b7",
+  "made_from": "American whiskey-based liqueur with fruit and spice",
+  "taste": "Peach, vanilla, spice"
+ },
+ "Абрикосовый ликёр": {
+  "h": "3dc006c472",
+  "made_from": "Apricot liqueur, often brandy-based",
+  "taste": "Sweet, apricot, almond"
+ },
+ "Абсент": {
+  "h": "9ad6b563d4",
+  "made_from": "Spirit distilled with wormwood, anise and fennel",
+  "taste": "Sharp anise, wormwood bitterness, herbs"
+ },
+ "Агриколь-ром": {
+  "h": "8489a55565",
+  "made_from": "Rum from fresh sugarcane juice (Martinique)",
+  "taste": "Grassy, earthy, fresh cane"
+ },
+ "Агуардиенте": {
+  "h": "8311be0197",
+  "made_from": "Colombian cane spirit flavoured with anise",
+  "taste": "Sweetish anise, liquorice"
+ },
+ "Аквавит": {
+  "h": "22bd779458",
+  "made_from": "Scandinavian spirit flavoured with caraway and dill",
+  "taste": "Caraway, dill, savoury herbs"
+ },
+ "Амаретто": {
+  "h": "cda4b02808",
+  "made_from": "Italian liqueur from apricot kernels or almonds",
+  "taste": "Almond, marzipan, sweet"
+ },
+ "Амаро": {
+  "h": "d2d648856b",
+  "made_from": "Italian bittersweet herbal liqueur",
+  "taste": "Bittersweet, herbs, peel"
+ },
+ "Ананас": {
+  "h": "c7310f767f",
+  "made_from": "Fresh fruit: wedges or purée",
+  "taste": "Sweet, tangy, tropical"
+ },
+ "Ананасовый сироп": {
+  "h": "226a2aa7d4",
+  "made_from": "Sugar syrup with pineapple",
+  "taste": "Sweet, tropical"
+ },
+ "Ананасовый сок": {
+  "h": "b936d88b59",
+  "made_from": "Pineapple juice",
+  "taste": "Sweet, tropical, foams when shaken"
+ },
+ "Ангостура": {
+  "h": "e86aee2e77",
+  "made_from": "Concentrated infusion of herbs and spices, used in dashes",
+  "taste": "Clove, cinnamon, bitterness"
+ },
+ "Анисовый ликёр": {
+  "h": "1644c5af3b",
+  "made_from": "Anise-flavoured liqueur",
+  "taste": "Sweet anise, liquorice"
+ },
+ "Апельсин": {
+  "h": "4290cfa8f0",
+  "made_from": "Fresh fruit: wheel, peel or juice",
+  "taste": "Sweet-tart citrus"
+ },
+ "Апельсиновая газировка": {
+  "h": "86f303861a",
+  "made_from": "Orange-flavoured soda",
+  "taste": "Sweet orange"
+ },
+ "Апельсиновый биттер": {
+  "h": "de0a3f4e07",
+  "made_from": "Infusion of orange peel and spices",
+  "taste": "Bitter orange peel"
+ },
+ "Апельсиновый джем": {
+  "h": "e25903d33a",
+  "made_from": "Orange jam or marmalade",
+  "taste": "Sweet, bitter-edged peel"
+ },
+ "Апельсиновый кюрасао": {
+  "h": "1af4604a3d",
+  "made_from": "Liqueur from bitter orange peel, often brandy-based",
+  "taste": "Orange peel, mellow, sweet"
+ },
+ "Апельсиновый сок": {
+  "h": "3e3da5fb15",
+  "made_from": "Fresh or bottled orange juice",
+  "taste": "Sweet, gently tart"
+ },
+ "Апероль": {
+  "h": "556011d16f",
+  "made_from": "Italian aperitivo with orange, rhubarb and herbs",
+  "taste": "Orange, light bitterness, sweet"
+ },
+ "Арбуз": {
+  "h": "c86aaab2a0",
+  "made_from": "Watermelon flesh or juice",
+  "taste": "Sweet, juicy, fresh"
+ },
+ "Арбузный ликёр": {
+  "h": "2c31443727",
+  "made_from": "Watermelon-flavoured liqueur",
+  "taste": "Sweet, watermelon, candy-like"
+ },
+ "Бадьян": {
+  "h": "e189a5846d",
+  "made_from": "Star anise pods",
+  "taste": "Anise, liquorice"
+ },
+ "Базилик": {
+  "h": "ab4af42e07",
+  "made_from": "Fresh basil leaves",
+  "taste": "Herbal, peppery, fresh"
+ },
+ "Банан": {
+  "h": "f0c9ab7159",
+  "made_from": "Ripe banana for blending",
+  "taste": "Sweet, creamy"
+ },
+ "Банановый ликёр": {
+  "h": "6037397d68",
+  "made_from": "Crème liqueur made from bananas",
+  "taste": "Ripe banana, sweet"
+ },
+ "Безалкогольный аперитив": {
+  "h": "ef3c16179a",
+  "made_from": "Alcohol-free bitter infusion of herbs and citrus",
+  "taste": "Bitterish, citrusy, herbal"
+ },
+ "Белое вино": {
+  "h": "4325a99d41",
+  "made_from": "Wine from white grapes",
+  "taste": "Dry, fruity, fresh"
+ },
+ "Белый вермут": {
+  "h": "976ee41db4",
+  "made_from": "White wine with herbs and sugar (bianco)",
+  "taste": "Sweet, vanilla, flowers"
+ },
+ "Белый ром": {
+  "h": "e313c9b774",
+  "made_from": "Molasses rum, briefly aged and filtered clear",
+  "taste": "Light, sweetish, cane and vanilla"
+ },
+ "Бенедиктин": {
+  "h": "4caf61bb1f",
+  "made_from": "French cognac-based liqueur with 27 herbs",
+  "taste": "Honey, herbs, spice"
+ },
+ "Биттер-лимон": {
+  "h": "8b85d064b6",
+  "made_from": "Soda with lemon and quinine",
+  "taste": "Lemon, light bitterness"
+ },
+ "Блю кюрасао": {
+  "h": "dfdf490e6b",
+  "made_from": "Orange liqueur coloured blue",
+  "taste": "Sweet orange"
+ },
+ "Бурбон": {
+  "h": "c5ab865e55",
+  "made_from": "American whiskey from at least 51% corn, aged in new charred oak",
+  "taste": "Vanilla, caramel, oak"
+ },
+ "Ваниль": {
+  "h": "09dc41e4bf",
+  "made_from": "Vanilla pod or extract",
+  "taste": "Sweet, vanilla"
+ },
+ "Ванильный сироп": {
+  "h": "eddc5cfaca",
+  "made_from": "Sugar syrup with vanilla",
+  "taste": "Sweet, vanilla"
+ },
+ "Виноград": {
+  "h": "f3dfbca697",
+  "made_from": "Fresh grapes",
+  "taste": "Sweet, juicy"
+ },
+ "Вишнёвый ликёр": {
+  "h": "032e951fcf",
+  "made_from": "Cherry liqueur (e.g. Cherry Heering)",
+  "taste": "Dark cherry, sweet, spiced"
+ },
+ "Вода": {
+  "h": "7ca7207217",
+  "made_from": "Still drinking water",
+  "taste": "Neutral"
+ },
+ "Вода апельсинового цвета": {
+  "h": "20c8a4be6b",
+  "made_from": "Orange blossom water, used in drops",
+  "taste": "Floral, neroli"
+ },
+ "Водка": {
+  "h": "ba42b9103e",
+  "made_from": "Rectified grain or potato spirit cut with water",
+  "taste": "Neutral, clean"
+ },
+ "Вустерширский соус": {
+  "h": "302d66a514",
+  "made_from": "English sauce of anchovy, tamarind and vinegar",
+  "taste": "Salty, spiced, umami"
+ },
+ "Гальяно": {
+  "h": "e97c70916c",
+  "made_from": "Italian liqueur with vanilla and anise",
+  "taste": "Vanilla, anise, herbs"
+ },
+ "Гвоздика": {
+  "h": "977dedd56b",
+  "made_from": "Dried clove buds",
+  "taste": "Spicy, warm"
+ },
+ "Говяжий бульон": {
+  "h": "7c5cdec27c",
+  "made_from": "Strong beef broth",
+  "taste": "Salty, meaty, umami"
+ },
+ "Граппа": {
+  "h": "ac778a9eba",
+  "made_from": "Italian brandy distilled from grape pomace",
+  "taste": "Dry, aromatic, grape skins"
+ },
+ "Грейпфрутовая газировка": {
+  "h": "4b56e91747",
+  "made_from": "Grapefruit soda (e.g. Squirt)",
+  "taste": "Sweet-tart grapefruit"
+ },
+ "Грейпфрутовый сок": {
+  "h": "f8c8c2900a",
+  "made_from": "Grapefruit juice",
+  "taste": "Tart and bitter, fresh"
+ },
+ "Гренадин": {
+  "h": "38e0e93219",
+  "made_from": "Pomegranate syrup, often flavoured",
+  "taste": "Sweet, pomegranate, berries"
+ },
+ "Гуава": {
+  "h": "86c15d7517",
+  "made_from": "Guava purée or nectar",
+  "taste": "Tropical, floral, sweet"
+ },
+ "Джин": {
+  "h": "1f78c0800e",
+  "made_from": "Grain spirit redistilled with juniper and botanicals",
+  "taste": "Juniper, citrus peel, pine"
+ },
+ "Драмбуи": {
+  "h": "c08ebf912b",
+  "made_from": "Scotch-based liqueur with heather honey",
+  "taste": "Honey, Scotch, herbs"
+ },
+ "Дынный ликёр": {
+  "h": "bf9f4e9008",
+  "made_from": "Melon liqueur (e.g. Midori)",
+  "taste": "Sweet melon, vivid"
+ },
+ "Дюбонне": {
+  "h": "aa624e934b",
+  "made_from": "French wine-based aperitif with quinine",
+  "taste": "Red wine, spice, gentle bitterness"
+ },
+ "Желе": {
+  "h": "cc684d2217",
+  "made_from": "Gelatine set with juice or liqueur, for jelly shots",
+  "taste": "Depends on the base"
+ },
+ "Золотой ром": {
+  "h": "2de655e5d3",
+  "made_from": "Molasses rum with a short barrel ageing",
+  "taste": "Smooth, vanilla, caramel"
+ },
+ "Игристое вино": {
+  "h": "2c58dfeee4",
+  "made_from": "Wine with bubbles: prosecco, cava and others",
+  "taste": "Fresh, fruity, bubbly"
+ },
+ "Имбирное вино": {
+  "h": "ec3701f745",
+  "made_from": "British fortified wine with ginger",
+  "taste": "Hot ginger, sweet"
+ },
+ "Имбирное пиво": {
+  "h": "280a594ef1",
+  "made_from": "Fizzy ginger drink, usually non-alcoholic",
+  "taste": "Hot ginger, sweet"
+ },
+ "Имбирный эль": {
+  "h": "7aa57dbff0",
+  "made_from": "Mild ginger soda",
+  "taste": "Sweet, gentle ginger"
+ },
+ "Имбирь": {
+  "h": "b03c0acc2c",
+  "made_from": "Fresh ginger root",
+  "taste": "Hot, pungent, fresh"
+ },
+ "Ирисковый шнапс": {
+  "h": "c9f61325ae",
+  "made_from": "Butterscotch-flavoured schnapps",
+  "taste": "Caramel, cream, sweet"
+ },
+ "Ирландский виски": {
+  "h": "b384d830dd",
+  "made_from": "Malt and grain whiskey, usually triple-distilled",
+  "taste": "Smooth, honeyed, fruity"
+ },
+ "Кальвадос": {
+  "h": "753ba24bbc",
+  "made_from": "Apple brandy from Normandy (sometimes with pear)",
+  "taste": "Baked apple, oak"
+ },
+ "Кампари": {
+  "h": "263ff65112",
+  "made_from": "Italian bitter liqueur with herbs and citrus",
+  "taste": "Bold bitterness, orange, herbs"
+ },
+ "Канадский виски": {
+  "h": "b5ea6a8286",
+  "made_from": "Blended whisky, often with rye",
+  "taste": "Light, sweetish, spicy"
+ },
+ "Каркаде": {
+  "h": "96f0960f48",
+  "made_from": "Hibiscus tea",
+  "taste": "Tart, berry-like"
+ },
+ "Кашаса": {
+  "h": "d7abb91eef",
+  "made_from": "Brazilian spirit from fresh sugarcane juice",
+  "taste": "Grassy, fruity, earthy"
+ },
+ "Кирш": {
+  "h": "78fc958ec1",
+  "made_from": "Clear brandy distilled from cherries with their stones",
+  "taste": "Dry, cherry, almond kernel"
+ },
+ "Кленовый сироп": {
+  "h": "0c391477f0",
+  "made_from": "Boiled-down sap of the sugar maple",
+  "taste": "Caramel, woody"
+ },
+ "Клубника": {
+  "h": "11a9872911",
+  "made_from": "Fresh berries or purée",
+  "taste": "Sweet berry"
+ },
+ "Клюквенный сок": {
+  "h": "a0baa561ea",
+  "made_from": "Cranberry juice drink",
+  "taste": "Tart, sour"
+ },
+ "Кокосовая вода": {
+  "h": "dbb53be92d",
+  "made_from": "Liquid from young coconuts",
+  "taste": "Lightly sweet, nutty"
+ },
+ "Кокосовые сливки": {
+  "h": "19f095e777",
+  "made_from": "Thick sweetened coconut cream (Coco López)",
+  "taste": "Sweet coconut"
+ },
+ "Кокосовый ром": {
+  "h": "fb6b374c64",
+  "made_from": "Coconut-flavoured rum (e.g. Malibu)",
+  "taste": "Coconut, sweet"
+ },
+ "Кола": {
+  "h": "13035de1d8",
+  "made_from": "Cola soda with spices",
+  "taste": "Sweet, vanilla, caramel"
+ },
+ "Коньяк / бренди": {
+  "h": "0e79e879f2",
+  "made_from": "Distilled grape wine aged in oak",
+  "taste": "Dried fruit, oak, vanilla"
+ },
+ "Корица": {
+  "h": "4c8f4c5c36",
+  "made_from": "Cinnamon stick or ground cinnamon",
+  "taste": "Warm, sweetly spiced"
+ },
+ "Коричный ликёр": {
+  "h": "7e2a84d032",
+  "made_from": "Cinnamon liqueur or schnapps",
+  "taste": "Hot cinnamon, sweet"
+ },
+ "Коричный сироп": {
+  "h": "1d14b05724",
+  "made_from": "Sugar syrup with cinnamon",
+  "taste": "Sweet, warm cinnamon"
+ },
+ "Кофе": {
+  "h": "2f4528b499",
+  "made_from": "Espresso or strong brewed coffee",
+  "taste": "Bitter, roasted"
+ },
+ "Кофейный ликёр": {
+  "h": "90f3c857c8",
+  "made_from": "Coffee liqueur on a rum or neutral spirit base",
+  "taste": "Coffee, caramel, sweet"
+ },
+ "Красное вино": {
+  "h": "e1b6b9282a",
+  "made_from": "Wine from red grapes",
+  "taste": "Berries, tannins, dry"
+ },
+ "Красный вермут": {
+  "h": "87bdc6c229",
+  "made_from": "Wine aromatised with herbs, spices and caramel",
+  "taste": "Sweet, spiced, herbal, slightly bitter"
+ },
+ "Лайм": {
+  "h": "76a1a65b83",
+  "made_from": "Fresh fruit: wedge, juice or zest",
+  "taste": "Bright acidity, citrus"
+ },
+ "Лаймовый кордиал": {
+  "h": "46b40a00ea",
+  "made_from": "Sweetened lime concentrate (e.g. Rose's)",
+  "taste": "Sweet-tart lime"
+ },
+ "Ликёр 43": {
+  "h": "5a5e5bded5",
+  "made_from": "Spanish liqueur made from 43 ingredients",
+  "taste": "Vanilla, citrus, sweet"
+ },
+ "Ликёр бузины": {
+  "h": "dc13f45405",
+  "made_from": "Elderflower liqueur (e.g. St-Germain)",
+  "taste": "Floral, lychee, pear"
+ },
+ "Ликёр душистого перца": {
+  "h": "7f937c5a3b",
+  "made_from": "Jamaican allspice liqueur (allspice dram)",
+  "taste": "Clove, cinnamon, pepper"
+ },
+ "Ликёр какао": {
+  "h": "694ff2d302",
+  "made_from": "Crème de cacao, white or dark",
+  "taste": "Chocolate, vanilla, sweet"
+ },
+ "Ликёр кассис": {
+  "h": "f7a53c3412",
+  "made_from": "Blackcurrant crème liqueur",
+  "taste": "Blackcurrant, sweet"
+ },
+ "Ликёр личи": {
+  "h": "07782fa717",
+  "made_from": "Lychee liqueur",
+  "taste": "Sweet, floral, lychee"
+ },
+ "Ликёр маракуйи": {
+  "h": "bbe4681464",
+  "made_from": "Passion fruit liqueur (e.g. Passoã)",
+  "taste": "Passion fruit, tropical, sweet"
+ },
+ "Лилле Блан": {
+  "h": "e6b6405213",
+  "made_from": "French aperitif of Bordeaux wine and citrus liqueurs",
+  "taste": "Honey, orange, light bitterness"
+ },
+ "Лимон": {
+  "h": "e16aec544c",
+  "made_from": "Fresh fruit: wedge, juice or zest",
+  "taste": "Sour, fresh citrus"
+ },
+ "Лимонад": {
+  "h": "9053c3e1ae",
+  "made_from": "Sparkling lemon soda",
+  "taste": "Sweet lemon"
+ },
+ "Лимонный сорбет": {
+  "h": "ac461a7d04",
+  "made_from": "Frozen lemon dessert",
+  "taste": "Sweet-tart lemon"
+ },
+ "Лимончелло": {
+  "h": "ff8c328031",
+  "made_from": "Italian liqueur made from lemon zest",
+  "taste": "Bright lemon, sweet"
+ },
+ "Лёд": {
+  "h": "1cd5b393fe",
+  "made_from": "Cubes, a large cube or crushed ice",
+  "taste": "Chills and dilutes the drink"
+ },
+ "Малиновый сироп": {
+  "h": "3968f2d918",
+  "made_from": "Raspberry syrup",
+  "taste": "Sweet raspberry"
+ },
+ "Маракуйя": {
+  "h": "a5e2e3cdce",
+  "made_from": "Passion fruit pulp or purée",
+  "taste": "Sweet-tart tropical"
+ },
+ "Мараскино": {
+  "h": "3b4ee9693e",
+  "made_from": "Liqueur from marasca cherries and their stones",
+  "taste": "Cherry kernel, floral, dry"
+ },
+ "Матча": {
+  "h": "bc57f28fb3",
+  "made_from": "Japanese powdered green tea",
+  "taste": "Grassy, umami, bitterish"
+ },
+ "Медовый ликёр": {
+  "h": "456711f692",
+  "made_from": "Honey liqueur, often whiskey-based",
+  "taste": "Honey, sweet, smooth"
+ },
+ "Медовый сироп": {
+  "h": "8057010f4a",
+  "made_from": "Honey thinned with water",
+  "taste": "Honey, floral"
+ },
+ "Мескаль": {
+  "h": "4a5002be17",
+  "made_from": "Mexican spirit from agave roasted in earthen pits",
+  "taste": "Smoke, roasted agave, earthy"
+ },
+ "Миндальный ликёр": {
+  "h": "db9462a33d",
+  "made_from": "Almond liqueur",
+  "taste": "Almond, sweet"
+ },
+ "Молоко": {
+  "h": "71d8d7146e",
+  "made_from": "Cow's milk",
+  "taste": "Mild, creamy"
+ },
+ "Мороженое": {
+  "h": "8da8a2e43a",
+  "made_from": "Cream or vanilla ice cream",
+  "taste": "Sweet, creamy"
+ },
+ "Мускатный орех": {
+  "h": "40eeab3253",
+  "made_from": "Grated nutmeg",
+  "taste": "Warm, spicy, nutty"
+ },
+ "Мята": {
+  "h": "835e5853dd",
+  "made_from": "Fresh mint leaves",
+  "taste": "Fresh, cooling"
+ },
+ "Мятный ликёр": {
+  "h": "4016046720",
+  "made_from": "Crème de menthe, green or white",
+  "taste": "Mint, sweet, refreshing"
+ },
+ "Мятный сироп": {
+  "h": "29b8173fbf",
+  "made_from": "Sugar syrup with mint",
+  "taste": "Sweet, mint"
+ },
+ "Огурец": {
+  "h": "d63e2dec00",
+  "made_from": "Fresh cucumber: slices or juice",
+  "taste": "Fresh, green"
+ },
+ "Ореховый ликёр": {
+  "h": "bc86aa83c2",
+  "made_from": "Hazelnut or walnut liqueur (Frangelico, Nocino)",
+  "taste": "Toasted nut, vanilla"
+ },
+ "Оршад": {
+  "h": "92c472d574",
+  "made_from": "Almond syrup with orange flower water",
+  "taste": "Almond, marzipan, floral"
+ },
+ "Острый соус": {
+  "h": "26d57c0570",
+  "made_from": "Chilli pepper sauce (e.g. Tabasco)",
+  "taste": "Hot, vinegary"
+ },
+ "Пастис": {
+  "h": "829629d4d4",
+  "made_from": "French anise aperitif with liquorice",
+  "taste": "Anise, liquorice, herbs"
+ },
+ "Пейшо биттер": {
+  "h": "ce70c52359",
+  "made_from": "New Orleans bitters with gentian and anise",
+  "taste": "Anise, cherry, gentle bitterness"
+ },
+ "Персиковое пюре": {
+  "h": "ad8b4d2f71",
+  "made_from": "White peach purée",
+  "taste": "Sweet, velvety"
+ },
+ "Персиковый биттер": {
+  "h": "f8bb3facdd",
+  "made_from": "Bitters with peach and spices",
+  "taste": "Peach, spice"
+ },
+ "Персиковый ликёр": {
+  "h": "3a6a3871e3",
+  "made_from": "Peach liqueur or schnapps",
+  "taste": "Sweet peach"
+ },
+ "Пиво": {
+  "h": "28267d7deb",
+  "made_from": "Fermented malt drink with hops",
+  "taste": "Malt, hop bitterness"
+ },
+ "Пиммс": {
+  "h": "67d987e342",
+  "made_from": "British gin cup with herbs and fruit",
+  "taste": "Fruity, spiced, mellow"
+ },
+ "Писко": {
+  "h": "c868bb10da",
+  "made_from": "Unaged grape brandy from Peru or Chile",
+  "taste": "Floral, grapey, fresh"
+ },
+ "Портвейн": {
+  "h": "b69dc552fb",
+  "made_from": "Portuguese fortified wine",
+  "taste": "Sweet, dark berries, raisin"
+ },
+ "Пряный ром": {
+  "h": "eade4418f4",
+  "made_from": "Rum flavoured with vanilla, cinnamon and other spices",
+  "taste": "Sweet, vanilla, spice"
+ },
+ "Рассол": {
+  "h": "629194ded2",
+  "made_from": "Pickle or olive brine",
+  "taste": "Salty, sour"
+ },
+ "Ржаной виски": {
+  "h": "223e92424e",
+  "made_from": "American whiskey from at least 51% rye",
+  "taste": "Spicy, peppery, dry"
+ },
+ "Розовая вода": {
+  "h": "676e644a52",
+  "made_from": "Rose water, used in drops",
+  "taste": "Floral, rose"
+ },
+ "Сакэ": {
+  "h": "b23c595620",
+  "made_from": "Japanese fermented rice drink",
+  "taste": "Rice, soft, fruity notes"
+ },
+ "Самбука": {
+  "h": "4c50a7614e",
+  "made_from": "Italian anise liqueur",
+  "taste": "Sweet anise, liquorice"
+ },
+ "Сангрита": {
+  "h": "8936d1ccd2",
+  "made_from": "Mexican tequila chaser: orange, tomato, pomegranate and chilli",
+  "taste": "Tangy, spicy, fruity"
+ },
+ "Сахар": {
+  "h": "e8f6526d8f",
+  "made_from": "White or cane sugar",
+  "taste": "Sweet"
+ },
+ "Сахарный сироп": {
+  "h": "ef14b4f16b",
+  "made_from": "Sugar dissolved in water (1:1 or 2:1)",
+  "taste": "Pure sweetness"
+ },
+ "Сгущённое молоко": {
+  "h": "102361d22d",
+  "made_from": "Milk cooked down with sugar",
+  "taste": "Very sweet, caramel"
+ },
+ "Сидр": {
+  "h": "b8b7989591",
+  "made_from": "Fermented apple drink",
+  "taste": "Apple, tart, fresh"
+ },
+ "Сироп агавы": {
+  "h": "a1ae5a4213",
+  "made_from": "Syrup made from agave sap",
+  "taste": "Soft sweetness, light caramel"
+ },
+ "Сироп бузины": {
+  "h": "1794542e72",
+  "made_from": "Elderflower syrup",
+  "taste": "Floral, sweet"
+ },
+ "Сироп личи": {
+  "h": "8d9a2c3da3",
+  "made_from": "Lychee syrup",
+  "taste": "Sweet, floral"
+ },
+ "Сироп рожкового дерева": {
+  "h": "5471e7dbfa",
+  "made_from": "Syrup from carob pods",
+  "taste": "Caramel, cocoa, date"
+ },
+ "Скотч": {
+  "h": "fd1ace0a37",
+  "made_from": "Scotch malt and grain whisky, aged at least 3 years",
+  "taste": "Malt, honey, a hint of smoke"
+ },
+ "Сливки": {
+  "h": "23b47ea74b",
+  "made_from": "Cream, 10–33% fat",
+  "taste": "Creamy, rich"
+ },
+ "Сливочное масло": {
+  "h": "a427c7af9b",
+  "made_from": "Butter, for hot drinks",
+  "taste": "Creamy, slightly salty"
+ },
+ "Сливочный ликёр": {
+  "h": "0d0ec45def",
+  "made_from": "Cream and whiskey liqueur (e.g. Baileys)",
+  "taste": "Cream, vanilla, cocoa"
+ },
+ "Смородиновый сироп": {
+  "h": "7f985ed41d",
+  "made_from": "Blackcurrant syrup",
+  "taste": "Sweet, tart blackcurrant"
+ },
+ "Соджу": {
+  "h": "f207bc0aec",
+  "made_from": "Korean spirit from rice, sweet potato or grain",
+  "taste": "Clean, soft, slightly sweet"
+ },
+ "Содовая": {
+  "h": "e061327c83",
+  "made_from": "Carbonated water",
+  "taste": "Neutral, bubbly"
+ },
+ "Соевый соус": {
+  "h": "a771c06e43",
+  "made_from": "Fermented soy sauce",
+  "taste": "Salty, umami"
+ },
+ "Сок лайма": {
+  "h": "917a198910",
+  "made_from": "Freshly squeezed lime juice",
+  "taste": "Bright acidity"
+ },
+ "Сок лимона": {
+  "h": "7be5f5b939",
+  "made_from": "Freshly squeezed lemon juice",
+  "taste": "Sour, fresh"
+ },
+ "Соль": {
+  "h": "d23a1b8f55",
+  "made_from": "Table salt or salt flakes",
+  "taste": "Salty, lifts flavours"
+ },
+ "Стаут": {
+  "h": "8e0a87f901",
+  "made_from": "Dark beer from roasted malt",
+  "taste": "Coffee, chocolate, roasted malt"
+ },
+ "Сухой вермут": {
+  "h": "80d26595df",
+  "made_from": "White wine with herbs and very little sugar",
+  "taste": "Dry, herbal, floral"
+ },
+ "Сюз": {
+  "h": "b8ef96c9b2",
+  "made_from": "French aperitif made from gentian root",
+  "taste": "Earthy bitterness, citrus"
+ },
+ "Текила": {
+  "h": "6054749024",
+  "made_from": "Mexican spirit from blue agave",
+  "taste": "Agave, pepper, herbs, citrus"
+ },
+ "Томатный сок": {
+  "h": "5da82544b2",
+  "made_from": "Tomato juice",
+  "taste": "Savoury, umami"
+ },
+ "Тоник": {
+  "h": "b2600577cf",
+  "made_from": "Soda with quinine",
+  "taste": "Bitterish, citrus"
+ },
+ "Торфяной скотч": {
+  "h": "927d4198a9",
+  "made_from": "Scotch whisky from malt dried over peat smoke",
+  "taste": "Smoke, peat, iodine, sea salt"
+ },
+ "Трипл-сек": {
+  "h": "1d63896af8",
+  "made_from": "Clear orange liqueur (Cointreau and others)",
+  "taste": "Orange peel, sweet, clean"
+ },
+ "Тёмный ром": {
+  "h": "230f4b43d4",
+  "made_from": "Molasses rum, long-aged or coloured with caramel",
+  "taste": "Molasses, caramel, dried fruit"
+ },
+ "Тёрновый джин": {
+  "h": "f083484836",
+  "made_from": "Gin steeped with sloe berries",
+  "taste": "Tart plum, sweet"
+ },
+ "Уксус": {
+  "h": "742324b259",
+  "made_from": "Wine or cider vinegar",
+  "taste": "Sour"
+ },
+ "Устрица": {
+  "h": "f0d4efd754",
+  "made_from": "Fresh raw oyster",
+  "taste": "Salty, briny"
+ },
+ "Фалернум": {
+  "h": "3e6ff61298",
+  "made_from": "Caribbean liqueur with lime, ginger, clove and almond",
+  "taste": "Lime, clove, ginger"
+ },
+ "Фернет-Бранка": {
+  "h": "511270e98a",
+  "made_from": "Italian amaro made with 27 herbs",
+  "taste": "Very bitter, mint, liquorice"
+ },
+ "Фиалковый ликёр": {
+  "h": "194bb4b1ba",
+  "made_from": "Liqueur made from violet petals (crème de violette)",
+  "taste": "Floral, violet, sweet"
+ },
+ "Фрукты": {
+  "h": "9d3c3b9a1e",
+  "made_from": "Fresh seasonal fruit",
+  "taste": "Sweet, juicy"
+ },
+ "Херес": {
+  "h": "91f3fe62eb",
+  "made_from": "Spanish fortified wine: fino, amontillado, oloroso",
+  "taste": "From dry and nutty to sweet and raisiny"
+ },
+ "Хрен": {
+  "h": "80e4b56b61",
+  "made_from": "Grated horseradish root",
+  "taste": "Pungent, hot"
+ },
+ "Чай": {
+  "h": "5adf157a10",
+  "made_from": "Brewed black or green tea",
+  "taste": "Brisk, tannic"
+ },
+ "Чили": {
+  "h": "46700848d5",
+  "made_from": "Fresh or dried chilli pepper",
+  "taste": "Hot"
+ },
+ "Чёрный перец": {
+  "h": "b064a16399",
+  "made_from": "Ground black pepper",
+  "taste": "Spicy, pungent"
+ },
+ "Шампанское": {
+  "h": "c6eb37bbe6",
+  "made_from": "Sparkling wine from the Champagne region",
+  "taste": "Dry, brioche, fine bubbles"
+ },
+ "Шартрез": {
+  "h": "0c6fa29925",
+  "made_from": "French liqueur of the Carthusian monks with 130 herbs",
+  "taste": "Intense herbs, honey, spice"
+ },
+ "Шведский пунш": {
+  "h": "d2f794b41a",
+  "made_from": "Arrack-based liqueur with tea and spices",
+  "taste": "Spiced, sweet, rummy"
+ },
+ "Шоколад": {
+  "h": "1d3aad3d88",
+  "made_from": "Dark or milk chocolate, grated or melted",
+  "taste": "Cocoa, sweet"
+ },
+ "Шоколадный биттер": {
+  "h": "0001fded31",
+  "made_from": "Bitters made with cacao nibs",
+  "taste": "Dark chocolate, spice"
+ },
+ "Шоколадный сироп": {
+  "h": "aaac6556f9",
+  "made_from": "Cocoa syrup",
+  "taste": "Sweet chocolate"
+ },
+ "Шраб": {
+  "h": "acbf9981e9",
+  "made_from": "Syrup of fruit, sugar and vinegar",
+  "taste": "Sweet-sour, fruity"
+ },
+ "Энергетик": {
+  "h": "ca20a4830d",
+  "made_from": "Fizzy drink with caffeine and taurine",
+  "taste": "Sweet, fruity-sour"
+ },
+ "Эстрагон": {
+  "h": "c785826249",
+  "made_from": "Fresh tarragon leaves",
+  "taste": "Anise-like, herbal"
+ },
+ "Яблоко": {
+  "h": "d94f0f0c14",
+  "made_from": "Fresh fruit: slice or fan",
+  "taste": "Fresh, sweet-tart"
+ },
+ "Яблочный ликёр": {
+  "h": "14263767c6",
+  "made_from": "Apple liqueur or schnapps",
+  "taste": "Green apple, sweet"
+ },
+ "Яблочный сок": {
+  "h": "57a03572a6",
+  "made_from": "Apple juice",
+  "taste": "Sweet, gently tart"
+ },
+ "Ягермайстер": {
+  "h": "608eae3853",
+  "made_from": "German liqueur made with 56 herbs",
+  "taste": "Herbs, liquorice, bittersweet"
+ },
+ "Ягодный ликёр": {
+  "h": "cd9ef28821",
+  "made_from": "Berry liqueur: raspberry, blackberry and others",
+  "taste": "Sweet berries"
+ },
+ "Ягоды": {
+  "h": "065e3ab4f2",
+  "made_from": "Fresh berries: raspberry, blackberry, blueberry",
+  "taste": "Sweet-tart, fragrant"
+ },
+ "Яичный белок": {
+  "h": "2b8269f9b2",
+  "made_from": "Hen's egg white, for foam",
+  "taste": "Nearly tasteless, silky foam"
+ },
+ "Яичный ликёр": {
+  "h": "41f6a10842",
+  "made_from": "Liqueur of egg yolks, sugar and brandy (advocaat)",
+  "taste": "Creamy, vanilla, custard"
+ },
+ "Яйцо": {
+  "h": "f54c743e85",
+  "made_from": "Whole egg for flips and eggnogs",
+  "taste": "Creamy, rich"
+ },
+ "Якульт": {
+  "h": "af040d9e81",
+  "made_from": "Fermented milk drink",
+  "taste": "Sweet-sour, milky"
+ },
+ "Японский виски": {
+  "h": "d2eb1ef38d",
+  "made_from": "Japanese whisky made in the Scotch style",
+  "taste": "Smooth, fruity, floral"
+ }
+}
